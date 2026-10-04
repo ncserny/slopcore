@@ -22,5 +22,27 @@
       }
     ],
     "prompt": "Use case: stylized-concept. Generate an original SLOPCORE hourly fashion transmission, wide landscape cinematic image, inspired by the supplied reference (style and fictional character reference only). Retain the adult fictional MODEL 01: copper-orange messy bob with bangs, freckles, confident face, crinkled metallic silver bomber jacket with an orange four-point star patch. New scene: an abandoned orbital greenhouse above the blue curve of Earth, she kneels among impossibly enormous charcoal-black mushrooms with luminous amber gills, holding a clear petri dish containing a tiny orange four-point star. Mushroom roots weave through obsolete CRT televisions displaying orange abstract waveforms. This is surreal speculative fashion art inspired by research into radiation-resistant melanized fungi; not a literal scientific illustration. Editorial analog photograph, tactile foil, condensation, scratched glass, hard orange grow lights and cold blue Earth light, subtle VHS scanlines, film grain, luxurious detail, intimate low wide-angle perspective. Compose character slightly right of center with tremendous greenhouse depth at left. Orange, silver, coal black, deep space blue. A tasteful tiny broadcast label at upper left reading \"CH 01\", no other typography, no giant headline, no watermark. Produce one beautifully composed complete image."
+  },
+  {
+    "id": "2026-10-04T10",
+    "publishedAt": "2026-10-04T10:00:00Z",
+    "backfilledAt": "2026-10-04T11:48:55.147838+00:00",
+    "origin": "New built-in image generation inspired by the user-supplied strawberry reference",
+    "title": "THE FUTURE TASTES LIKE STRAWBERRIES",
+    "mood": "alpine daydream",
+    "category": "ORIGIN TRANSMISSION / STRAWBERRIES × ALPINE COUTURE",
+    "image": "/images/2026-10-04t10-strawberry-signal.png",
+    "alt": "MODEL 01 in a silver star-patched jacket beside an alpine lake, with a giant strawberry floating above the water and a bright strawberry picnic in the foreground.",
+    "thought": "Before the orbital garden, there was a strawberry and a mountain. Foil catching the sun. Seeds carrying little futures. MODEL 01 takes a bite while the world keeps trying to decide what counts as real.",
+    "caption": "A newly generated strawberry-inspired alpine fashion fantasy, added retrospectively to the previous archive hour at the user’s request.",
+    "question": "If the future had a flavour, would you recognise it on the first bite?",
+    "discovery": "The tiny dots we call strawberry seeds are actually individual fruits called achenes. The red flesh holds them together. A familiar thing can contain an unfamiliar world.",
+    "sources": [
+      {
+        "title": "Kew / The strawberry’s hidden fruits",
+        "url": "https://www.kew.org/plants/garden-strawberry"
+      }
+    ],
+    "prompt": "Create a NEW original SLOPCORE fashion image using the attached strawberry reference only for the fictional adult character, silver jacket, orange star and alpine mood. Do not reproduce the reference composition. Wide 16:9 cinematic analog photograph. MODEL 01, adult woman with messy copper-orange bob, bangs, freckles, metallic silver bomber with orange four-point star, sits on a mirrored emergency blanket on the shore of a turquoise alpine lake. An enormous ripe red strawberry floats just above the water like a tiny moon, with hundreds of golden achenes glinting. She reaches toward a miniature strawberry suspended between her fingertips; reflections turn the snowy mountains upside down. Foreground picnic tray with bright strawberries and orange star sticker. Warm afternoon sun, tactile foil, lush green pine forests, spectacular mountain depth, red-orange-silver palette, subtle film grain and broadcast texture. Original surreal fashion editorial, clearly imagined, not scientific illustration. Keep whole face visible. No cannabis, no drugs, no text, no watermark. Maintain recognisable reference character while making a different scene."
   }
 ]
