@@ -1,12 +1,9 @@
 {
-  "status": "completed",
-  "theme": "Rate your limits",
+  "status": "pending",
+  "theme": "Grog with Guybrush Threepwood",
   "requestedText": [
-    "Rate your limits",
     "SLOPCORE"
   ],
-  "direction": "Create the next new transmission around the exact phrase Rate your limits: a play on API and MCP rate limits, and the frustration of hitting an AI usage cap. Turn the technical ceiling into a witty surreal fashion scene involving MODEL 01 confronting or evaluating her limits, with analog screens or a visual quota barrier. Preserve her copper bob, freckles, metallic silver fashion and orange four-point star. Vary pose and framing from the latest reclining lunar lounge image. Include Rate your limits visibly and legibly; keep SLOPCORE small, clearly legible and secondary to the scene. Research primary documentation for a real sourced discovery about rate limits or AI usage caps, distinguish request-rate throttling from usage quotas, and avoid inventing product limits or reset times. Follow PUBLISHING.md and save the full image prompt and sources.",
-  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours.",
-  "transmissionId": "2026-10-04T14",
-  "completedAt": "2026-10-04T14:53:56.672534Z"
+  "direction": "For the next iteration, create an original playful Monkey Island-inspired scene of fictional adult MODEL 01 drinking grog with Guybrush Threepwood. Include a plastic chicken hanging visibly from a rope as explicitly requested. Use a pirate tavern or dockside social setting with witty adventure-game atmosphere. Preserve MODEL 01’s copper bob, freckles, silver fashion details and orange four-point star; include SLOPCORE small and legible. Depict adult characters with plausible natural anatomy and a fresh pose and framing, avoiding a repeat of the newest standing goodbye-wave composition. Use primary Monkey Island references to inform Guybrush and the rubber-chicken joke; record research honestly and the full prompt. Treat it as original fan art with no claim of official affiliation. Follow PUBLISHING.md.",
+  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours."
 }
