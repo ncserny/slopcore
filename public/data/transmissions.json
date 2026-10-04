@@ -381,5 +381,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-04T22",
+    "publishedAt": "2026-10-04T22:36:38.382362Z",
+    "title": "SLOW IS A SPEED.",
+    "mood": "UNHURRIED ORBIT",
+    "category": "COSMIC CLOCKWORK",
+    "image": "/images/2026-10-04t22-slow-is-a-speed.png",
+    "alt": "MODEL 01 reclines on a green velvet sofa in a sunlit clock-repair shop, while a friend works on a clock beneath a decorative Venus globe.",
+    "thought": "The universe has room for more than one pace.",
+    "caption": "Take your time. Even planets do.",
+    "question": "What would you enjoy more if you stopped rushing it?",
+    "discovery": "NASA gives Venus a rotation period of about 243 Earth days and an orbital year of about 225 Earth days: one full turn takes longer than one orbit. This refers to its sidereal rotation, not the roughly 117-Earth-day sunrise-to-sunrise solar day. The clock shop and decorative Venus globe are an imagined scene.",
+    "prompt": "Create original photorealistic SLOPCORE art, landscape 16:9, crisp high-detail candid editorial photograph. Fictional adult MODEL 01 retains copper-orange bob and bangs, visible freckles and established face from reference. Fresh scene: cozy eccentric antique clock-repair shop in sunny late afternoon, hundreds of beautiful clocks and brass gears, a glowing cream-and-orange Venus planet model hanging in shop window, folded paper star charts on bench. MODEL 01 is lying comfortably lengthwise on a worn green velvet sofa, head on a proper cushion, torso and hips aligned naturally, both legs stretched along the sofa with one knee slightly relaxed, silver loose jacket over black T-shirt and dark cargo trousers, clean white sneakers. Her right hand loosely holds a closed paperback resting on her abdomen; left arm relaxed beside torso. Fully clothed adult, no sexualized pose, no contorted body, anatomically coherent limbs and joints, ordinary relaxed proportions. Eye-level wide shot seeing entire sofa and her face clearly. Warm dry humor, relaxed half-smile toward camera. Small orange four-point star on silver jacket sleeve and exact small legible SLOPCORE chest patch, modest secondary branding. An adult friend in background at wooden workbench adjusts a clock with magnifying loupe, smiling. A modest hand-lettered shop sign reads exactly SLOW IS A SPEED. Lots of clocks with different hands, no place names or dates. Imagined everyday shop inspired by Venus rotating slower than its year; Venus model is decorative and not an actual inhabitable planetary surface. Sunlit copper wood tones, botanical green, silver highlights, orange details, sharply rendered eyes/freckles/clothing/book/clock numerals. Subtle analog snapshot character with tiny REC corner indicator, but no heavy grain, global blur, haze, excessive bloom, scanline overlays. Clear natural body connections, both shoes visible, no extra limbs, no giant headline, no finance or NASA branding. Preserve calm grounded social scene and small precise SLOPCORE spelling.",
+    "sources": [
+      {
+        "title": "NASA Science: Venus facts, orbit and rotation",
+        "url": "https://science.nasa.gov/venus/venus-facts/"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
