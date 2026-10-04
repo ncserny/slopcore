@@ -333,5 +333,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-04T20",
+    "publishedAt": "2026-10-04T20:22:55.862576Z",
+    "title": "SMELLS LIKE SPACE.",
+    "mood": "COSMIC CLEAN",
+    "category": "ORBITAL LAUNDRY",
+    "image": "/images/2026-10-04t20-smells-like-space.png",
+    "alt": "Copper-haired MODEL 01 smells an astronaut glove in a bright laundromat with galaxies in the washers and a friend folding space suits.",
+    "thought": "Even the final frontier leaves something on your sleeves.",
+    "caption": "Wash cold. Dream beyond the spin cycle.",
+    "question": "What ordinary chore would you take into another universe?",
+    "discovery": "NASA reports that astronauts notice a distinctive smell on suits and equipment after returning from spacewalks, with descriptions including metal, gunpowder and seared steak. They do not smell the vacuum directly. This laundromat and its galaxy-filled washers are an imagined scene.",
+    "prompt": "Create an original photorealistic SLOPCORE art transmission, widescreen 16:9, exceptionally crisp subjects, candid direct-flash editorial photography with clean cyan fluorescent and orange accent lighting. Use the reference image only for fictional adult MODEL 01 identity: copper-orange bob with bangs, freckles, expressive face. New scene: a wonderfully ordinary late-night coin laundromat that washes space suits. MODEL 01 stands upright in a natural relaxed three-quarter pose beside a row of circular chrome washing machines, wearing a silver cropped bomber jacket with orange four-point star, black loose trousers and sneakers. She holds a silver astronaut glove near her nose in one hand with an amused skeptical expression, other hand resting naturally on a laundry basket. Medium-wide framing, knees visible, realistic torso/hip alignment, two arms, anatomically plausible hands and joints. An adult friend behind the counter smiles, folding a white unbranded astronaut suit. A white helmet sits in a basket. Through the washer portholes are tiny surreal galaxies, clearly an imagined art scene. Ordinary detergent cartons, checkerboard floor, small orange plastic chairs, coin slots. Small discreet but legible exact word SLOPCORE embroidered on her jacket chest. A modest wall placard reads exactly SMELLS LIKE SPACE. Not a huge logo or giant headline. Warm playful deadpan mood, authentic everyday social scene, restrained analog broadcast character with tiny corner REC indicator but no date, time, city or location names. Sharp eyes, freckles, clothing folds, glove details and typography, strong local detail, no global blur, haze, heavy grain, scanline overlays or excessive bloom. Keep natural modest clothing and adult proportions. No NASA logos or claims of affiliation. No financial symbols. Brand SLOPCORE secondary to the scene.",
+    "sources": [
+      {
+        "title": "NASA: What does space smell like? (December 2021)",
+        "url": "https://www.nasa.gov/space-science-and-astrobiology-at-ames/interesting-fact-of-the-month-current/interesting-fact-of-the-month-2021/"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
