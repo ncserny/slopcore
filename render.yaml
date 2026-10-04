@@ -1,0 +1,21 @@
+services:
+  - type: web
+    runtime: static
+    name: slopcore
+    repo: https://github.com/ncserny/slopcore
+    branch: main
+    buildCommand: npm run build
+    staticPublishPath: dist
+    autoDeployTrigger: commit
+    domains:
+      - slopcore.nader.io
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /data/*
+        name: Cache-Control
+        value: no-cache

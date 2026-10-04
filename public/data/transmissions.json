@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2026-10-04T11",
+    "publishedAt": "2026-10-04T11:41:00Z",
+    "title": "THE GARDEN EATS THE STATIC",
+    "mood": "radioactive bloom",
+    "category": "TRANSMISSION 001 / BIOLOGY × ORBITAL COUTURE",
+    "image": "/images/2026-10-04-garden-eats-static.png",
+    "alt": "SLOPCORE's freckled copper-haired model in a silver star-patched jacket holds an orange star in a petri dish, among enormous black mushrooms and CRT screens in an orbital greenhouse above Earth.",
+    "thought": "The future grew in the room everyone abandoned. A black bloom, a broken screen, a little star held up to the light. MODEL 01 has found a garden that does not wait for the world to become hospitable.",
+    "caption": "An imagined orbital greenhouse. The enormous glowing mushrooms are a fashion fantasy inspired by real fungal research.",
+    "question": "What if the thing we call waste is just a future we have not learned to grow?",
+    "discovery": "Researchers found that ionizing radiation enhanced growth in certain melanized fungi under laboratory conditions. NASA also studies fungal survival in space. The idea of a living orbital garden is our speculative leap.",
+    "sources": [
+      {
+        "title": "PLOS ONE / Melanin, radiation & fungal growth",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000457"
+      },
+      {
+        "title": "NASA / Why study fungi in space?",
+        "url": "https://science.nasa.gov/biological-physical/stories/why-is-nasa-studying-fungi/"
+      }
+    ],
+    "prompt": "Use case: stylized-concept. Generate an original SLOPCORE hourly fashion transmission, wide landscape cinematic image, inspired by the supplied reference (style and fictional character reference only). Retain the adult fictional MODEL 01: copper-orange messy bob with bangs, freckles, confident face, crinkled metallic silver bomber jacket with an orange four-point star patch. New scene: an abandoned orbital greenhouse above the blue curve of Earth, she kneels among impossibly enormous charcoal-black mushrooms with luminous amber gills, holding a clear petri dish containing a tiny orange four-point star. Mushroom roots weave through obsolete CRT televisions displaying orange abstract waveforms. This is surreal speculative fashion art inspired by research into radiation-resistant melanized fungi; not a literal scientific illustration. Editorial analog photograph, tactile foil, condensation, scratched glass, hard orange grow lights and cold blue Earth light, subtle VHS scanlines, film grain, luxurious detail, intimate low wide-angle perspective. Compose character slightly right of center with tremendous greenhouse depth at left. Orange, silver, coal black, deep space blue. A tasteful tiny broadcast label at upper left reading \"CH 01\", no other typography, no giant headline, no watermark. Produce one beautifully composed complete image."
+  }
+]
