@@ -24,6 +24,31 @@
     "prompt": "Use case: stylized-concept. Generate an original SLOPCORE hourly fashion transmission, wide landscape cinematic image, inspired by the supplied reference (style and fictional character reference only). Retain the adult fictional MODEL 01: copper-orange messy bob with bangs, freckles, confident face, crinkled metallic silver bomber jacket with an orange four-point star patch. New scene: an abandoned orbital greenhouse above the blue curve of Earth, she kneels among impossibly enormous charcoal-black mushrooms with luminous amber gills, holding a clear petri dish containing a tiny orange four-point star. Mushroom roots weave through obsolete CRT televisions displaying orange abstract waveforms. This is surreal speculative fashion art inspired by research into radiation-resistant melanized fungi; not a literal scientific illustration. Editorial analog photograph, tactile foil, condensation, scratched glass, hard orange grow lights and cold blue Earth light, subtle VHS scanlines, film grain, luxurious detail, intimate low wide-angle perspective. Compose character slightly right of center with tremendous greenhouse depth at left. Orange, silver, coal black, deep space blue. A tasteful tiny broadcast label at upper left reading \"CH 01\", no other typography, no giant headline, no watermark. Produce one beautifully composed complete image."
   },
   {
+    "id": "2026-10-04T10-wytiwyg",
+    "publishedAt": "2026-10-04T10:30:00Z",
+    "backfilledAt": "2026-10-04T12:05:28.567Z",
+    "origin": "User-requested interlude, newly generated and inserted between existing archive entries",
+    "title": "WYTIWYG — TYPE THE DREAM",
+    "mood": "language becomes matter",
+    "category": "INTERLUDE / THE NEW WYSIWYG IN AN AI WORLD",
+    "image": "/images/2026-10-04t10-wytiwyg.png",
+    "alt": "SLOPCORE's copper-haired model types at an ivory keyboard in an orange-lit CRT studio as glowing words transform into silver fabric, an orange star and a miniature mountain world. A screen reads WYTIWYG: WHAT YOU TYPE IS WHAT YOU GET.",
+    "thought": "WYTIWYG = What you type is what you get. The new WYSIWYG in an AI world. Once, the screen promised to show you the finished page. Now, a sentence can open a world. MODEL 01 types a little light into the dark, and the dream starts taking shape.",
+    "caption": "A surreal image of typed language becoming physical reality. Created as a requested interlude and placed between the strawberry and orbital-garden transmissions; its archive position is retrospective.",
+    "question": "If your next sentence could become a world, what would you type?",
+    "discovery": "WYSIWYG means “What You See Is What You Get”: editors show how a document will look. Text-to-image AI lets written prompts guide image creation. WYTIWYG is this transmission’s creative reframing of that shift, rather than a promise that AI follows every word perfectly.",
+    "sources": [
+      {
+        "title": "Computer History Museum / WYSIWYG and the Xerox Alto",
+        "url": "https://www.computerhistory.org/revolution/input-output/14/347"
+      },
+      {
+        "title": "OpenAI / Creating images with written prompts",
+        "url": "https://openai.com/academy/image-generation/"
+      }
+    ]
+  },
+  {
     "id": "2026-10-04T10",
     "publishedAt": "2026-10-04T10:00:00Z",
     "backfilledAt": "2026-10-04T11:48:55.147838+00:00",
