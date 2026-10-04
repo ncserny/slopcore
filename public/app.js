@@ -2,6 +2,12 @@ const $ = (id) => document.getElementById(id);
 let entries = [], selected = 0;
 const fmt = new Intl.DateTimeFormat('en-GB', {dateStyle:'medium', timeStyle:'short', timeZone:'Europe/Berlin'});
 const safeLink = (value) => {try {const u = new URL(value);return u.protocol === 'https:' ? u.href : null;}catch{return null;}};
+function pageTitle(title) {
+  const name = title.toLowerCase()
+    .replace(/(^|[.!?]\s+|—\s+)(\p{L})/gu, (_, prefix, letter) => prefix + letter.toUpperCase())
+    .replace(/\b(wytiwyg|wysiwyg|slopcore)\b/gi, word => word.toUpperCase());
+  return `${name} SLOPCORE – Don't sell the dream`;
+}
 function render() {
   const entry = entries[selected]; if (!entry) return;
   $('channel').textContent = `CH ${String(entries.length - selected).padStart(3,'0')} / ${entry.mood.toUpperCase()}`;
@@ -15,7 +21,7 @@ function render() {
   for(const source of entry.sources) {const href = safeLink(source.url);if(!href)continue;const a = document.createElement('a');a.href=href;a.target='_blank';a.rel='noopener noreferrer';a.textContent=`${source.title} ↗`;$('sources').append(a);}
   for(const [i, card] of Array.from($('archive').children).entries()) card.setAttribute('aria-pressed', String(i === selected));
   const u = new URL(location.href);u.searchParams.set('hour',entry.id);history.replaceState(null,'',u);
-  document.title = "SLOPCORE – Don't sell the dream.";
+  document.title = pageTitle(entry.title);
   updateClock();
 }
 function updateClock() {
