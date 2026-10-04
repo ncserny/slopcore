@@ -23,3 +23,7 @@ Follow [PUBLISHING.md](PUBLISHING.md). Add an original generated asset under `pu
 The user supplied `brand/rendered-early.png` and `brand/strawberries.png`. The official visual vocabulary is MODEL 01 (an adult fictional model with a copper bob and freckles), silver clothing, an orange four-point star, and analog broadcast textures. This is an unofficial community art experiment, not the official token site.
 
 Full generation prompts and research sources are saved with each transmission. Built-in Codex image generation produced the first piece. Scheduling runs locally through a Codex hourly heartbeat; the computer and Codex must be available. No GitHub Actions schedule or separately billed image API is configured.
+
+## Analytics
+
+The gallery uses nader.io’s GA4 measurement ID `G-K6K8ZZDZWT`, with the same deferred loader. Standard page views go to the existing property; filter reports by hostname `slopcore.nader.io` to see this gallery’s traffic.
