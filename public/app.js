@@ -5,7 +5,7 @@ const safeLink = (value) => {try {const u = new URL(value);return u.protocol ===
 function render() {
   const entry = entries[selected]; if (!entry) return;
   $('channel').textContent = `CH ${String(entries.length - selected).padStart(3,'0')} / ${entry.mood.toUpperCase()}`;
-  $('published').textContent = `${fmt.format(new Date(entry.publishedAt))} / BERLIN`;
+  $('published').textContent = `${fmt.format(new Date(entry.publishedAt))}`;
   $('hero-image').src = entry.image; $('hero-image').alt = entry.alt;
   $('full-image').href = entry.image;
   for (const field of ['title','thought','caption','question','discovery','category']) $(field).textContent = entry[field];

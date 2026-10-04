@@ -12,3 +12,5 @@ The user authorizes an original SLOPCORE image and direct publication to public 
 8. Stay quiet after routine successful runs. Notify the user only about a failure, a material change, or required action. A failed push or failed deployment is not a successful publication. Do not post to X or message other people.
 
 Hourly scheduling is a local Codex heartbeat. It depends on the computer and Codex being available; missed hours are not fabricated or backfilled.
+
+User display preference: Never show a city or location name beside timestamps. Preserve existing time formatting and omit the location suffix. This applies to all future site edits and transmissions.
