@@ -1,5 +1,29 @@
 [
   {
+    "id": "2026-10-04T12",
+    "title": "RUN ON FALLEN STARS",
+    "mood": "meteor smoke",
+    "category": "TRANSMISSION / NIGHT-SHINING CLOUDS × RUNWAY",
+    "image": "/images/2026-10-04t12-fallen-stars.png",
+    "alt": "MODEL 01, copper bob and silver star-patched jacket, runs across a glass runway above electric-blue clouds and Earth’s dark curve, beside a glowing orange SLOPCORE sign.",
+    "thought": "Some stars leave quietly. Their dust stays behind, and ice learns to glow around it. MODEL 01 runs across an imagined sky stitched from those leftovers. The dream does not end when the light falls. It changes material.",
+    "caption": "An imagined runway at the edge of the atmosphere. The running figure and walkable clouds are speculative fashion imagery inspired by noctilucent clouds.",
+    "question": "What could you make from the light somebody else left behind?",
+    "discovery": "NASA’s AIM mission detected meteoric material in noctilucent clouds. These night-shining clouds contain tiny ice crystals that form around particles high in the atmosphere and can catch sunlight after sunset below.",
+    "sources": [
+      {
+        "title": "NASA / Meteor smoke makes strange clouds",
+        "url": "https://www.nasa.gov/missions/aim/meteor-smoke-makes-strange-clouds/"
+      },
+      {
+        "title": "NASA / Night-shining clouds from the space station",
+        "url": "https://www.nasa.gov/image-article/space-station-view-of-noctilucent-clouds/"
+      }
+    ],
+    "prompt": "Use case: stylized-concept. One original SLOPCORE hourly transmission, wide 16:9 cinematic fashion photograph. Reference image is fictional character and brand reference only. MODEL 01 is an adult with copper-orange bob, bangs and freckles, in a metallic silver bomber with orange four-point star, silver trousers and boots. NEW POSE: show her entire body running in a powerful side-on stride across an impossible transparent glass runway at the edge of the atmosphere, jacket billowing, arms naturally bent, both hands anatomically correct. Her face visible in three-quarter profile. Beneath the runway, delicate electric-blue noctilucent cloud ripples float above Earth's dark curve. Tiny meteor trails become luminous ice particles around her boots. Sunset orange horizon, deep indigo sky, silver-blue wisps, tactile crinkled foil, analog film grain and subtle VHS edge texture. Low tracking-camera wide composition, full figure placed in left third with open glowing sky and cosmic cloud depth at right. Integrate the EXACT word \"SLOPCORE\" large, crisp and legible as an orange illuminated runway sign on the right; spell S L O P C O R E. This required brand name must be visible and readable within the image. No other text or watermark. Surreal speculative fashion scene inspired by real meteor-dust-seeded night-shining clouds, not a literal scientific illustration. Maintain recognisable fictional reference face while producing a wholly new image and active running pose.",
+    "publishedAt": "2026-10-04T12:49:00.380559Z"
+  },
+  {
     "id": "2026-10-04T10-wytiwyg",
     "publishedAt": "2026-10-04T12:07:51.087190Z",
     "origin": "User-requested WYTIWYG transmission, promoted to the newest archive entry",
