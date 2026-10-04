@@ -1,10 +1,11 @@
 {
-  "status": "pending",
+  "status": "published",
   "theme": "Rate your limits",
   "requestedText": [
     "Rate your limits",
     "SLOPCORE"
   ],
   "direction": "Create the next new transmission around the exact phrase Rate your limits: a play on API and MCP rate limits, and the frustration of hitting an AI usage cap. Turn the technical ceiling into a witty surreal fashion scene involving MODEL 01 confronting or evaluating her limits, with analog screens or a visual quota barrier. Preserve her copper bob, freckles, metallic silver fashion and orange four-point star. Vary pose and framing from the latest reclining lunar lounge image. Include Rate your limits visibly and legibly; keep SLOPCORE small, clearly legible and secondary to the scene. Research primary documentation for a real sourced discovery about rate limits or AI usage caps, distinguish request-rate throttling from usage quotas, and avoid inventing product limits or reset times. Follow PUBLISHING.md and save the full image prompt and sources.",
-  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours."
+  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours.",
+  "transmissionId": "2026-10-04T14"
 }

@@ -185,5 +185,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-04T14",
+    "publishedAt": "2026-10-04T14:50:57.333968Z",
+    "title": "RATE YOUR LIMITS",
+    "mood": "THROTTLED AMBITION",
+    "category": "CAPACITY REVIEW",
+    "image": "/images/2026-10-04t14-rate-your-limits.png",
+    "alt": "MODEL 01 kneels at five orange star buttons beside a glowing quota wall. CRTs read Rate your limits, API 429, MCP PAUSED and AI USAGE LIMIT; her silver jacket carries a small SLOPCORE patch.",
+    "thought": "Your imagination has more requests than the service can take. Rate the wait.",
+    "caption": "Five stars for ambition. Please retry later.",
+    "question": "How many stars would you give the limit you hit today?",
+    "discovery": "Claude’s API documentation distinguishes request-rate limits from spend caps. Rate throttling can return HTTP 429 with a retry-after header; reaching a spend cap is a different condition. The glowing wall, star-rating console and MCP pause panel are imagined metaphors for hitting an AI limit, not a real product interface.",
+    "prompt": "Create an original wide 16:9 cinematic SLOPCORE fashion photograph themed exactly \"Rate your limits\". Reference image supplies only fictional adult MODEL 01 identity and aesthetic: copper-orange bob with bangs, freckles, metallic silver bomber, orange four-point star. New scene is a surreal analog AI service help desk at the end of a chrome tunnel. A glowing orange translucent wall blocks the tunnel like a literal usage-limit barrier. MODEL 01 is kneeling on one knee at a low retro control console, one hand hovering over a row of five orange star rating buttons as if reviewing the barrier, her other hand resting against the luminous wall. She turns toward camera with a wry amused expression: your creativity is ready but the service is not. Natural believable kneeling pose, medium-wide three-quarter side view, silver bomber with black top and silver trousers, chrome boots. Main CRT above the console reads exactly \"Rate your limits\" in clean white lettering, fully legible and inside margins. Three smaller CRT panels read exactly \"API 429\", \"MCP PAUSED\", and \"AI USAGE LIMIT\". These are fictional scene props, not a real provider interface. An orange four-point star signal glows beyond the wall and little chrome letter-like particles queue behind glass. A small woven jacket patch reads exactly \"SLOPCORE\", spell S-L-O-P-C-O-R-E, clearly legible but understated, no huge branding. Dark studio, cold silver light, vivid orange barrier, tactile polished metal and crumpled foil fabric, surreal high fashion, faint analog scanlines and photographic film grain. Humor of rating the limit that stopped you, not bypassing it. Don't use walking, running, seated portrait or reclining poses. No real company logos, no claims about specific limits or reset times, no financial imagery, no watermark or extra text. Preserve all main text and subject within a safe central 16:9 composition.",
+    "sources": [
+      {
+        "title": "Claude API documentation — rate limits and spend caps",
+        "url": "https://platform.claude.com/docs/en/api/rate-limits"
+      },
+      {
+        "title": "SLOPCORE — official lookbook",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
