@@ -1,7 +1,12 @@
 {
-  "status": "pending",
+  "status": "published",
   "theme": "It's so OVER … We're so BACK!!",
-  "requestedText": ["It’s so OVER …", "We’re so BACK!!", "SLOPCORE"],
+  "requestedText": [
+    "It’s so OVER …",
+    "We’re so BACK!!",
+    "SLOPCORE"
+  ],
   "direction": "Create the next hourly image around a dramatic reversal from collapse to comeback. Use the phrases visibly in a coherent SLOPCORE fashion scene, with MODEL 01 in a new pose unlike the previous running image. Keep the copper bob, freckles, silver fashion, orange star and analog broadcast aesthetic. The user referenced Elon Musk as inspiration; verify any direct attribution with a primary source before including it in published metadata. The phrase can stand alone as a meme theme without a claim of endorsement or a financial prediction.",
-  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours."
+  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours.",
+  "transmissionId": "2026-10-04T1316-over-back"
 }
