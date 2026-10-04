@@ -137,5 +137,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-04T13",
+    "publishedAt": "2026-10-04T13:50:09.156844Z",
+    "title": "MOON SOON",
+    "mood": "LUNAR ANTICIPATION",
+    "category": "DEPARTURE LOUNGE",
+    "image": "/images/2026-10-04t13-moon-soon.png",
+    "alt": "MODEL 01 reclines on a chrome luggage conveyor under a moon soon departure board, with Earth and a gigantic Moon beyond the window. A small orange luggage tag reads SLOPCORE.",
+    "thought": "The Moon is drifting away. The dream still knows the way.",
+    "caption": "Destination: the dream. Boarding: soon.",
+    "question": "What would you pack for a one-way trip to your dream?",
+    "discovery": "NASA reports that lunar laser ranging revealed the Moon recedes from Earth by about 3.8 centimeters per year. The departure lounge and orange light bridge are imagined fashion scenery inspired by those reflected signals.",
+    "prompt": "Create an original wide 16:9 cinematic surreal SLOPCORE fashion photograph themed \"moon soon\". Reference image only supplies the fictional adult MODEL 01 identity: copper-orange bob with bangs, freckles, metallic silver fashion and orange four-point star. New scene: a chrome lunar departure lounge suspended above Earth's curved blue horizon, with a gigantic realistic cratered Moon just beyond its open panoramic window. MODEL 01 is lying sideways lengthwise on a narrow chrome luggage conveyor like a relaxed traveler impatient for boarding, propped on one elbow, knees loosely bent and silver boots extending toward the window. She looks at the Moon with a playful knowing smile, face in three-quarter view visible to camera, not bending to touch grass, running or standing triumphantly. Silver bomber over a black top, silver trousers, orange four-point star on sleeve, tangible foil textile. An orange luminous four-point star acts as the boarding gate lamp, a thin orange laser-like line joins a small mirrored reflector beside the conveyor to the distant Moon as a poetic imagined echo of lunar laser ranging. Modest retro departure board at upper left reads exactly \"moon soon\" in luminous lowercase orange letters, fully readable and inside image margins. Exact brand \"SLOPCORE\" appears small and clearly legible on a luggage tag hanging from a silver suitcase near foreground; spell S-L-O-P-C-O-R-E. Keep brand secondary to the scene; no giant wordmark. Wide camera from slightly above conveyor level, elegant diagonal composition, black space, blue Earth glow, lunar silver and orange accents. Analog broadcast grain, faint scanlines and subtle chromatic fringe, editorial photographic realism with dreamlike scale. Quiet anticipation, cheeky optimism, destination rather than finance. No extra text, no logos besides SLOPCORE, no watermark, no charts or financial prediction. Main model, board, brand tag all within central safe 16:9 framing.",
+    "sources": [
+      {
+        "title": "NASA — Laser beams reflected between Earth and Moon boost science",
+        "url": "https://www.nasa.gov/missions/laser-beams-reflected-between-earth-and-moon-boost-science/"
+      },
+      {
+        "title": "SLOPCORE — official lookbook",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
