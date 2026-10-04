@@ -233,5 +233,33 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-04T15",
+    "publishedAt": "2026-10-04T16:44:30.925718Z",
+    "title": "GROG & GOOD STORIES",
+    "mood": "POINT-AND-SIP",
+    "category": "INVENTORY FULL",
+    "image": "/images/2026-10-04t15-grog-good-stories.png",
+    "alt": "MODEL 01 drinks grog beside Guybrush Threepwood in a candlelit harbor tavern. A yellow plastic chicken hangs from a rope between them, and a small SLOPCORE patch marks her silver jacket.",
+    "thought": "Every impossible quest deserves a pause for an improbable story.",
+    "caption": "Two mugs. One chicken. Absolutely a plan.",
+    "question": "What ridiculous object would you bring on your next adventure?",
+    "discovery": "The publisher’s Return to Monkey Island description brings Guybrush Threepwood back to point-and-click puzzles, bizarre situations and witty dialogue. This imagined fan-art tavern meeting combines that adventure spirit with the user-requested grog and hanging plastic chicken.",
+    "prompt": "Create an original wide 16:9 photorealistic playful fan-art crossover photograph: adult fictional SLOPCORE MODEL 01 drinking grog with adult Guybrush Threepwood from Monkey Island in a cozy pirate tavern overlooking a moonlit harbor. Reference image supplies only MODEL 01 identity: copper-orange bob and bangs, freckles, metallic silver bomber with orange four-point star. Guybrush is recognizably the lanky blond would-be mighty pirate, tied-back blond hair, white loose shirt, blue long pirate coat, brown belt, amused friendly expression. Both adults sit comfortably on separate simple wooden stools at a rough wooden tavern table, natural upright torsos and untwisted level hips, relaxed knees and boots placed plausibly below table. MODEL 01 lifts a pewter mug of grog to her lips, Guybrush holds his own mug at chest height while telling a funny story, a spontaneous candid social moment. Show hands gripping mug handles correctly, two arms each, realistic proportions and believable limb connections. Clear foreground object: a bright yellow molded PLASTIC toy chicken with red comb and silly bulging eyes hangs vertically from a coarse rope tied around its torso, suspended from the overhead beam between the two characters and slightly behind table; unmistakably a plastic chicken hanging on a rope, not a real animal. Wooden walls, barrels, warm candlelight, sea-green harbor moonlight, pirate ships and ropes through open window, friendly eccentric patrons softly blurred. Add a tiny orange four-point star lamp beside table as SLOPCORE accent. Small woven jacket label reads exactly \"SLOPCORE\", spell S-L-O-P-C-O-R-E, clearly legible and understated. A modest chalkboard behind reads \"GROG & GOOD STORIES\". Flash-lit candid photography mixed with cinematic atmosphere, gentle film grain and faint analog texture, playful adventure-game absurdity made tangible. Medium-wide eye-level camera with both faces, mugs and the hanging chicken plainly visible inside margins. Original fan-art scene, no official logos, no screenshot or imitation game interface, no watermark. Keep anatomy simple and natural, no contorted pose.",
+    "sources": [
+      {
+        "title": "Return to Monkey Island — publisher’s game description",
+        "url": "https://store.steampowered.com/app/2060130/Return_to_Monkey_Island/"
+      },
+      {
+        "title": "Return to Monkey Island — official website",
+        "url": "https://returntomonkeyisland.com/"
+      },
+      {
+        "title": "SLOPCORE — official lookbook",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]

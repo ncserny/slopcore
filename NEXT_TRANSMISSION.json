@@ -1,9 +1,10 @@
 {
-  "status": "pending",
+  "status": "published",
   "theme": "Grog with Guybrush Threepwood",
   "requestedText": [
     "SLOPCORE"
   ],
   "direction": "For the next iteration, create an original playful Monkey Island-inspired scene of fictional adult MODEL 01 drinking grog with Guybrush Threepwood. Include a plastic chicken hanging visibly from a rope as explicitly requested. Use a pirate tavern or dockside social setting with witty adventure-game atmosphere. Preserve MODEL 01’s copper bob, freckles, silver fashion details and orange four-point star; include SLOPCORE small and legible. Depict adult characters with plausible natural anatomy and a fresh pose and framing, avoiding a repeat of the newest standing goodbye-wave composition. Use primary Monkey Island references to inform Guybrush and the rubber-chicken joke; record research honestly and the full prompt. Treat it as original fan art with no claim of official affiliation. Follow PUBLISHING.md.",
-  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours."
+  "completion": "Use this theme for exactly one successful transmission. Record its transmission id here when publishing. On retries, check whether that id is already in the archive and finish deploying it instead of generating another. Mark the request completed after verifying it is live, then resume choosing varied subjects for later hours.",
+  "transmissionId": "2026-10-04T15"
 }
