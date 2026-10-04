@@ -113,5 +113,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-04T1337-touch-grass",
+    "publishedAt": "2026-10-04T13:37:29.225943Z",
+    "title": "GO OUTSIDE. TOUCH GRASS.",
+    "mood": "SUNLIT RELIEF",
+    "category": "EXIT THE STATIC",
+    "image": "/images/2026-10-04t1337-touch-grass.png",
+    "alt": "Copper-haired MODEL 01 emerges through a stormy wall of CRT screens into a sunny meadow, smiling and touching grass. A small SLOPCORE jacket label and Go outside. Touch grass. sign are visible.",
+    "thought": "The world outside the feed still has sunlight. Step through.",
+    "caption": "Leave the doom. Keep the dream.",
+    "question": "What would you leave on the other side of the doorway?",
+    "discovery": "A 2015 PNAS study investigated nature experience and repetitive negative thinking. This imagined escape from a wall of screens turns the user’s touch-grass theme into a literal threshold between static and sunlight.",
+    "prompt": "Create an original wide 16:9 photorealistic SLOPCORE fashion art image about \"Go outside, touch grass.\" Reference image is identity and aesthetic only: fictional adult MODEL 01, copper-orange bob with bangs, freckles, metallic silver bomber jacket, orange four-point star patch. Show one MODEL 01 escaping a dark doom-filled digital world into a lush green sunny joyful meadow. At the left third a jagged doorway torn through a wall of oppressive black CRT screens, tangled cables, storm clouds and cold static; beyond it no darkness follows her. Main scene occupies the right two-thirds: vibrant emerald grass, wild daisies, butterflies, warm golden sun, blue sky, fresh wind. She has just stepped barefoot out of the doorway and now bends down in a playful forward lunge, one knee bent, her right palm and fingers clearly brushing the living grass, her face turned slightly toward camera in a spontaneous joyful laugh, silver jacket open over simple black top and silver shorts. Her left arm trails behind toward the doorway, body moving into daylight; natural believable anatomy. Three-quarter full-body view at grass height, not a triumphant arms-raised pose and not a running portrait. Dark digital static dissolves at the threshold into tiny pollen-like light flecks; sunshine reflects green on the chrome fabric. Surreal editorial photography with richly tactile grass and silver fabric, restrained analog grain mostly on the dark side. Exact text \"GO OUTSIDE.\" and below it \"TOUCH GRASS.\" in clean modest white typography on a small weathered dark sign near the meadow entrance, readable inside margins. The exact brand name \"SLOPCORE\" must be clearly legible as a SMALL embroidered label on the front of her jacket, spell S-L-O-P-C-O-R-E; secondary to the scene, no giant wordmark or headline. Orange four-point star on jacket. Overall feeling relief, freedom, joyful daylight after doomscrolling. Keep important text and character inside safe image margins. No other text, no watermark, no financial claims.",
+    "sources": [
+      {
+        "title": "Nature experience reduces rumination — Bratman et al., PNAS (2015)",
+        "url": "https://doi.org/10.1073/pnas.1510459112"
+      },
+      {
+        "title": "SLOPCORE — official lookbook",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
