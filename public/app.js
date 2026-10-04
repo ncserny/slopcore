@@ -22,8 +22,6 @@ function updateClock() {
   if(!entries.length)return;
   const age = Date.now()-new Date(entries[0].publishedAt).getTime();
   $('signal').textContent = age > 2*3600000 ? '● LAST TRANSMISSION ARCHIVED' : '● FRESH SIGNAL';
-  const minutes = 60-new Date().getMinutes();
-  $('next-slot').textContent = age > 2*3600000 ? 'AWAITING THE NEXT TRANSMISSION' : `NEXT HOURLY SLOT IN ~${minutes} MIN`;
 }
 function archive() {
   $('archive').replaceChildren(); $('count').textContent=`${entries.length} TRANSMISSION${entries.length===1?'':'S'} / AND COUNTING`;
