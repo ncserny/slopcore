@@ -12,7 +12,7 @@ npm run build
 npm run preview
 ```
 
-Open http://localhost:4173. Render builds with `npm run build`, publishes `dist`, and deploys commits to `main`.
+Open http://localhost:4173. Render builds with `npm run build`, publishes `dist`, and deploys commits from `main`. The hourly publisher explicitly triggers deployment because the service was created from a public Git URL.
 
 ## Add an hour
 
