@@ -15,7 +15,7 @@ function render() {
   for(const source of entry.sources) {const href = safeLink(source.url);if(!href)continue;const a = document.createElement('a');a.href=href;a.target='_blank';a.rel='noopener noreferrer';a.textContent=`${source.title} ↗`;$('sources').append(a);}
   for(const [i, card] of Array.from($('archive').children).entries()) card.setAttribute('aria-pressed', String(i === selected));
   const u = new URL(location.href);u.searchParams.set('hour',entry.id);history.replaceState(null,'',u);
-  document.title = `${entry.title} — SLOPCORE`;
+  document.title = "SLOPCORE – Don't sell the dream.";
   updateClock();
 }
 function updateClock() {
