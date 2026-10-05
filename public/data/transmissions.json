@@ -501,5 +501,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T06",
+    "publishedAt": "2026-10-05T06:39:25.856580Z",
+    "title": "STAY FLUID.",
+    "mood": "AFTER RAIN",
+    "category": "MAGNETIC STREET",
+    "image": "/images/2026-10-05t06-stay-fluid.png",
+    "alt": "MODEL 01 sits on a wet backstreet curb in worn dark streetwear and a silver vest, beside an electronics shop window containing a small ferrofluid display.",
+    "thought": "Keep your shape open.",
+    "caption": "After the rain.",
+    "question": "What pulls you in a different direction?",
+    "discovery": "NASA Spinoff describes artists manipulating ferrofluid inside sealed glass displays with external magnets, forming dark liquid spikes. The repair shop and street scene are imagined; the small window display is a subtle reference to that real material behavior.",
+    "prompt": "Create an original SLOPCORE image as a cool candid street-style fashion photograph, landscape 16:9. Fictional adult MODEL 01 retains copper bob with bangs and freckles from reference. Avoid glossy advertising, staged smiles, motivational posters, theme-park atmosphere, quirky props and cheesy obvious visual metaphors. A real-feeling empty backstreet outside a small electronics repair shop at blue hour after rain. MODEL 01 sits naturally on a low concrete curb, both feet on wet asphalt, knees bent normally, forearms resting loosely on knees, upper body leaning forward only slightly. Deadpan confident expression looking at camera, relaxed unposed human moment. Low eye-level camera, medium-wide view with shoes and street context visible. Fashion: worn charcoal oversized hoodie under a wrinkled metallic silver technical vest, baggy faded dark denim, scuffed white trainers, tiny orange four-point star stitched on vest and small exact legible SLOPCORE woven chest label. Brand discreet and secondary. Rough shutters, taped-up window, scratched chrome car bumper cropped at edge, puddle reflections, a few shop lights. Subtle research detail only: a small sealed glass ferrofluid display with black spiky liquid sits behind shop window, plausible magnet beneath it; it is peripheral rather than a hero object. No floating elements, no giant shapes, no magical neon, no invented giant creature, no slogan/title text inside image. Lighting: direct on-camera flash catches skin and silver wrinkles against deep ambient cobalt shadows, restrained color, honest documentary 35mm street photograph, crisp face/freckles/hands/clothing/lettering, light subtle texture only, no global blur/haze/bloom/heavy grain. Natural anatomy with two arms/two legs and correctly connected joints, realistic hands. No timestamps, city names, REC overlays, real logos or financial claims. Make it understated and editorial, slightly gritty, not a rendered commercial tableau. Preserve exact SLOPCORE spelling, visible small name label, established copper-haired identity.",
+    "sources": [
+      {
+        "title": "NASA Spinoff: Ferrofluid Technology Becomes a Magnet for Pioneering Artists",
+        "url": "https://spinoff.nasa.gov/Spinoff2018/cg_3.html"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
