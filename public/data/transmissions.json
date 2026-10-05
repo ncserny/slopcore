@@ -881,5 +881,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T21",
+    "publishedAt": "2026-10-05T21:37:31.767993Z",
+    "title": "PRINTED BY LIGHT.",
+    "mood": "STUDIO EXIT",
+    "category": "CYANOTYPE",
+    "image": "/images/2026-10-05t21-printed-by-light.png",
+    "alt": "MODEL 01 with a fully ginger tousled bob and freckles steps out of a print studio carrying a blue fern print, wearing an olive overshirt and silver top.",
+    "thought": "A little daylight, kept on paper.",
+    "caption": "Fresh from the studio.",
+    "question": "What would you preserve as a silhouette?",
+    "discovery": "Getty describes cyanotype as a light-sensitive iron-salt process that forms Prussian blue in exposed areas and is washed to remove unexposed sensitizer. This imagined studio scene shows a generated botanical print inspired by that process, not an authenticated physical cyanotype.",
+    "prompt": "Original photorealistic SLOPCORE candid street-style photograph, landscape 16:9. Fictional adult MODEL01 identity from attached face reference: dense natural freckles across cheeks/nose, almond eyes subtle eyeliner, full lips, recognizable proportions and deadpan natural expression. Naturally fully copper-ginger tousled chin-length bob and bangs with darker copper shadows, NO black sections or split dye. Reference face/hair ONLY, not pose or outfit. New scene: she is descending two shallow wide concrete steps from a worn independent print studio onto an ordinary side street in late afternoon. One foot on lower step and other just behind on upper step, natural short stride, torso upright and hips aligned. One hand loosely touches simple metal handrail, other carries a rigid small A4 sheet by edge at her side facing camera enough to see its design: deep Prussian blue rectangle with a simple white fern silhouette, cyanotype-like botanical print. No bending, crossed limbs or extreme foreshortening. Full body and both shoes visible, slightly elevated medium-wide candid angle. Outfit faded oversized olive work overshirt open over metallic silver ribbed shirt, loose washed charcoal trousers, scuffed cream canvas shoes. Exact modest clear white SLOPCORE on small black chest label of overshirt, all eight letters S L O P C O R E; ONE tiny orange FOUR-POINT tapered-plus sparkle beside label, no other stars or hair accessories. Ordinary scratched studio door, a few small blue prints hanging inside dim workshop, brick wall and imperfect sidewalk, no legible slogans or city names. Hard on-camera fill flash and muted daylight, crisp face/freckles/eyes/hair/hands/fabric/lettering and paper detail, subtle analog texture only. Blue print is ordinary dried finished artwork, not glowing, no magical sunlight beams or obvious oversized metaphor. Cool documentary/editorial framing, no glossy campaign or staged smile, cute props, REC, dates, haze/bloom/heavy grain/global blur. Plausible adult anatomy two arms two legs and natural hands/joints, preserve identity, small SLOPCORE clearly legible.",
+    "sources": [
+      {
+        "title": "Getty Conservation Institute: Cyanotype — Atlas of Analytical Signatures of Photographic Processes",
+        "url": "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/atlas_cyanotype.pdf"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
