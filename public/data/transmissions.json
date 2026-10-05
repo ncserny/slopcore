@@ -549,5 +549,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T08",
+    "publishedAt": "2026-10-05T09:05:55.004314Z",
+    "title": "TIME IS LOCAL.",
+    "mood": "BETWEEN FLOORS",
+    "category": "PERSONAL SCALE RELATIVITY",
+    "image": "/images/2026-10-05t08-time-is-local.png",
+    "alt": "MODEL 01 leans on a chipped stairway railing outside a record shop in a worn dark jacket, silver top and loose olive trousers.",
+    "thought": "Even a landing has its own time.",
+    "caption": "Between floors.",
+    "question": "Where do you lose track of time?",
+    "discovery": "In 2010, NIST compared atomic clocks separated vertically by 33 centimeters and measured the higher clock ticking slightly faster, as predicted by general relativity. The difference is far too small to perceive or read on an ordinary wristwatch. This imagined street scene uses a stairway as a quiet reference, not a visible demonstration of time dilation.",
+    "prompt": "Original photorealistic SLOPCORE candid street-style editorial photograph, landscape 16:9. Use reference only for fictional adult MODEL 01 identity: copper-orange bob with bangs and freckles. New scene on a worn exterior concrete stairway behind a neighborhood record shop, late afternoon flat cool daylight with hard on-camera flash. MODEL 01 leans casually against the chipped painted metal railing on a small stair landing, both feet firmly on same level, one hand resting on railing, other hand loosely in trouser pocket, upright relaxed torso with natural aligned hips and limbs. Deadpan expression glancing sideways toward camera, unposed waiting moment. Medium-wide slightly elevated diagonal camera angle; full body shoes visible; stair treads and neighboring brick walls create asymmetrical lines. Worn charcoal leather jacket open over a plain silver metallic ribbed top, baggy faded dark olive trousers and scuffed black shoes. Small exact clearly legible SLOPCORE woven label on jacket chest, one modest orange four-point star enamel pin beside it. Thin ordinary analog wristwatch on railing hand, incidental subtle detail; no clocks as hero props. Quiet street clutter: torn flyers with no readable slogans, bicycle locked to lower railing, battered doorway. Restrained natural colors, slight flash shadow, crisp eyes/freckles/hands/fabric and lettering. No global blur, bloom, heavy grain, haze, magic effects or floating objects. No big text, motivational signs, staged smiles, novelty props, excessive stars, REC overlays, cities or timestamp text. No financial symbolism. Natural plausible body anatomy two arms two legs, correct joints, realistic hands. Keep small exact SLOPCORE spelling readable. Research theme about time and elevation stays in metadata, scene is a real-feeling imagined everyday street moment rather than a science diagram. Cooler understated documentary street style, candid framing and imperfect textures.",
+    "sources": [
+      {
+        "title": "NIST: Aluminum Atomic Clocks Reveal Einstein’s Relativity at a Personal Scale",
+        "url": "https://www.nist.gov/news-events/news/2010/09/nist-pair-aluminum-atomic-clocks-reveal-einsteins-relativity-personal-scale"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
