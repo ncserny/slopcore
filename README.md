@@ -16,6 +16,8 @@ Open http://localhost:4173. Render builds with `npm run build`, publishes `dist`
 
 The build uses Sharp to generate responsive WebP images (480–1600 pixels wide) for every transmission. Full-resolution originals and prompts remain available in the archive. The latest image and browsing metadata are included in the initial HTML; the browser checks the lightweight `/data/gallery.json` for updates every minute. Fonts are served locally with their licenses in `public/fonts/`. Add new transmissions as usual—the next build generates their display images automatically.
 
+HTML (`/` and `/index.html`) and `/data/*` use `Cache-Control: no-store, max-age=0` so transmission links reload the current build. Content-hashed `/assets/*` and `/optimized/*` use a one-year immutable cache. These rules are configured in the Render dashboard as well as `render.yaml`; this service is not Blueprint-managed, so editing the YAML alone does not apply live header changes.
+
 ## Add an hour
 
 Follow [PUBLISHING.md](PUBLISHING.md). Add an original generated asset under `public/images/` and a metadata record to `public/data/transmissions.json`. Preserve all previous records and assets. The browser refreshes the archive every minute, supports `?hour=<id>` links, and keeps older selections visible while new entries arrive.
