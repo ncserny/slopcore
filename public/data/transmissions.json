@@ -593,5 +593,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T0944-minesweeper",
+    "publishedAt": "2026-10-05T09:44:17.539205Z",
+    "title": "ONE MORE CLICK.",
+    "mood": "XP AFTER HOURS",
+    "category": "MINESWEEPER",
+    "image": "/images/2026-10-05t0944-minesweeper.png",
+    "alt": "MODEL 01 with a black bob and copper-ginger front sections plays classic Minesweeper on a beige CRT computer running Windows XP in a worn basement computer room.",
+    "thought": "One more square before I go.",
+    "caption": "No tabs. Just tiles.",
+    "question": "Did you solve it or just keep clicking?",
+    "discovery": "Raymond Chen’s Microsoft blog recalls the classic Windows game and its alternative Find the Flowers theme. This user-requested image imagines an old-school Windows XP session with the familiar numbered tiles, flags and smiley reset button; it is generated fan art, not a captured game screenshot or a verified playable board.",
+    "prompt": "Create an original photorealistic SLOPCORE image, landscape 16:9, candid hard-flash editorial photograph in a modest early-2000s basement computer room. Reference1 is the NEW hair and identity direction: fictional adult MODEL 01 has a predominantly glossy black blunt bob with bangs, distinct copper-ginger front fringe and face-framing section on one side, NOT fully ginger. Preserve her freckles and recognizable face. Reference2 is setting inspiration only, old LAN party computers, do not copy its people or overlay text. MODEL 01 sits naturally on a battered office chair at a scratched wooden computer desk, torso upright leaning very slightly forward, both legs naturally below desk, feet planted. She is genuinely playing Minesweeper: her right hand on beige wired mouse, left forearm relaxed next to beige keyboard, eyes focused on CRT screen with deadpan concentrated expression. Camera at a side three-quarter angle where her face, hands AND front of monitor screen are clearly visible together. Large period-correct beige CRT monitor on right side of frame, beige tower computer with CD-ROM drive underneath desk, beige keyboard and small speakers, loose cables, stack of CDs and ordinary soda can, low-key lived-in room, nothing fantastical. Monitor must clearly display Windows XP: green hill blue sky Bliss desktop, blue XP taskbar with green Start button, classic Minesweeper window in foreground with blue title bar reading Minesweeper, gray beveled square grid with blue 1s, green 2s, red 3s and a few red flags, yellow smiley reset button and red digital timer/mine counters. Accurate recognizable old Minesweeper interface, not modern mobile game, no floating UI. Outfit worn oversized faded charcoal T-shirt with exact small clearly legible SLOPCORE chest print, loose faded dark jeans, silver metallic jacket draped over chair back without obscuring shirt, one small restrained orange four-point star hair clip. Natural anatomy, plausible wrists and hands, two arms two legs, relaxed connected joints, no contortion. Strong direct on-camera flash with restrained ambient CRT light, crisp freckles, eyes, hands, hair, clothing and screen lettering; subtle analog texture only, no global blur, excessive grain, haze or bloom. Understated candid streetwear editorial energy, not staged glossy advertisement, no giant brand headline or motivational signs, no REC overlay, no dates/location labels, no real-world endorsement claims. Ensure black hair dominates with defined ginger sections matching reference1, exact SLOPCORE readable and small.",
+    "sources": [
+      {
+        "title": "Microsoft: Find the Flowers vs Minesweeper",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20070920-01/?p=25033"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
