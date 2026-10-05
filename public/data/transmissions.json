@@ -429,5 +429,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T00",
+    "publishedAt": "2026-10-05T02:38:40.293784Z",
+    "title": "SMALL. LOUD.",
+    "mood": "BUBBLE ENERGY",
+    "category": "TINY BIG IMPACT",
+    "image": "/images/2026-10-05t00-small-loud.png",
+    "alt": "MODEL 01 runs through a sunny beach party holding an orange shrimp-shaped bubble toy, surrounded by laughing adult friends and iridescent bubbles.",
+    "thought": "You do not need to take up much space to make yourself heard.",
+    "caption": "Tiny source. Big reaction.",
+    "question": "What small thing has made your day unexpectedly bigger?",
+    "discovery": "NOAA describes snapping shrimp only a few centimeters long whose enlarged claw creates a bubble that bursts with a loud underwater snap. This beach party, toy and giant soap bubbles are an imagined playful interpretation; soap bubbles in air are not the shrimp’s underwater cavitation mechanism.",
+    "prompt": "Create original photorealistic SLOPCORE art transmission, landscape 16:9, vivid crisp candid direct-flash beach photography. Use brand reference for fictional adult MODEL 01 face: copper-orange bob with bangs, freckles. Fresh joyful scene: MODEL 01 runs laterally across pale sand at a sunny seaside boardwalk party with adult friends laughing in background. Natural mid-stride running pose in side three-quarter view, one foot touching sand and other lifted behind, plausible torso/hip alignment, two normal legs and two arms, no gymnastics or twisted body. Face turned slightly toward camera with open happy smile. Loose metallic silver windbreaker over black T-shirt, practical dark shorts and white sneakers. Small orange four-point star sleeve patch, exact small legible SLOPCORE jacket chest label. She carries a clearly whimsical plastic orange shrimp-shaped bubble toy with one enlarged claw, held comfortably in one hand, other arm swinging naturally. Large iridescent soap bubbles and ordinary small bubbles float around her and her friends; make the shrimp toy and exaggerated bubbles clearly surreal playful props, not real marine creatures. A small boardwalk stall sign reads SMALL. LOUD. Colorful beach umbrellas, orange towels, blue sea, retro portable radio, adults enjoying themselves. Inspired by real snapping shrimp producing loud sounds from collapsing underwater bubbles; scene is a fictional playful interpretation rather than a scientific diagram. Dynamic wide full-body framing, sharp face/freckles/hands/clothes/lettering and crisp suspended bubbles, no motion blur or heavy grain or haze or bloom. Tiny analog REC corner mark, restrained snapshot character, no dates/times/city labels, no enormous headline or branding, no finance or third-party logos. Grounded social fun and plausible anatomy like a good candid flash photograph; don't replace the established model identity.",
+    "sources": [
+      {
+        "title": "NOAA: Oh Snap! What Tiny Shrimp Can Tell Us About Habitat Health",
+        "url": "https://sanctuaries.noaa.gov/news/dec21/oh-snap.html"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
