@@ -833,5 +833,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T19",
+    "publishedAt": "2026-10-05T19:36:43.128141Z",
+    "title": "SOLID GROUND.",
+    "mood": "BETWEEN RUNS",
+    "category": "MATERIAL IN ORBIT",
+    "image": "/images/2026-10-05t19-solid-ground.png",
+    "alt": "MODEL 01 with a tousled fully ginger bob and freckles sits on a skatepark ledge with a worn skateboard, silver jacket and dark jeans.",
+    "thought": "Even the ordinary has another side.",
+    "caption": "Between runs.",
+    "question": "Where do you go to clear your head?",
+    "discovery": "NASA’s Microgravity Investigation of Cement Solidification studied cement solidification aboard the International Space Station and compared Earth-based and space-cured samples. This imagined skatepark scene links that research to an everyday material; the pictured concrete is not identified as a space-developed product.",
+    "prompt": "Use case photorealistic-natural. Original SLOPCORE candid street-style editorial photograph, wide landscape 16:9. Attached reference PRIMARY face identity: fictional adult MODEL01 recognizable facial proportions, dense natural freckles across nose and cheeks, almond shaped eyes with subtle eyeliner, full lips, natural deadpan expression. Hair naturally FULLY COPPER GINGER, tousled chin-length bob and bangs, fine imperfect strands, darker copper shadows but NO black sections or split dye. Reference only face/hair not pose/clothes/framing. New scene: worn concrete skatepark beneath an urban flyover at late afternoon. She sits relaxed on a low broad concrete ledge next to shallow skate bowl, both feet planted on ground with naturally bent knees and upright torso, one hand resting on thigh and other loosely gripping edge of skateboard standing vertically beside her. Natural simple seated anatomy, no contortion. Camera closer medium-wide three-quarter angle, full body and shoes visible, rich textured concrete scene and sparse distant adult skaters. Outfit worn oversized faded charcoal graphic-free tee, lightweight metallic silver windbreaker unzipped, loose washed dark jeans, scuffed white skate shoes. Small black woven chest patch on silver jacket reads exact clear white SLOPCORE, all eight letters S L O P C O R E; ONE tiny solid orange FOUR-POINT tapered plus sparkle beside patch. No other stars or hair ornaments. Honest hard on-camera fill flash with cool shadow under bridge and slant sunlight beyond, sharp face/eyes/freckles/hair/hands/fabric/lettering, restrained color and subtle analog texture. Research about cement solidifying in microgravity stays in metadata and ordinary concrete setting, NO floating slab, space suit, giant metaphor, laboratory prop or slogans. Realistic skateboard, simple hands, logical limbs and joints, two arms two legs. No posed smile, cute props, gloss, REC overlays, dates, city names, global blur, heavy grain, haze or bloom. Natural copper hair photographed in actual light, not wig or flat color. SLOPCORE modest secondary yet legible.",
+    "sources": [
+      {
+        "title": "NASA TechPort: Microgravity Investigation of Cement Solidification",
+        "url": "https://techport.nasa.gov/projects/95075"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
