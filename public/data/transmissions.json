@@ -525,5 +525,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T07",
+    "publishedAt": "2026-10-05T07:43:01.236603Z",
+    "title": "RETURN TO SOURCE.",
+    "mood": "FLASH RETURN",
+    "category": "RETROREFLECTION",
+    "image": "/images/2026-10-05t07-return-to-source.png",
+    "alt": "MODEL 01 walks across a worn street crossing beneath a concrete overpass at dusk, wearing a silver windbreaker and loose charcoal trousers.",
+    "thought": "Some signals find their way back.",
+    "caption": "Flash catches what daylight misses.",
+    "question": "What catches your eye after dark?",
+    "discovery": "An FHWA research report explains that retroreflection returns incoming light toward its source; tiny glass beads embedded in pavement markings help send headlamp light back toward drivers. This imagined street photograph references that principle through reflective details, rather than illustrating or measuring the performance of wet road markings.",
+    "prompt": "Original photorealistic SLOPCORE street-style fashion photograph, wide 16:9. Fictional adult MODEL 01 keeps reference identity copper-orange bob with bangs, visible freckles. Cool understated documentary photograph, unposed dry urban street at dusk, concrete overpass and brick service buildings, pedestrian crossing with pale reflective road markings, distant parked cars. MODEL 01 is walking across crossing laterally, natural mid-step with both legs clearly connected and plausible hips, head turning slightly toward camera, deadpan relaxed expression, no staged smile. Whole body and both shoes visible in medium-wide side three-quarter framing, low street-level camera with candid asymmetry and negative space. Outfit: loose wrinkled metallic silver windbreaker with thin retroreflective trim, faded black oversized T-shirt, wide charcoal trousers, scuffed trainers, small shoulder bag. A single restrained orange four-point star sleeve stitch and exact small legible SLOPCORE woven chest label, branding modest secondary. On-camera direct flash makes reflective garment trim and some road stripes return a sharp bright highlight toward camera, while ambient remains subdued gray-blue and pale warm streetlamp tones. No magical glowing streets, no exaggerated light beams or fantasy props, no motivational signs or title text. Street wear and architecture imperfect and lived-in, natural everyday moment. Crisp eyes/freckles/hands/fabric and lettering, no motion blur, global softness, heavy grain, haze or excessive bloom. Preserve subtle analog/editorial character without REC or date/time/location overlays. Natural arms swinging, realistic joints and hands, two arms two legs no contortion. No financial symbolism or obvious oversized visual metaphors. Research is subtly embodied by actual reflective details, not a diagram. Keep name SLOPCORE spelled exactly and visible.",
+    "sources": [
+      {
+        "title": "FHWA: Updates to Research on Recommended Minimum Levels for Pavement Marking Retroreflectivity",
+        "url": "https://www.fhwa.dot.gov/publications/research/safety/07059/01.cfm"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
