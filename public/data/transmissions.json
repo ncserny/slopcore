@@ -453,5 +453,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T03",
+    "publishedAt": "2026-10-05T03:43:33.303905Z",
+    "title": "MOSTLY AIR. STILL HERE.",
+    "mood": "LIGHT PRESENCE",
+    "category": "SOLID BLUE SMOKE",
+    "image": "/images/2026-10-05t03-mostly-air.png",
+    "alt": "MODEL 01 in silver overalls leans against an artist’s workbench, examining a pale-blue cube in a clear case among translucent sculptures.",
+    "thought": "Leaving room does not mean disappearing.",
+    "caption": "Less weight. More possibility.",
+    "question": "What could you make if you left a little more room inside it?",
+    "discovery": "JPL describes one form of silica aerogel as 99.8 percent air by volume and reports artists using its ghostly appearance as a creative medium. Aerogel was also used by the Stardust mission to capture particles. The workshop and large translucent sculptures shown here are imagined, not demonstrations of real aerogel strength or fabrication.",
+    "prompt": "Create original photorealistic SLOPCORE art transmission, landscape 16:9. Fictional adult MODEL 01 retains copper-orange bob with bangs and freckles from reference. New grounded scene: a sunny artist's sculpture workshop with large windows, cream walls, pale timber workbenches, green plants, tools arranged neatly and a friend making art in background. MODEL 01 leans her hip lightly against a solid wooden workbench in a relaxed upright pose, both feet grounded, normal aligned torso and hips, two natural arms and legs. She holds a small clear acrylic display case containing a pale translucent blue aerogel-like cube at chest height, examining it with an intrigued half-smile. Both hands plausible and well-defined. Fresh fashion: metallic silver utility overalls over a plain white T-shirt, rolled cuffs and white canvas sneakers, orange four-point star on bib, small exact legible SLOPCORE name patch on bib, secondary modest branding. Imaginative large ghostly translucent pale-blue sculptural rings and abstract forms on sturdy plinths around workshop, resembling solid blue smoke, NOT actual smoke or fog. One translucent sculpture contains a tiny orange star. Modest hand-lettered wall sign reads MOSTLY AIR. STILL HERE. Friend in casual adult artist clothing smiles while sketching at rear table. Slightly elevated camera angle with medium-wide full-body framing, relaxed natural anatomy, everyday social atmosphere, warm morning tones, delicate blue material with sharp defined edges. Face, eyes, freckles, hands, clothing texture and lettering crisp at native resolution; no global blur, heavy grain, haze, bloom, motion blur or scanline overlays. Restrained analog snapshot flavor with tiny REC mark. No cities, date or time labels, no NASA logos or affiliation, no finance. This is an imagined art workshop inspired by real silica aerogel, not a literal scientific demonstration. Keep identity and readable exact SLOPCORE spelling, avoid giant headline branding.",
+    "sources": [
+      {
+        "title": "NASA JPL: Art Meets Aerogel",
+        "url": "https://www.jpl.nasa.gov/news/art-meets-aerogel/"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
