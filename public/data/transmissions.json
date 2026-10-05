@@ -761,5 +761,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T17",
+    "publishedAt": "2026-10-05T17:34:41.937766Z",
+    "title": "FIRST RAIN.",
+    "mood": "AFTER THE SHOWER",
+    "category": "RAIN AND AEROSOLS",
+    "image": "/images/2026-10-05t17-first-rain.png",
+    "alt": "MODEL 01 stands outside a worn grocery with a closed umbrella, a navy jacket and silver shirt, beside wet pavement and a tree bed.",
+    "thought": "The air changes before the day does.",
+    "caption": "A pause after rain.",
+    "question": "What smell takes you somewhere else?",
+    "discovery": "MIT researchers used high-speed imaging to observe tiny bubbles trapped when raindrops hit porous surfaces; bursting bubbles released aerosols. They proposed that this mechanism may help carry earthy aromas after rain. This imagined street scene references the finding through damp soil and an ordinary closed umbrella, without depicting or measuring aerosols.",
+    "prompt": "Use case: photorealistic-natural. Create an original wide 16:9 SLOPCORE street-style documentary fashion photograph. Fictional adult MODEL 01 face and freckles from reference; predominantly BLACK blunt bob and bangs with copper-ginger front fringe and distinct ginger face-framing streak, never fully ginger. Reference ONLY identity/hair, no copied hair clip or outfit. New scene: she stands naturally outside an old corner grocery after light rain, feet planted loosely shoulder width, torso upright and hips aligned. She holds a closed ordinary black umbrella vertically by its curved handle in one hand with tip resting on pavement; other hand in jacket pocket. Quiet deadpan look slightly past camera. Medium-wide frontal three-quarter eye-level candid composition, full body including boots visible, no contortion or extreme angles. Outfit worn oversized faded navy work jacket open over wrinkled metallic silver shirt, loose stone-gray jeans, scuffed black ankle boots. On jacket chest small black rectangular woven label with exact clearly legible white text SLOPCORE (S L O P C O R E). ONE tiny solid orange FOUR-POINT sparkle beside label, four tapered arms like a plus, no five-point star and NO hair ornament. Real imperfect sidewalk, damp brick wall, grocery shutter and small exposed-soil tree bed nearby with raindrop-darkened earth, a few ordinary puddles. Overcast early evening daylight and hard on-camera flash, crisp face/freckles/eyes/hair/hands/fabric/lettering, honest worn textures and restrained cool colors, subtle analog texture only. Research about rain releasing aerosols from porous surfaces remains subtle through ordinary damp soil and metadata, do NOT visualize aerosols, smoke, particles, magical puddles or giant science metaphors. No slogans, staged smiling, cute props, gloss, REC, timestamps, location names, global blur, heavy grain, haze or bloom. Plausible adult anatomy exactly two arms two legs, normal joints and hands, simple stance. Keep exact SLOPCORE small secondary yet readable.\nUse the attached payphone image for face and black-and-ginger hair only. Create the new standing grocery scene described above. Hair must be plain with absolutely no accessories or clips. Do not reuse the seated pose, phone, backdrop or bomber outfit.",
+    "sources": [
+      {
+        "title": "MIT News: Rainfall can release aerosols, study finds",
+        "url": "https://news.mit.edu/2015/rainfall-can-release-aerosols-0114"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
