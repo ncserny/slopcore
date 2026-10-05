@@ -573,5 +573,25 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T0936-shop-is-live",
+    "publishedAt": "2026-10-05T09:37:37.371377Z",
+    "title": "SHOP IS LIVE.",
+    "mood": "WORN IN",
+    "category": "TOUR 2026",
+    "image": "/images/2026-10-05t0936-shop-is-live.png",
+    "alt": "Front and back street-style photographs of MODEL 01 wearing the washed charcoal SLOPCORE TOUR 2026 T-shirt with the ESCAPE VELOCITY back print.",
+    "thought": "Take the dream with you.",
+    "caption": "SLOPCORE TOUR 2026. Front to back.",
+    "question": "Front print or back print?",
+    "discovery": "A user-requested merch preview based on the supplied front and back SLOPCORE TOUR 2026 T-shirt designs. The street photographs are generated visualizations of the garment, rather than product photographs; fine print and fabric details may vary.",
+    "prompt": "Create one photorealistic street-style editorial diptych, two photographs side by side with a narrow black divider, wide landscape composition. Same fictional adult woman MODEL 01 in BOTH photographs: copper-orange short bob with bangs, pale freckled skin, identity matching third reference. First two references are exact garment design references, third reference is identity only, do not copy scene or giant logo. She wears this exact oversized washed charcoal black heavyweight crewneck T-shirt with dropped shoulders, loose short sleeves and faded seams. LEFT photograph front three-quarter view, relaxed standing with hands in faded black baggy jeans pockets, deadpan natural expression looking at camera. Small muted copper chest text on wearer left exactly SLOPCORE on first line and TOUR 2026 on second line, same scale and placement as reference1. RIGHT photograph back view, shoulders mostly square toward camera so back print clear and unobscured, head turned slightly so copper bob profile visible; arms relaxed naturally by sides. Faithfully reproduce the reference2 back screen print on the T-shirt: large distressed offwhite ESCAPE VELOCITY headline, rectangular monochrome halftone runway model graphic below, then compact two-column offwhite/copper track-list typography as shown in reference. Keep artwork proportions and placement faithful, real screen printing integrated into natural fabric drape, do not redesign merch. Both photographs same worn concrete street corner outside a closed music venue, subtle taped posters, dusk ambient and hard on-camera flash, honest cool candid editorial energy. Silver bracelet or small silver chain as restrained accessory; no jacket covering T-shirt. Medium framing from head to knees, shirt dominates clearly enough to inspect front/back. Crisp face, freckles, eyes, garment weave and exact primary lettering. Natural anatomy and realistic hands, no exaggerated pose or glam smile. No promotional banners, floating text, dates, REC overlays or giant added SLOPCORE logo. Preserve print from supplied references including distressed quality, avoid blurry faces and heavy grain. This is a private preview of model wearing merch.",
+    "sources": [
+      {
+        "title": "SLOPCORE official brand reference; garment designs supplied by the user",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
