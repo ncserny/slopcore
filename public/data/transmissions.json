@@ -809,5 +809,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T1918-neon-after-hours",
+    "publishedAt": "2026-10-05T19:18:01.890662Z",
+    "title": "NEON AFTER HOURS.",
+    "mood": "CITY IN THE RAIN",
+    "category": "FUTURE STREET",
+    "image": "/images/2026-10-05t1918-neon-after-hours.png",
+    "alt": "MODEL 01 walks under a cyan-lit clear umbrella through a rainy futuristic city with elevated transit and magenta-lit towers.",
+    "thought": "The future still has weather.",
+    "caption": "Last train. First light.",
+    "question": "Would you take the street or the skywalk?",
+    "discovery": "The National Weather Service explains that Doppler radar sends pulses and listens for returned signals to observe weather. This speculative city scene imagines ordinary rain within future urban life; its umbrella lighting and architecture are fictional, and it does not show real radar data or a forecast.",
+    "prompt": "Original SLOPCORE futuristic-city candid fashion photograph, landscape 16:9. Image1 rain neon city is setting/mood inspiration ONLY, not exact copy or hair. Image2 payphone model is identity/face/freckles/hair ONLY. Fictional adult MODEL01 black blunt bob and bangs with copper-ginger front sections, predominantly BLACK not fully ginger, no hair accessories. New composition: she walks naturally across rain-wet elevated pedestrian concourse in a dense believable near-future megacity at night, turning head slightly toward camera, full body with sensible mid-stride posture, natural hands and limbs. Dark worn long coat open over metallic silver technical top, wide charcoal trousers and chunky scuffed black boots. She holds a clear umbrella overhead by normal handle, with thin cyan edge lighting, no ornament on umbrella. Small clean white exact SLOPCORE chest patch on coat, all eight letters legible, ONE tiny orange FOUR-POINT sparkle beside it like tapered plus; no other stars. Towering layered glass buildings with magenta/cyan illuminated panels, elevated transit train in distance, busy ordinary pedestrians with umbrellas and grounded street vehicles below. Rich perspective and urban scale, candid real human street photograph with speculative architecture, not glossy game render. Wet surfaces carry sharp neon reflections; visible raindrops but main face/eyes/hair/hand/clothes/lettering crisp with restrained flash. Keep neon controlled, no global haze/bloom/blur/heavy grain. No giant holographic people, floating cars, motivational slogans, REC overlays, timestamps or city names. Avoid copying reference's text or eight-point star; exact modest SLOPCORE only. Natural adult anatomy two arms two legs, logical grip and umbrella shaft away from face, believable hips/joints. Cinematic but understated deadpan editorial, no cheesy smile. Weather radar discovery belongs to metadata, no invented measured weather readings.",
+    "sources": [
+      {
+        "title": "National Weather Service: Radar",
+        "url": "https://www.weather.gov/about/radar"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
