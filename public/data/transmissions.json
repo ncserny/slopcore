@@ -641,5 +641,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T11",
+    "publishedAt": "2026-10-05T11:16:22.845799Z",
+    "title": "KEEP IT TURNING.",
+    "mood": "WORKSHOP AFTER HOURS",
+    "category": "ANGULAR MOMENTUM",
+    "image": "/images/2026-10-05t11-keep-it-turning.png",
+    "alt": "MODEL 01 stands outside a worn bicycle workshop holding a detached wheel, wearing dark mechanic coveralls and a silver vest with a small SLOPCORE label.",
+    "thought": "A different way to hold your direction.",
+    "caption": "Outside the workshop.",
+    "question": "What keeps you moving?",
+    "discovery": "NASA explains that the spinning wheels inside Hubble’s gyroscopes create angular momentum, comparing the effect with holding a spinning bicycle wheel by its axle. This imagined repair-shop portrait is a quiet reference to that principle; the wheel is held by its rim and the still photograph does not demonstrate gyroscopic behavior.",
+    "prompt": "Original photorealistic SLOPCORE candid streetwear editorial photograph, landscape 16:9. Identity reference: fictional adult MODEL 01 with freckles, predominantly BLACK blunt bob and bangs with defined copper-ginger front fringe and one face-framing ginger section, NOT full ginger. New grounded setting outside a small worn bicycle repair shop on a concrete backstreet, early evening, open workshop door shows tire racks and ordinary tools. MODEL 01 stands naturally with feet shoulder-width apart, relaxed upright aligned torso and hips. She holds a detached ordinary silver bicycle front wheel vertically in front of her lower torso, gripping sturdy protruding axle ends with two hands on either side; wheel is supported by her hands, not floating. Both arms and wrists natural, no contorted grip. Deadpan focused expression glancing toward photographer. The wheel and visible spokes are frozen sharp, plausible round rim and hub. Research is subtle: ordinary wheel echoes angular momentum, no diagram or magical experiment. Outfit worn charcoal mechanic coveralls with sleeves rolled, a metallic silver sleeveless utility vest, dark scuffed sneakers. Modest exact legible SLOPCORE woven chest label and ONE small solid orange FOUR-POINT sparkle star stitched beside label. EXACTLY FOUR points, two long vertical points and two horizontal points like a compass sparkle; not a five-point star, no star hair clip, no additional stars. Medium-wide eye-level three-quarter candid frame with shoes and wheel fully visible; asymmetrical shop doorway, concrete, scratched repair stand and partially cropped bike in background. Strong direct on-camera flash catches face and silver folds against cool ambient shadows. Honest imperfect documentary feel, natural deadpan expression, crisp eyes, freckles, hair, hands, fabric, lettering; subtle analog texture, no blur, heavy grain, haze or bloom. No staged smiling crowd, giant slogan, floating UI, novelty props, oversized visual metaphors, REC, timestamp or city labels. Natural adult anatomy two arms two legs and proper joint connections. Exact name SLOPCORE small and readable. Preserve hair identity from reference but not its outfit or shop signs. Cooler street-style fashion snapshot, no glossy commercial rendering.\n\nFinal targeted edit: Minimal targeted edit: remove the tiny orange/gold hair clip from her black hair entirely, replacing it with ordinary black hair. Preserve every other detail of this photograph exactly, including the orange FOUR-POINT star on silver vest, exact SLOPCORE label, identity, black and ginger bob, freckles, pose, wheel and hands, clothing, bike shop, lighting, composition and crispness. Do not add anything. There must be only one orange brand star, the existing four-point vest star.",
+    "sources": [
+      {
+        "title": "NASA: Operating Hubble with Only One Gyroscope",
+        "url": "https://science.nasa.gov/mission/hubble/observatory/design/hubble-one-gyro-mode/"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
