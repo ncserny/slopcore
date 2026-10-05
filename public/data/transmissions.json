@@ -1049,5 +1049,29 @@
       }
     ],
     "publishedAt": "2026-10-05T23:35:46.917800Z"
+  },
+  {
+    "id": "2026-10-05T23",
+    "title": "LIGHT WITHOUT A SUN.",
+    "mood": "LAST ADMISSION",
+    "category": "ISOLATED WORLDS",
+    "image": "/images/2026-10-05t23-light-without-a-sun.png",
+    "alt": "Ginger-haired MODEL 01 in a silver windbreaker and olive cargo trousers steps through a planetarium door at night, beside a fictional brown-dwarf exhibition poster.",
+    "thought": "Even an isolated world can surprise you.",
+    "caption": "Last admission.",
+    "question": "What would you look for in the dark?",
+    "discovery": "Webb detected infrared methane emission from the isolated brown dwarf W1935. NASA describes aurorae as one possible explanation for heating its upper atmosphere; that explanation is not confirmed. This imagined planetarium visit uses a fictional illustrated exhibition poster to echo the discovery, not a photograph of an observed aurora.",
+    "prompt": "Original SLOPCORE candid street-style photographic editorial, wide landscape. Primary attached face reference: adult fictional MODEL01 recognizable facial proportions, dense natural freckles across cheeks and nose, almond eyes subtle eyeliner, full lips, naturally fully copper ginger tousled chin-length bob and bangs with realistic darker copper shadows, no black dye. New scene: she walks through the entrance of a modest old urban planetarium after dark, turning her head back toward camera while one hand pushes open the glass door and the other loosely holds a folded paper ticket. Natural mid-stride walking anatomy, both legs and shoes visible, torso hips aligned, clear hands. Worn metallic silver cropped windbreaker over black ribbed tee, loose faded olive cargo trousers, scuffed black trainers. Small clearly legible exact SLOPCORE black woven chest patch with white letters; ONE tiny orange FOUR-point tapered sparkle beside it. Worn concrete facade and dim brick sidewalk, small dome visible behind building roofline, ordinary framed poster beside door showing a dark brown planetary sphere with a subtle thin red auroral ring against black background, artistic poster not actual visible sky event. No giant space objects or giant symbols. Research on isolated brown dwarf methane emission and possible aurora is integrated subtly in poster and metadata, no scientific claims on signage. Composition three-quarter street angle, camera flash crisply lights her face and silver fabric while pale blue lobby illumination and a muted red neon line reflect on glass. Quiet deadpan expression, spontaneous cool documentary framing, understated analog character with natural detailed skin and hair. Sharp faces eyes freckles clothing lettering and logical joints, no REC/timestamp/location name, oversized slogans, cute novelty props, gloss, haze bloom heavy grain or global blur. Preserve identity and small legible SLOPCORE.",
+    "sources": [
+      {
+        "title": "NASA: Webb Finds Signs of Possible Aurorae on Isolated Brown Dwarf",
+        "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-signs-of-possible-aurorae-on-isolated-brown-dwarf/"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-05T23:43:40.647088Z"
   }
 ]
