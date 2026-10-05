@@ -8,11 +8,19 @@ function pageTitle(title) {
     .replace(/\b(wytiwyg|wysiwyg|slopcore)\b/gi, word => word.toUpperCase());
   return `${name} SLOPCORE – Don't sell the dream`;
 }
+function setImage(img, entry, sizes) {
+  img.sizes = sizes;
+  if (entry.srcset) img.srcset = entry.srcset;
+  else img.removeAttribute('srcset');
+  img.src = entry.displayImage || entry.image;
+  img.alt = entry.alt;
+  if (entry.width && entry.height) {img.width = entry.width; img.height = entry.height;}
+}
 function render() {
   const entry = entries[selected]; if (!entry) return;
   $('channel').textContent = `CH ${String(entries.length - selected).padStart(3,'0')} / ${entry.mood.toUpperCase()}`;
   $('published').textContent = `${fmt.format(new Date(entry.publishedAt))}`;
-  $('hero-image').src = entry.image; $('hero-image').alt = entry.alt;
+  setImage($('hero-image'), entry, '(min-width: 1700px) 1600px, 92vw');
   $('full-image').href = entry.image;
   for (const field of ['title','thought','caption','question','discovery','category']) $(field).textContent = entry[field];
   $('older').disabled = selected === entries.length - 1;
@@ -31,12 +39,22 @@ function updateClock() {
 }
 function archive() {
   $('archive').replaceChildren(); $('count').textContent=`${entries.length} TRANSMISSION${entries.length===1?'':'S'} / AND COUNTING`;
-  entries.forEach((entry,i)=>{const b=document.createElement('button');b.className='archive-card';b.setAttribute('aria-label',`View ${entry.title}`);const img=document.createElement('img');img.src=entry.image;img.alt=entry.alt;img.loading='lazy';const div=document.createElement('div');const small=document.createElement('small');small.textContent=`${fmt.format(new Date(entry.publishedAt))} / ${entry.mood.toUpperCase()}`;const h=document.createElement('h3');h.textContent=entry.title;div.append(small,h);b.append(img,div);b.addEventListener('click',()=>{selected=i;render();$('transmission').scrollIntoView({block:'start'});});$('archive').append(b);});
+  entries.forEach((entry,i)=>{const b=document.createElement('button');b.className='archive-card';b.setAttribute('aria-label',`View ${entry.title}`);const img=document.createElement('img');img.loading='lazy';img.decoding='async';setImage(img,entry,'(max-width: 480px) 92vw, (max-width: 800px) 46vw, (min-width: 1700px) 520px, 31vw');const div=document.createElement('div');const small=document.createElement('small');small.textContent=`${fmt.format(new Date(entry.publishedAt))} / ${entry.mood.toUpperCase()}`;const h=document.createElement('h3');h.textContent=entry.title;div.append(small,h);b.append(img,div);b.addEventListener('click',()=>{selected=i;render();$('transmission').scrollIntoView({block:'start'});});$('archive').append(b);});
+}
+function applyData(data, initial) {
+  if(!Array.isArray(data)||!data.length)throw new Error('No transmissions yet');
+  const previous=entries[selected]?.id;
+  const wasLatest=selected===0;
+  entries=data.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+  const requested=initial?new URL(location.href).searchParams.get('hour'):previous;
+  selected=initial||!wasLatest?Math.max(0,entries.findIndex(e=>e.id===requested)):0;
+  archive();render();$('error').hidden=true;
 }
 async function load(initial=false) {
-  try {const response=await fetch('/data/transmissions.json',{cache:'no-store'});if(!response.ok)throw new Error('Archive unavailable');const data=await response.json();if(!Array.isArray(data)||!data.length)throw new Error('No transmissions yet');const previous=entries[selected]?.id;const wasLatest=selected===0;entries=data.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));const requested=initial?new URL(location.href).searchParams.get('hour'):previous;selected=initial||!wasLatest?Math.max(0,entries.findIndex(e=>e.id===requested)):0;archive();render();$('error').hidden=true;}catch(error){$('error').hidden=false;$('error').textContent=entries.length?'The next signal is taking a moment. Your current frame is still here.':'The archive could not be reached. Try reloading in a moment.';}
+  try {const response=await fetch('/data/gallery.json',{cache:'no-store'});if(!response.ok)throw new Error('Archive unavailable');applyData(await response.json(),initial);}catch(error){$('error').hidden=false;$('error').textContent=entries.length?'The next signal is taking a moment. Your current frame is still here.':'The archive could not be reached. Try reloading in a moment.';}
 }
 $('older').addEventListener('click',()=>{if(selected<entries.length-1){selected++;render();}});
 $('newer').addEventListener('click',()=>{if(selected>0){selected--;render();}});
 $('latest').addEventListener('click',()=>{selected=0;render();});
-load(true);setInterval(()=>load(),60000);setInterval(updateClock,30000);
+try {applyData(JSON.parse($('gallery-data').textContent),true);} catch {load(true);}
+setInterval(()=>load(),60000);setInterval(updateClock,30000);

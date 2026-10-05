@@ -4,7 +4,7 @@ A living community art archive inspired by [SLOPCORE](https://slopcore.fun/) and
 
 ## Run locally
 
-Requires Node 22+ and Python 3. No npm packages or image API key are required.
+Requires Node 22+ and Python 3. Install build dependencies with `npm ci`. No image API key is required.
 
 ```sh
 npm run check
@@ -13,6 +13,8 @@ npm run preview
 ```
 
 Open http://localhost:4173. Render builds with `npm run build`, publishes `dist`, and deploys commits from `main`. The hourly publisher explicitly triggers deployment because the service was created from a public Git URL.
+
+The build uses Sharp to generate responsive WebP images (480–1600 pixels wide) for every transmission. Full-resolution originals and prompts remain available in the archive. The latest image and browsing metadata are included in the initial HTML; the browser checks the lightweight `/data/gallery.json` for updates every minute. Fonts are served locally with their licenses in `public/fonts/`. Add new transmissions as usual—the next build generates their display images automatically.
 
 ## Add an hour
 

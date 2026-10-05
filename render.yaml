@@ -19,3 +19,6 @@ services:
       - path: /data/*
         name: Cache-Control
         value: no-cache
+      - path: /optimized/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
