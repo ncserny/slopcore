@@ -7,6 +7,15 @@ await rm('dist',{recursive:true,force:true});
 await mkdir('dist',{recursive:true});
 await cp('public','dist',{recursive:true});
 await mkdir('dist/optimized', {recursive:true});
+await mkdir('dist/assets', {recursive:true});
+const assetUrls = {};
+for (const name of ['style.css', 'app.js']) {
+  const content = await readFile(`public/${name}`);
+  const hash = createHash('sha256').update(content).digest('hex').slice(0,12);
+  const {name:stem, ext} = path.parse(name);
+  assetUrls[name] = `/assets/${stem}-${hash}${ext}`;
+  await writeFile(`dist${assetUrls[name]}`, content);
+}
 const entries = JSON.parse(await readFile('public/data/transmissions.json', 'utf8'))
   .sort((a,b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 const gallery = [];
@@ -30,6 +39,8 @@ await writeFile('dist/data/gallery.json', JSON.stringify(gallery));
 const latest = gallery[0];
 const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let html = await readFile('public/index.html', 'utf8');
+html = html.replace('href="/style.css"', `href="${assetUrls['style.css']}"`)
+  .replace('src="/app.js"', `src="${assetUrls['app.js']}"`);
 html = html.replace('<img id="hero-image" alt="" fetchpriority="high">',
   `<img id="hero-image" alt="${escape(latest.alt)}" fetchpriority="high" src="${escape(latest.displayImage)}" srcset="${escape(latest.srcset)}" sizes="(min-width: 1700px) 1600px, 92vw" width="${latest.width}" height="${latest.height}">`);
 html = html.replace('id="full-image" class=', `id="full-image" href="${escape(latest.image)}" class=`);
