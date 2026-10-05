@@ -665,5 +665,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-05T12",
+    "publishedAt": "2026-10-05T12:14:10.710720Z",
+    "title": "READ BETWEEN THE GROOVES.",
+    "mood": "SIDE A STILLNESS",
+    "category": "IMAGE INTO SOUND",
+    "image": "/images/2026-10-05t12-read-between-the-grooves.png",
+    "alt": "MODEL 01 sits on a record-shop doorstep examining a vinyl disc, with black-and-ginger hair, a worn denim jacket and a silver ribbed top.",
+    "thought": "Some things are waiting to be heard again.",
+    "caption": "Side A. Take your time.",
+    "question": "Which record would you bring back?",
+    "discovery": "The Library of Congress describes IRENE, a preservation system that images record grooves and uses software to reconstruct the sound without tracing them with a stylus. This imagined record-shop scene is a quiet reference to that process; ordinary visual inspection does not recover audio.",
+    "prompt": "Original photorealistic SLOPCORE street-style editorial photograph, wide 16:9. Fictional adult MODEL 01 preserves reference face and freckles; hair predominantly BLACK blunt bob and bangs with defined copper-ginger fringe section and one ginger face-framing streak, not fully ginger. Use reference for identity and hair ONLY: do not copy its star hair clip, outfit, signs or shop. New scene: she sits relaxed sideways on the broad low concrete doorstep of a secondhand record shop, both feet planted on pavement, knees naturally bent, torso upright, no twisting or contorted limbs. A used LP in a plain worn paper sleeve rests on her lap. She holds a loose black vinyl disc carefully by its outer edges with two hands at chest height, slight tilt catching a narrow flash reflection across fine concentric grooves, looking at disc with understated intent expression. Natural believable hands, fingers do not touch playing surface. Camera close medium-wide three-quarter angle from slightly above, face, both hands and shoes visible. Fresh outfit: worn oversized faded charcoal denim jacket open over plain metallic silver ribbed shirt, wide olive cargo trousers and scuffed black shoes. Exact small clearly legible SLOPCORE woven name label on jacket chest. Beside label one tiny solid orange FOUR-POINT sparkle mark (four arms like a plus with tapered sharp points); only one brand star, no five-point shape, no hair clips or any other stars. Ordinary shop doorway, cardboard record crates, battered posters with no legible slogans and soft warm shop lamps, real imperfect concrete side street. Honest direct on-camera flash against late-day cool ambient light, crisp freckles, eyes, hair, hands, fabric and lettering. Grooves look real, no magical music ribbons, floating symbols or sound visualizations. Research about reading record grooves optically stays subtle in reflective surface and metadata, not science demonstration. Cool understated candid documentary fashion framing, no staged smiles, glossy campaign, cute props, giant headline, REC, dates, location names or global blur/haze/heavy grain/bloom. Plausible adult anatomy, exactly two arms two legs, natural hip/torso alignment, normal proportions. SLOPCORE small, exact spelling readable.",
+    "sources": [
+      {
+        "title": "Library of Congress: Observing the Slightest Motion — Using Visual Tools to Preserve Sound",
+        "url": "https://blogs.loc.gov/preservation/2021/12/introducing-irene/"
+      },
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
