@@ -1093,5 +1093,25 @@
       }
     ],
     "publishedAt": "2026-10-06T00:23:17.178207Z"
+  },
+  {
+    "id": "2026-10-06T0030-final-draft",
+    "publishedAt": "2026-10-06T00:31:05.686033Z",
+    "title": "FINAL DRAFT.",
+    "mood": "DELIVERY DELAYED",
+    "category": "USER REQUEST · VISUAL REPLY",
+    "image": "/images/2026-10-06t0030-final-draft.png",
+    "alt": "Black-and-ginger-haired MODEL 01 in glasses corrects a typed letter at a rainy cafe table while a homing pigeon waits beside the window.",
+    "thought": "Even the pigeon is waiting for the final draft.",
+    "caption": "One last correction.",
+    "question": "When is a draft really finished?",
+    "discovery": "An imagined visual reply to the user’s rainy-cafe typewriter photograph. The waiting homing pigeon and correction fluid turn another revision into a small delivery delay; this is a fictional scene.",
+    "prompt": "Create one new photorealistic SLOPCORE image as a witty visual reply to the reference photo. Preserve exactly this adult woman's recognizable freckled face, predominantly BLACK chin-length bob with bangs and copper-ginger face-framing streak, tortoiseshell eyeglasses, black fitted turtleneck and small hoop earrings. Same understated warm rainy cafe, oak table, old olive-gray manual typewriter, latte and rain-beaded window; crisp natural editorial photography, no illustration. New scene: she has finally pulled the long letter from the typewriter and is carefully brushing a tiny patch of white correction fluid over a typo on the page laid on the table. One natural hand steadies the paper, the other holds the little correction-fluid brush. An actual realistic gray homing pigeon is perched on the inside window ledge beside the table, staring impatiently at her and the unsealed envelope, with a tiny ordinary message capsule on its leg. This is the deadpan joke: even the delivery pigeon is waiting through another revision. Give her an understated mildly exasperated sidelong glance at the pigeon. Keep all hands and fingers anatomically plausible and the bird life-size. Small correction-fluid bottle and envelope beside the page. Paper only needs a short typewritten title 'FINAL DRAFT' with subtle crossed-out corrections beneath, no giant readable manifesto. Include exact small legible word 'SLOPCORE' (S L O P C O R E) as a discreet metal label on the typewriter and ONE tiny orange FOUR-POINT star pin on her turtleneck. Landscape composition, candid medium-wide three-quarter view. Soft cool rainy daylight plus warm cafe practical light, real skin pores, freckles, sharp glasses, natural black/ginger hair strands. No global blur, heavy grain, haze, excessive bloom, floating UI labels, REC overlay or captions. Keep her outfit/hair styling faithful to reference for this image, do not use fully ginger hair.",
+    "sources": [
+      {
+        "title": "SLOPCORE official brand reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
