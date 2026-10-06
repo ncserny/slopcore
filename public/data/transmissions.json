@@ -1625,5 +1625,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-06T20",
+    "title": "SMALL TICKS.",
+    "mood": "A MOMENT AT THE COUNTER",
+    "category": "QUARTZ TIME",
+    "image": "/images/2026-10-06t20-small-ticks.png",
+    "alt": "Freckled copper-haired MODEL 01 stands at a small watch-repair kiosk on a rainy neon street while a repairer adjusts her silver watch strap.",
+    "thought": "A second starts smaller than you think.",
+    "caption": "Just a little adjustment.",
+    "question": "What small rhythm keeps your day together?",
+    "discovery": "NIST explains that quartz clocks commonly use a crystal oscillating at 32,768 Hz, with the frequency divided down to one-second ticks. This imagined watch-repair stop borrows that hidden rhythm; the strap adjustment does not demonstrate the watch’s internal oscillator or verify its accuracy.",
+    "prompt": "Create one original wide landscape 16:9 SLOPCORE candid photographic transmission. Use primary face reference for fictional adult MODEL 01: recognizable natural facial proportions dense freckles across cheeks and nose almond eyes subtle eyeliner full lips and tousled naturally fully copper-ginger chin-length bob with bangs realistic darker copper shadows, NO black split dye. New scene is a believable small watch-repair kiosk open onto a rainy dense near-future city street at night, worn architecture with subtle cyan and magenta signs reflected in wet pavement, everyday urban life rather than sci-fi theme park. MODEL 01 is STANDING at the open counter, upper body leaning only slightly toward it, both hips aligned above naturally planted feet. Camera views her from oblique side, medium-wide eye-height editorial framing, she looks down with an absorbed natural expression at her plain silver wristwatch resting on the counter, full three-quarter face visible and sharp with full head and ample headroom. Left forearm lies simply on counter with wristwatch, right hand relaxed on counter nearby. Adult repairer behind kiosk, wearing plain work shirt and simple magnifying loupe, uses a small tool to adjust her metal watch strap, hands separated clearly and realistic, no tangled arms, no impossible fingers. No oversized timepieces or dramatic clocks metaphor. Worn dark brown leather bomber jacket with small metallic silver pocket trim, charcoal ribbed shirt and straight washed black jeans, dark boots. Tiny exact legible SLOPCORE wordmark spelled S-L-O-P-C-O-R-E on jacket chest label beside ONE tiny orange FOUR-point tapered diamond sparkle star, never five points. Counter contains ordinary small watch straps, a closed parts tray, a low desk lamp, modest plain tools; behind repairer a few mundane clocks without legible slogans. Rain stays outdoors, kiosk interior dry. Real street crowd distant and ordinary, a delivery bike parked. Hard on-camera fill flash reveals skin pores freckles hair eyes clothing and small lettering crisp against cool ambient night and warm desk lamp. Restrained documentary natural colors and natural skin, not smiling staged portrait, not CGI glossy futuristic uniform. Inspiration in metadata is quartz crystals commonly oscillating at 32768 Hz inside watches; do not render giant crystal or visual equations. Imagined setting, not official NIST facility. No captions HUD REC UI overlays graphic border, no global blur haze heavy grain or excessive bloom. Plausible adult anatomy joints hands body proportions, preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "NIST — Timekeeping and clocks FAQs",
+        "url": "https://www.nist.gov/pml/time-and-frequency-division/timekeeping-and-clocks-faqs"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-06T20:12:42.253610Z"
   }
 ]
