@@ -1601,5 +1601,29 @@
       }
     ],
     "publishedAt": "2026-10-06T19:02:48.836353Z"
+  },
+  {
+    "id": "2026-10-06T200154-salvage-session",
+    "publishedAt": "2026-10-06T20:01:54.269013Z",
+    "title": "SALVAGE SESSION.",
+    "mood": "OLD HARDWARE, NEW CHANCES",
+    "category": "USER REQUEST · TERMINATOR 2 FAN ART",
+    "image": "/images/2026-10-06t200154-salvage-session.png",
+    "alt": "Freckled MODEL 01 in mechanic coveralls repairs a salvaged robot while young John Connor types on an Atari Portfolio, surrounded by discarded robots and CRTs at sunset.",
+    "thought": "Not everything discarded is finished.",
+    "caption": "A pocket computer. A second chance.",
+    "question": "What would you bring back to life?",
+    "discovery": "An imagined fan-art continuation of the user’s salvage-yard reference, pairing MODEL 01 with young John Connor from Terminator 2. The Centre for Computing History documents the 1989 Atari Portfolio as a pocket computer with a monochrome LCD and QWERTY keyboard. The robot diagnostic connection is fictional; this is not an official movie still or a technical reconstruction.",
+    "prompt": "Create a new original wide landscape color photographic scene based closely on attached salvage-yard image. Keep its sunset skyline, distant mountains, immense piles of weathered dismantled humanoid robots, obsolete beige CRT monitors and cables, gritty metallic textures and restrained orange status lights. Preserve the fictional ADULT woman's recognizable freckled face, black hair with copper front section and braid, goggles pushed onto head, worn gray mechanic coveralls over black top, natural deadpan expression. For this specific image preserve source hairstyle and mechanic styling. Move her slightly to left of center, sitting naturally on a stable salvage crate repairing a disconnected robot torso with a simple diagnostic lead, plausible hands and coherent body proportions. ADD young JOHN CONNOR as depicted in Terminator 2: Judgment Day, recognizable early-1990s youthful teenage character appearance, straight brown side-parted floppy hair, youthful face, worn olive jacket over dark graphic T-shirt, jeans and sneakers, fully clothed. He sits separately beside her on another stable crate at right, hunched only slightly in concentration, looking DOWN at his Atari Portfolio handheld computer, actively typing on the tiny keyboard with natural fingers. The device is clearly visible facing obliquely toward camera: authentic small gray 1989 Atari Portfolio pocket clamshell palmtop, landscape monochrome LCD on upper lid, compact full QWERTY keyboard on lower half, modest ATARI Portfolio logo, smaller than a laptop, no modern tablet or phone or glowing hologram. It rests on his knees, one hand supports base and the other types. Thin diagnostic cable connects handheld to robot electronics, fictional harmless robot repair rather than ATM hacking. Both characters sharp, realistic heads torsos hips limbs joints fingers; no touching or romantic interaction, just two people working on a robot. Her entire face and his face visible, generous headroom, slightly wider composition so both are equal scene participants and handheld is unmistakable. Keep exact small legible SLOPCORE spelled S-L-O-P-C-O-R-E on her coverall chest label beside ONE tiny orange FOUR-point diamond star, modest secondary lettering. Include silver fabric/tool details. Retain sunset colors and candid cinematic documentary photography, natural skin pores freckles eyes cloth scratches sharp at full resolution. Remove original floating MECHANIC/REBOOT/LOOK overlays and targeting brackets; no HUD captions REC overlays graphic frame. No excessive sparks next to child's hands or face, no weapons. Atmospheric background depth only, no global blur heavy grain haze or bloom. Original fan-art imagined scene, not a reproduced movie still. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "Centre for Computing History — Atari Portfolio",
+        "url": "https://www.computinghistory.org.uk/det/500/atari-portfolio/"
+      },
+      {
+        "title": "SLOPCORE — user-supplied visual reference context",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
