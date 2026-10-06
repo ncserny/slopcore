@@ -1,0 +1,111 @@
+---
+import '../styles/global.css';
+import {entries, hourPath, site, formatDate} from '../lib/gallery.js';
+const {entry, home = false} = Astro.props;
+const selected = entries.findIndex(item => item.id === entry.id);
+const older = entries[selected + 1];
+const newer = entries[selected - 1];
+const title = home ? "SLOPCORE – Don't sell the dream." : `${entry.title} · SLOPCORE`;
+const canonical = site + (home ? '/' : hourPath(entry));
+const latestId = entries[0].id;
+const legacyRoutes = Object.fromEntries(entries.map(item => [item.id.toLowerCase(), hourPath(item)]));
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="canonical" href={canonical} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={site + entry.image} />
+  <meta property="og:image:alt" content={entry.alt} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={entry.thought} />
+  <meta name="twitter:image" content={site + entry.image} />
+  <script is:inline define:vars={{legacyRoutes}}>
+    const requested = new URL(location.href).searchParams.get('hour');
+    const target = requested && legacyRoutes[requested.toLowerCase()];
+    if (target) location.replace(target + location.hash);
+  </script>
+  <meta name="description" content={home ? "SLOPCORE transmissions. Strange discoveries and impossible frames in a growing art archive." : entry.thought}>
+  <meta name="theme-color" content="#101010">
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={entry.thought}>
+  <meta property="og:type" content="website">
+  <title>{title}</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/ibm-plex-mono-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+
+  <!-- Same GA4 property and deferred loader as nader.io. -->
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K6K8ZZDZWT');
+
+      (function () {
+        var loaded = false;
+        function load() {
+          if (loaded) return;
+          loaded = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-K6K8ZZDZWT';
+          document.head.appendChild(s);
+        }
+        // Whichever comes first: the page finishing, or the visitor doing
+        // something. The interaction path matters for anyone who leaves before
+        // load fires on a slow connection.
+        if (document.readyState === 'complete') load();
+        else window.addEventListener('load', load, { once: true });
+        ['pointerdown', 'keydown', 'touchstart'].forEach(function (e) {
+          window.addEventListener(e, load, { once: true, passive: true });
+        });
+      })();
+    </script>
+</head>
+<body>
+  <a class="skip" href="#transmission">Skip to transmission</a>
+  <header class="topbar">
+    <a class="wordmark" href="/" aria-label="SLOPCORE home"><span class="star" aria-hidden="true">✦</span> $SLOPCORE</a>
+    <div class="onair"><span class="dot"></span> LIVE TRANSMISSIONS</div>
+    <a class="official" href="https://slopcore.fun/" target="_blank" rel="noopener noreferrer">THE ORIGINAL ↗</a>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="intro-title">
+      <div class="eyebrow">UNOFFICIAL COMMUNITY LOOKBOOK / EST. 2026</div>
+      <div class="intro-row"><h1 id="intro-title">THE WORLD IS WEIRD.<br><span>DON'T SELL THE DREAM</span></h1><p>A strange discovery becomes an impossible frame.<br>New worlds, one transmission at a time.<br><span class="muted">Stay curious. Take the star.</span></p></div>
+    </section>
+    <section id="transmission" class="transmission" aria-label="Current transmission">
+      <div class="frame-bar"><span id="channel">{`CH ${String(entries.length - selected).padStart(3, "0")} / ${entry.mood.toUpperCase()}`}</span><span id="published">{formatDate(entry.publishedAt)}</span><span id="signal">● ARCHIVE ONLINE</span></div>
+      <a id="full-image" href={entry.image} class="image-link" aria-label="Open this transmission image at full resolution" target="_blank" rel="noopener noreferrer"><img id="hero-image" alt={entry.alt} fetchpriority="high" src={entry.displayImage} srcset={entry.srcset} sizes="(min-width: 1700px) 1600px, 92vw" width={entry.width} height={entry.height} /><div class="frame-overlay" aria-hidden="true"><span>MODEL 01 / ONLINE</span><span>100% RENDERED</span></div></a>
+      <div class="transport"><div class="transport-buttons">
+        <a class="nav-link" href={older ? hourPath(older) : undefined} aria-disabled={!older}>← OLDER</a>
+        <a class="nav-link" href={hourPath(entries[0])} aria-disabled={selected === 0}>JUMP TO LATEST</a>
+        <a class="nav-link" href={newer ? hourPath(newer) : undefined} aria-disabled={!newer}>NEWER →</a>
+      </div></div>
+      <div id="error" role="status" hidden></div>
+      <div class="story" aria-live="polite"><div class="story-main"><div class="eyebrow" id="category">{entry.category}</div><h2 id="title">{entry.title}</h2><p id="thought">{entry.thought}</p><p class="caption" id="caption">{entry.caption}</p></div><aside><div class="eyebrow">A QUESTION FOR THE UNRENDERED</div><p id="question" class="question">{entry.question}</p><div class="source-block"><div class="eyebrow">THE REAL-WORLD SPARK</div><p id="discovery">{entry.discovery}</p><div id="sources">{entry.sources.map(source => <a href={source.url} target="_blank" rel="noopener noreferrer">{source.title} ↗</a>)}</div></div></aside></div>
+    </section>
+    <section class="archive" aria-labelledby="archive-title"><div class="section-head"><div><div class="eyebrow">EVERY FRAME LEAVES A TRACE</div><h2 id="archive-title">THE SIGNAL ARCHIVE<span class="star">✦</span></h2></div><span id="count">{entries.length} TRANSMISSIONS / AND COUNTING</span></div><div class="grid grid-cols-1 min-[481px]:grid-cols-2 min-[801px]:grid-cols-3 gap-5" id="archive">
+      {entries.map(item => <a class="archive-card block" href={hourPath(item)} aria-current={item.id === entry.id ? 'page' : undefined}>
+        <img loading="lazy" decoding="async" src={item.displayImage} srcset={item.srcset} sizes="(max-width: 480px) 92vw, (max-width: 800px) 46vw, (min-width: 1700px) 520px, 31vw" width={item.width} height={item.height} alt={item.alt} />
+        <div><small>{formatDate(item.publishedAt)} / {item.mood.toUpperCase()}</small><h3>{item.title}</h3></div>
+      </a>)}
+    </div></section>
+    <section class="manifest"><span class="star">✦</span><p>THE DREAMS<br>ARE <em>NOT</em> SOLD OUT.</p><div>A living art experiment inspired by SLOPCORE.<br>New worlds. Same copper bob. Same star.<br><a href="https://x.com/slopcoresolana" target="_blank" rel="noopener noreferrer">SLOPCORE ON X ↗</a></div></section>
+  </main>
+  <footer><span>COMMUNITY ART / AI-GENERATED IMAGERY</span><span><a href="https://github.com/ncserny/slopcore">SOURCE & PROMPTS ↗</a> · <a href="https://nader.io">NADER.IO ↗</a></span><span>END OF TRANSMISSION ✦</span></footer>
+  <script is:inline define:vars={{latestId}}>
+    setInterval(async () => {
+      try {
+        const response = await fetch('/data/gallery.json', {cache:'no-store'});
+        if (!response.ok) return;
+        const data = await response.json();
+        if (data[0]?.id && data[0].id !== latestId) location.reload();
+      } catch { /* Keep the current artwork visible if the archive is offline. */ }
+    }, 60000);
+  </script>
+</body>
+</html>

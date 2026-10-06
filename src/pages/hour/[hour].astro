@@ -1,0 +1,9 @@
+---
+import Gallery from '../../components/Gallery.astro';
+import {entries} from '../../lib/gallery.js';
+export function getStaticPaths() {
+  return entries.map(entry => ({params:{hour:entry.id.toLowerCase()}, props:{entry}}));
+}
+const {entry} = Astro.props;
+---
+<Gallery entry={entry} />

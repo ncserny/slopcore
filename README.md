@@ -4,7 +4,7 @@ A living community art archive inspired by [SLOPCORE](https://slopcore.fun/) and
 
 ## Run locally
 
-Requires Node 22+ and Python 3. Install build dependencies with `npm ci`. No image API key is required.
+Requires Node 22.23.3 (see `.node-version`). Install build dependencies with `npm ci`. No image API key is required.
 
 ```sh
 npm run check
@@ -12,15 +12,19 @@ npm run build
 npm run preview
 ```
 
-Open http://localhost:4173. Render builds with `npm run build`, publishes `dist`, and deploys commits from `main`. The hourly publisher explicitly triggers deployment because the service was created from a public Git URL.
+Open the URL shown by Astro (normally http://localhost:4321). Use `npm run dev` for development. Render builds with `npm run build`, publishes `dist`, and deploys commits from `main`. The hourly publisher explicitly triggers deployment because the service was created from a public Git URL.
 
-The build uses Sharp to generate responsive WebP images (480–1600 pixels wide) for every transmission. Full-resolution originals and prompts remain available in the archive. The latest image and browsing metadata are included in the initial HTML; the browser checks the lightweight `/data/gallery.json` for updates every minute. Fonts are served locally with their licenses in `public/fonts/`. Add new transmissions as usual—the next build generates their display images automatically.
+The Astro 7 static build uses Tailwind CSS 4 through its Vite plugin. Existing custom typography and visual styling are preserved; Tailwind utilities provide responsive archive layout without resetting browser styles. Sharp generates responsive WebP images (480–1600 pixels wide), retaining full-resolution originals and prompts.
 
-HTML (`/` and `/index.html`) and `/data/*` use `Cache-Control: no-store, max-age=0` so transmission links reload the current build. Content-hashed `/assets/*` and `/optimized/*` use a one-year immutable cache. These rules are configured in the Render dashboard as well as `render.yaml`; this service is not Blueprint-managed, so editing the YAML alone does not apply live header changes.
+Every transmission gets a fully rendered page at `/hour/<lowercase-id>/`, with its own title, description, canonical URL, social preview and normal archive/navigation links. The homepage shows the latest artwork. The build generates `sitemap.xml`, `robots.txt` and a noindex 404 page, and checks every output page. Browsers check for newly published entries every minute while preserving an older selected page.
 
-## Add an hour
+Legacy `/?hour=<id>` links redirect immediately with `location.replace`, using a map generated from the archive. Render static redirect rules match URL paths, not query values; this is a browser redirect, not an HTTP 301. A genuine query-aware 301 would require a server or edge layer. Canonical tags and sitemap entries use the new URLs.
 
-Follow [PUBLISHING.md](PUBLISHING.md). Add an original generated asset under `public/images/` and a metadata record to `public/data/transmissions.json`. Preserve all previous records and assets. The browser refreshes the archive every minute, supports `?hour=<id>` links, and keeps older selections visible while new entries arrive.
+HTML (`/` and `/index.html`) and `/data/*` use `Cache-Control: no-store, max-age=0`. Content-hashed `/optimized/*` retain a one-year immutable cache. Astro emits fingerprinted CSS under `/_astro/`. Header rules are configured in the Render dashboard as well as `render.yaml`; this service is not Blueprint-managed, so editing the YAML alone does not apply live headers.
+
+## Add a transmission
+
+Follow [PUBLISHING.md](PUBLISHING.md). Add an original generated asset under `public/images/` and a metadata record to `public/data/transmissions.json`. Preserve all previous records and assets. The next build automatically creates its static page, legacy redirect mapping, responsive images and sitemap entry.
 
 ## Brand references
 
