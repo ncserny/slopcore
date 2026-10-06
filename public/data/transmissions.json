@@ -1329,5 +1329,33 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-06T09",
+    "publishedAt": "2026-10-06T09:39:29Z",
+    "title": "GROUND TONE.",
+    "mood": "LISTEN BEFORE LEAVING",
+    "category": "SAND HAS A VOICE",
+    "image": "/images/2026-10-06t09-ground-tone.png",
+    "alt": "Freckled ginger-haired MODEL 01 walks down a dune at blue dusk carrying a handheld sound recorder, in a silver SLOPCORE windbreaker with an orange four-point star and dusty plum cargo trousers.",
+    "thought": "The quietest-looking place still has something to say.",
+    "caption": "Leave the speakers at home.",
+    "question": "What would you record if you stopped talking?",
+    "discovery": "Some sand dunes produce sustained low musical sounds when sand slides. A 2006 Physical Review Letters study linked the tone to synchronized motion of moving grains; a NASA-indexed study examined the acoustic and seismic emissions of booming dunes. This field-recording encounter is imagined, rather than documentation of a particular singing dune.",
+    "prompt": "Generate an original landscape color photograph for SLOPCORE. The attached face reference defines fictional adult MODEL 01 only: match recognizable facial proportions, dense natural freckles across cheeks and nose, almond-shaped eyes with subtle eyeliner, full lips and natural deadpan expression; fully copper-ginger tousled bob and bangs with darker copper shadows, no black split dye. Fresh composition: candid documentary photograph of her taking a careful walking step down a gentle dry sand dune at late dusk, recording the sound of sliding sand. Camera at her eye level from slightly downhill, medium-wide three-quarter body framing with full unobstructed head and ample headroom. Both legs and hips naturally aligned for an ordinary slow downhill step; boots lightly sink into the sand, one small trail of disturbed grains behind her. She wears a worn metallic silver lightweight zip windbreaker, washed dark plum loose cargo trousers, dusty dark hiking boots. On the windbreaker left chest is a SMALL clear stitched black label reading exactly SLOPCORE, spelled S-L-O-P-C-O-R-E, modest and legible, secondary to the picture. Next to it exactly ONE restrained orange four-point star pin, a diamond with four tapered points, not five or six. Her right hand naturally holds a compact black handheld audio recorder with a short foam-covered microphone at waist level aimed down toward the sand, no oversized equipment; her left arm hangs relaxed for balance, fingers anatomically correct. No headphones covering hair or face. She glances toward the camera, ordinary tired curiosity rather than staged smile. Nearby off to one side a small canvas equipment bag and a simple footprint trail; far away one companion appears as a tiny distant walking figure. Cool blue dusk sky, muted beige grey dune folds, subtle remaining warm light along distant horizon, hard on-camera flash crisp on her face and jacket. Street-style fashion in an unexpected real outdoor setting, restrained editorial documentary photography. Natural skin pores and crisp freckles, eyes, hair, seams and lettering; realistic hands, joints and proportions. No dunes shaped like speakers or faces, no magical sound waves, no giant metaphors, no glowing props or holograms. The singing-sand research appears only through the scene of field recording. Original photograph, not illustration, not glossy sci-fi, no artificial smoothing, no heavy grain, no global blur, haze or bloom; only faint analog texture. No UI overlays, REC labels, timestamps, large headlines or motivational signs. Keep full-resolution original.",
+    "sources": [
+      {
+        "title": "Physical Review Letters — Song of the Dunes as a Self-Synchronized Instrument",
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.97.018002"
+      },
+      {
+        "title": "NASA NTRS — Seismic and acoustic emissions of a booming dune",
+        "url": "https://ntrs.nasa.gov/citations/19760033141"
+      },
+      {
+        "title": "SLOPCORE — official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
