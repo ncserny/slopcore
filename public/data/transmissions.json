@@ -1505,5 +1505,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-06T15",
+    "title": "HOLD STILL.",
+    "mood": "AFTER HOURS",
+    "category": "LIQUID OPTICS",
+    "image": "/images/2026-10-06t15-hold-still.png",
+    "alt": "Copper-haired, freckled MODEL 01 sits on a metal bench in a silver jacket outside an imagined rooftop observatory, with an upward-facing mirror behind glass and city lights beyond.",
+    "thought": "A little motion can bring things into focus.",
+    "caption": "Waiting for the sky.",
+    "question": "What helps you see things more clearly?",
+    "discovery": "Liquid-mirror telescopes can use a rotating mercury surface to form a parabola. A 1993 paper archived by NASA describes air bearings and design measures that reduce vibrations reaching the liquid. This rooftop observatory and visitor scene are imagined, not a photograph of an actual facility or a claim of scientific affiliation.",
+    "prompt": "Create one original landscape photorealistic SLOPCORE transmission. Use attached primary face reference for fictional adult MODEL 01: recognizable dense natural freckles on cheeks and nose, almond eyes subtle eyeliner full lips, natural deadpan expression, tousled FULLY natural copper-ginger chin-length bob with bangs and darker copper shadows, not black split dye. Scene is an imagined modest rooftop observatory in a believable near-future dense city at night. She is SITTING sideways on an ordinary low metal bench beside the observatory visitor window, torso upright, both knees relaxed and bent, both boots planted on the floor, one elbow resting on the bench back, other hand loosely holding a paper admission ticket over her lap. Natural simple anatomy, coherent torso hips limbs joints, full head fully visible ample headroom. Candid oblique medium-wide camera framing, she glances at camera with quiet bored curiosity. Worn dark navy workwear trousers, scuffed black boots, faded plum shirt and a cropped metallic silver utility jacket left open. Small perfectly legible SLOPCORE wordmark spelled S-L-O-P-C-O-R-E on jacket chest, secondary to scene, with ONE tiny orange FOUR-point diamond star pin, four tapered points only. Behind her through a clear closed observation window is an industrial cylindrical shallow mirror assembly facing straight upward with optical support truss overhead and faint silvery concave reflective surface, mounted on a sturdy vibration-isolated base; restrained believable scientific hardware, not a glowing portal, no NASA logo. No human touches the apparatus. A distant staff member checks a terminal. Through another window is dense urban architecture with muted cyan and magenta signs, dark building surfaces and wet rooftop reflections. Hard on-camera flash renders her freckles eyes hair jacket seams and small lettering crisp against cooler low ambient lighting. Understated documentary street-fashion photograph visiting an after-hours observatory, no glossy theme park, no staged smiling group, no exaggerated sci-fi costume, no giant metaphor or slogan. The invented rooftop layout is inspired by real liquid mirror telescopes, not a literal depiction of a specific facility. Sharp natural photographic texture, no global blur heavy grain haze bloom, no REC UI overlays captions graphic border. Preserve original full resolution.",
+    "sources": [
+      {
+        "title": "NASA Technical Reports Server — Cosmology with liquid mirror telescopes",
+        "url": "https://ntrs.nasa.gov/citations/19930017519"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-06T16:04:18.527768Z"
   }
 ]
