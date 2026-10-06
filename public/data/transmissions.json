@@ -1529,5 +1529,29 @@
       }
     ],
     "publishedAt": "2026-10-06T16:04:18.527768Z"
+  },
+  {
+    "id": "2026-10-06T16",
+    "title": "PATTERN MEMORY.",
+    "mood": "WORK IN PROGRESS",
+    "category": "WOVEN INSTRUCTIONS",
+    "image": "/images/2026-10-06t16-pattern-memory.png",
+    "alt": "Freckled copper-haired MODEL 01 leans against a textile workshop bench in a charcoal shirt and silver trousers, holding a woven swatch beside a stationary loom and linked punched cards.",
+    "thought": "A pattern is a set of choices you can wear.",
+    "caption": "One row at a time.",
+    "question": "Which pattern keeps showing up in your life?",
+    "discovery": "The Science and Industry Museum describes Jacquard looms storing weaving patterns in punched cards, which the loom head reads to reproduce a design. Holes and unpunched spaces provide two possible settings. This imagined workshop borrows that connection between textiles and stored instructions; its generated cards are not a verified working pattern.",
+    "prompt": "Original landscape SLOPCORE candid editorial photograph, fictional adult MODEL 01 identity from supplied face reference: recognizable natural facial proportions, dense real freckles cheeks and nose, almond eyes subtle eyeliner, full lips, tousled naturally fully copper-ginger chin length bob with bangs darker copper shadows, no black split dye. Scene: an ordinary worn textile sampling workshop with tall dusty daylight windows, off-white painted brick, wooden workbench and thread cones. She is STANDING leaning slightly forward against the workbench, weight on one straight leg, other leg naturally relaxed, left hand flat on table, right hand lifting one corner of a small woven navy-and-cream geometric fabric swatch. Plausible hips torso alignment joints fingers, two arms two legs. Candid three-quarter view from across the bench, she pauses looking toward camera deadpan and mildly curious. Full head completely visible, generous headroom. Outfit faded charcoal oversized short-sleeve work shirt, silver metallic straight-leg trousers and worn black shoes. Small exact legible white SLOPCORE spelled S-L-O-P-C-O-R-E on a modest black chest patch and ONE tiny orange FOUR-point tapered diamond star embroidered next to it, not five points. In the background a stationary antique wooden Jacquard loom, understated industrial dark wood frame, orderly vertical thread cords and a linked chain of ordinary rectangular tan punched cards hanging from its upper mechanism. It is visibly not operating, no hands near moving machinery, no giant computer symbolism. A fabric technician in plain work clothes sorts thread in far background. Some folded cloth and cardboard pattern folders on shelves. Cool natural daylight plus hard on-camera fill flash, crisp eyes face freckles hair fabric details hands lettering, minimal natural analog texture. Grounded lived-in fashion photograph, not a museum advertisement, no staged smile, cute props, futuristic glowing machine, motivational sign, dramatic haze, heavy grain, global blur, bloom, REC, overlay labels or frame. No copied outfit pose framing from face reference. The imagined workshop is visually inspired by Jacquard punched-card pattern storage but does not claim the generated cards form a functioning actual pattern. Preserve full resolution, natural adult body proportions, clear limbs.",
+    "sources": [
+      {
+        "title": "Science and Industry Museum — Weaving numbers: The Jacquard loom and early computing",
+        "url": "https://blog.scienceandindustrymuseum.org.uk/jacquard-loom/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-06T17:00:57.110409Z"
   }
 ]
