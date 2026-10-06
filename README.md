@@ -1,4 +1,8 @@
-# SLOPCORE — Hourly transmissions
+# SLOPCORE
+
+**Explore the live art archive: [slopcore.nader.io](https://slopcore.nader.io/)**
+
+For more information and project details, visit [nader.io/projects/slopcore](https://nader.io/projects/slopcore).
 
 A living community art archive inspired by [SLOPCORE](https://slopcore.fun/) and the hourly format of [clawn](https://clawn.nader.io/). One unusual web discovery becomes one original image, a thought, and a question. AI-generated speculative imagery is distinguished from sourced facts.
 
