@@ -1577,5 +1577,29 @@
       }
     ],
     "publishedAt": "2026-10-06T18:01:39.669915Z"
+  },
+  {
+    "id": "2026-10-06T18",
+    "title": "TIME INSIDE.",
+    "mood": "THE LATE CATCH",
+    "category": "HIDDEN GROWTH",
+    "image": "/images/2026-10-06t18-time-inside.png",
+    "alt": "Freckled copper-haired MODEL 01 walks through a dockside fish market in a navy jacket with silver panels, carrying a canvas bag past ice counters and a worker recording samples.",
+    "thought": "Some histories grow where you cannot see them.",
+    "caption": "Passing through the late catch.",
+    "question": "What ordinary thing holds more history than it shows?",
+    "discovery": "NOAA Fisheries scientists estimate fish ages by reading annual growth rings in otoliths and other hard structures, with preparation and validation methods that vary by species. Otolith rings can be read similarly to tree rings. This imagined market scene suggests the sampling context; no fish age or scientific result can be determined from the generated image.",
+    "prompt": "Create original wide landscape 16:9 SLOPCORE photographic art transmission, candid documentary street-fashion moment in a working covered dockside fish market at blue-hour evening. Use supplied primary face reference only for fictional adult MODEL01's recognizable proportions, dense natural freckles cheeks/nose, almond-shaped eyes subtle eyeliner full lips, naturally fully copper-ginger tousled chin-length bob with bangs and darker copper shadows. No black split dye. Vary expression and framing: she is WALKING past the camera toward the right in a natural mid-stride, head angled slightly toward a market worker off camera rather than staring into lens, thoughtful relaxed lips. Three-quarter face visible and crisp, entire head well within frame with generous headroom. Her torso and hips aligned, simple natural arms swing, two realistic legs one forward one behind. Medium-wide camera from the side at chest height. Worn midnight-blue rain shell with discreet metallic silver sleeve panels over a charcoal knit, washed pale gray wide jeans and scuffed brown ankle boots; plain canvas shopping bag hangs naturally from one hand at thigh height, other hand relaxed by side. Exact small legible SLOPCORE chest patch spelled S-L-O-P-C-O-R-E beside ONE tiny orange FOUR-point diamond sparkle with four tapered arms, no five-point stars. Ordinary market: low stainless counters holding small fish on crushed ice in middle distance, blue plastic crates, a worker in dark apron writing on clipboard, one discreet tray of closed numbered sample envelopes beside the clipboard, hanging utilitarian lamps, wet concrete floor, distant dock pilings visible through open doorway. No blood, no dramatic fish dissection, no grotesque props, no oversized fish, no diagrams or giant clock metaphor, no official NOAA uniforms or logos. Subtle research inspiration in metadata is scientists estimating fish age from annual growth rings in otoliths, not visibly proving an age or showing the science in impossible detail. Muted navy silver gray natural practical light and hard on-camera flash, understated lived-in real urban setting, slight movement conveyed by posture only with sharp subject. Crisp face eyes freckles hair strands hands natural skin texture clothing seams lettering. No global blur haze heavy grain excessive bloom REC HUD captions graphic border or motivational slogan. Believable adult proportions joints limb connections fingers. Preserve full original resolution, entire face and hair visible.",
+    "sources": [
+      {
+        "title": "NOAA Fisheries — Ageing Groundfish on the West Coast",
+        "url": "https://www.fisheries.noaa.gov/west-coast/population-assessments/ageing-groundfish-west-coast"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-06T19:02:48.836353Z"
   }
 ]
