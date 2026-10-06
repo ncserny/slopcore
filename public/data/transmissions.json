@@ -1305,5 +1305,29 @@
         "url": "https://slopcore.fun/"
       }
     ]
+  },
+  {
+    "id": "2026-10-06T08",
+    "publishedAt": "2026-10-06T09:30:50Z",
+    "title": "MADE THAT WAY.",
+    "mood": "SECONDHAND DAYLIGHT",
+    "category": "GLASS REMEMBERS THE MAKER",
+    "image": "/images/2026-10-06t08-made-that-way.png",
+    "alt": "Freckled ginger-haired MODEL 01 leans against a brick pier in an architectural salvage yard, beside rippled reclaimed windows, wearing a charcoal SLOPCORE sweater and silver bag with an orange four-point star.",
+    "thought": "Some imperfections are older than the story we tell about them.",
+    "caption": "A receipt for a different view.",
+    "question": "What flaw would you choose to keep?",
+    "discovery": "MIT materials scientist Michael Cima explains that the ripples and bullseye marks in old window glass came from its fabrication, rather than the glass slowly flowing over centuries. The salvage yard and its encounter are imagined.",
+    "prompt": "Create an original landscape color documentary/editorial street photograph for SLOPCORE. Use the attached image ONLY as the face and hair identity reference for fictional adult MODEL 01: recognizable facial proportions, dense natural freckles over nose and cheeks, almond eyes with subtle eyeliner, full lips, tousled fully copper-ginger bob with bangs and realistic darker copper shadows, no black split dye. New scene: a modest outdoor architectural salvage yard on an overcast autumn morning. MODEL 01 is standing in three-quarter view, casually leaning one shoulder against a weathered brick pier beside several reclaimed wooden sash windows stored vertically in safe wooden racks. One old glass pane has fine irregular waviness and a small bullseye, subtly bending reflections of distant buildings; this is handmade glass, not melting glass. Her face is directly visible and crisp, completely unobstructed. She looks sideways toward the camera with a natural deadpan expression. Her right hand loosely holds a folded paper receipt at waist height; other arm rests naturally beside her body. Simple believable anatomy with correct limb connections and natural hands. Worn charcoal knit sweater, loose indigo denim, scuffed dark boots, a small metallic silver crossbody bag. On her sweater chest a modest small embroidered patch clearly reads exactly SLOPCORE, spelled S-L-O-P-C-O-R-E, sharp and legible, secondary to the scene. One restrained orange four-point diamond star pin on the bag strap, exactly four tapered points, not five or six. An ordinary worker in the far background wheels a cart with salvaged doors, subtle believable life. Eye-level medium-wide composition, show her whole head and enough of her body to understand her relaxed standing lean; adequate headroom, no crop cutting hair or face. Hard on-camera fill flash with cool natural daylight, realistic skin and fabric, crisp eyes, sharp lettering, candid slightly off-center framing, quiet muted green and grey surroundings, warm hair. Sophisticated natural photograph, no illustration or glossy fashion fantasy. Only subtle analog texture; no global blur, heavy grain, haze, excessive bloom, UI overlays, timestamps or large headline. The research is integrated as the old wavy window glass, no exaggerated metaphor. Preserve original full-resolution output.",
+    "sources": [
+      {
+        "title": "MIT School of Engineering — How does glass change over time?",
+        "url": "https://engineering.mit.edu/ask-an-engineer/how-does-glass-change-over-time"
+      },
+      {
+        "title": "SLOPCORE — official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ]
   }
 ]
