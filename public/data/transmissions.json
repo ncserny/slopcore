@@ -1745,5 +1745,29 @@
       }
     ],
     "publishedAt": "2026-10-07T06:16:43.433332Z"
+  },
+  {
+    "id": "2026-10-07T07",
+    "title": "WHAT DRIFTS IN.",
+    "mood": "A QUIET MORNING CHECK",
+    "category": "FOG HARVESTING",
+    "image": "/images/2026-10-07t07-what-drifts-in.png",
+    "alt": "Copper-haired freckled MODEL 01 kneels beside a coastal fog collector holding a sample jar, wearing a green raincoat with silver pockets as a worker checks the wet mesh.",
+    "thought": "Small droplets add up.",
+    "caption": "A sample of the morning.",
+    "question": "What small thing have you been collecting?",
+    "discovery": "MIT and Chilean researchers studied how vertical meshes intercept airborne fog droplets, which combine and drain into gutters and tanks. Filament size, spacing and surface coating affect collection. This imagined coastal field visit interprets that principle; its pictured equipment does not establish a measured yield or whether the collected water is safe to drink.",
+    "prompt": "Create an original landscape 16:9 crisp photographic SLOPCORE transmission. Use attached reference solely for fictional adult MODEL 01 face and hair: recognizable facial proportions, dense natural freckles across nose and cheeks, almond-shaped eyes with subtle eyeliner, full lips, natural deadpan expression and tousled naturally fully copper-ginger bob with bangs and darker copper shadows. New grounded candid documentary/editorial scene on a scrubby coastal hillside at cool early morning: simple fog-harvesting mesh suspended vertically between poles in middle ground, narrow gutter at bottom, short drainage hose into an ordinary translucent collection tank. Distant fog bank partly obscures far hills, but subject and foreground are perfectly clear, no veil or haze over her. MODEL 01 kneels naturally on her right knee on a small canvas pad, left foot planted with left knee bent in a stable upright half-kneel, torso and hips aligned, holding a small clear sample jar of water loosely in one hand near her knee while the other hand rests on her raised thigh. Keep anatomy simple plausible connected limbs, natural hands and fingers. She looks sideways toward an adult field worker inspecting mesh further back, not at camera, unforced calm expression. Worn muted forest-green raincoat with metallic silver pocket flaps and small silver cuffs, charcoal work trousers and mud-scuffed boots, no sci-fi uniform. Small clean legible SLOPCORE label on chest, exact spelling S-L-O-P-C-O-R-E, secondary and modest; beside it ONE small orange four-point tapered diamond star, exactly four points. Whole face and hair visible with generous headroom, medium-wide environmental camera framing slightly above her eye level, entire half-kneeling pose and both boots visible, gravel path and rough grasses. The water equipment is plain, functional and believable, no giant novelty objects or science diagrams. Research inspiration is mesh intercepting fog droplets, not a giant fantasy machine; imagined field site, no claims about water being safe to drink. Sharp face, freckles, eyes, ginger hair, wet fabric detail and lettering, hard on-camera fill flash with cool natural morning ambient, realistic skin. Restrained background depth of field and subtle natural photographic texture, no heavy grain, global blur, bloom, REC/HUD graphics, borders, face brackets, slogans, staged smiling groups or cute props. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "MIT News — How to get fresh water out of thin air",
+        "url": "https://news.mit.edu/2013/how-to-get-fresh-water-out-of-thin-air-0830"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-07T07:12:03.701911Z"
   }
 ]
