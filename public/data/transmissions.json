@@ -1865,5 +1865,29 @@
       }
     ],
     "publishedAt": "2026-10-07T11:13:14.586450Z"
+  },
+  {
+    "id": "2026-10-07T12",
+    "title": "STILL REMEMBERS.",
+    "mood": "LATE-SHIFT FATIGUE",
+    "category": "MAGNETIC CORE MEMORY",
+    "image": "/images/2026-10-07t12-still-remembers.png",
+    "alt": "Copper-haired freckled MODEL 01 yawns at a worn electronics counter beside CRT monitors and a small wire-threaded memory assembly, wearing a plum jacket with silver trim and a small SLOPCORE patch.",
+    "thought": "The smallest pieces held the whole thing together.",
+    "caption": "One more box before closing.",
+    "question": "What old piece of technology would you keep?",
+    "discovery": "The Computer History Museum explains that magnetic core memory stored each bit in a tiny magnetic ring threaded onto wires: opposite magnetizations represented zero and one, and the wires sensed and changed them. This imagined late-night stall includes a fictional wire-grid assembly, not an exact museum artifact or a verified working memory device.",
+    "prompt": "Create an original landscape 16:9 crisp SLOPCORE candid documentary/editorial photograph. Use attached image solely for fictional adult MODEL 01's consistent facial identity and hair, not expression, framing or outfit. Preserve recognizable facial proportions, dense natural freckles across cheeks and nose, almond-shaped eyes with subtle eyeliner, full lips, tousled naturally fully copper-ginger bob with bangs and darker copper shadows. Scene: late-night small used-electronics stall in a believable near-future covered city market, worn counter, boxes of old boards, two beige CRT monitors, cables and a small square framed magnetic-core memory plane lying on the counter, subtle grid of tiny dark ferrite rings threaded on fine copper wires, not an enormous prop or jewelry. Half-open shutters, dense real architecture outside, a few distant commuters, restrained cyan shop light and soft magenta reflections on wet pavement, crisp main subject with hard on-camera flash. MODEL 01 stands behind counter, feet comfortably apart and planted, torso upright with a small relaxed lean, left palm simply resting on countertop, right hand loosely resting at side. Natural tired expression captured in a modest mid-yawn: jaw gently open, eyes partly closed with sleepy crinkles, brows relaxed, clearly recognizable same woman, not a glam pose, blank stare or forced smile. Slight three-quarter side angle, medium-wide environmental composition from head to below knees with ample headroom, simple believable body and hands. Outfit: worn dark plum zip-up work jacket with metallic silver cuffs and collar, faded gray T-shirt, loose black work trousers, plain shoes. Small clean chest patch spelling exactly SLOPCORE, S-L-O-P-C-O-R-E, legible modest secondary lettering, with one small restrained orange four-point tapered diamond star beside it, exactly four points. No other stars. One adult coworker far in background closing a cardboard box, not a posed group. Integrate research subtly: old magnetic-core memory with fine wire grid on counter, no infographic, no giant object, no claims the device is running or exact reconstruction of a museum artifact. Crisp face freckles copper hair eye details clothing stitching and lettering; realistic skin and restrained photographic texture, background depth of field only. Plausible torso hips shoulders elbows wrists hands joints, no contorted limbs. Keep sleepy expression candid and understated, no exaggerated comic yawn. No novelty toys, slogan signs, headline text, excessive bloom, haze, heavy grain, global blur, REC/HUD graphics, face brackets, borders or captions. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Computer History Museum — Magnetic Core Memory",
+        "url": "https://www.computerhistory.org/revolution/memory-storage/8/253"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-07T12:18:40.760911Z"
   }
 ]
