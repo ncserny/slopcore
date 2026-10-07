@@ -1793,5 +1793,29 @@
       }
     ],
     "publishedAt": "2026-10-07T08:12:06.928130Z"
+  },
+  {
+    "id": "2026-10-07T09",
+    "title": "A SECOND PASS.",
+    "mood": "ABSORBED CONCENTRATION",
+    "category": "STENCIL PRINTING",
+    "image": "/images/2026-10-07t09-a-second-pass.png",
+    "alt": "Freckled copper-haired MODEL 01 studies a navy and raspberry print proof in a working print shop, wearing a burgundy SLOPCORE shirt and silver trousers.",
+    "thought": "A copy can still carry a trace of the process.",
+    "caption": "Look a little closer.",
+    "question": "What would you put on your first printed page?",
+    "discovery": "Issue Press explains that a Risograph transfers an image to a thin stencil wrapped around a single-color ink drum; as the drum rotates, ink passes through the stencil onto paper. This imagined print-shop scene borrows the physical process. The pictured equipment and abstract proofs are fictional, not a verified reproduction of a particular duplicator or printing workflow.",
+    "prompt": "Create an original landscape 16:9 crisp SLOPCORE candid documentary/editorial photograph. Use attached reference solely for fictional adult MODEL 01's facial identity and hair, not its static expression. Match recognizable face proportions, dense natural freckles across cheeks and nose, almond-shaped eyes with subtle eyeliner, full lips, tousled naturally fully copper-ginger bob with bangs and darker copper shadows. Expression clearly different from prior surprise/smile: absorbed concentration, eyebrows gently drawn together, eyes actively focused down at a printed proof, lips lightly pressed, a natural thoughtful working expression rather than sultry half-lidded deadpan or posing at camera. She sits sideways at a battered print-shop worktable on an ordinary wooden chair, torso upright leaning gently toward table, both feet naturally on floor, elbows comfortably bent, holding one A4 paper proof by its two lower corners in simple natural hands. Whole face visible in three-quarter view with ample headroom. New grounded daytime independent print shop with worn shelves of paper stocks, ink drums in cases, practical gray stencil duplicator with paper output tray, a background adult coworker sorting paper. Ordinary real workshop, a little window daylight and hard on-camera flash, no futuristic neon this time. Outfit: faded burgundy cotton T-shirt with small clean chest print spelling exactly SLOPCORE, S-L-O-P-C-O-R-E, legible but modest and secondary, one tiny restrained orange four-point tapered diamond star beside it, exactly four points; open worn dark charcoal cardigan, relaxed metallic silver trousers and scuffed dark sneakers. Uncoated paper proofs with abstract navy and raspberry linework and slight offset registration, without slogans or extra stars, stacks of zines and a pencil on desk. No giant props or staged smiling group. Medium-wide slightly elevated environmental composition showing her chair, full seated body, table and machine, a natural candid working moment. Research is stencil printing with a rotating single-color ink drum, subtle in setting and metadata, not an infographic or a verified exact machine reconstruction. Sharp face freckles expressive brows eyes ginger hair clothing stitching print lettering and paper texture, realistic skin, restrained background depth of field, subtle photographic texture only. Plausible torso hip alignment limb connections wrists knees fingers, no contortion. No global blur, heavy grain, haze, excessive bloom, REC/HUD graphics, face brackets, borders or captions. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Issue Press — Introduction to Risograph Printing",
+        "url": "https://issue.press/printing/intro-to-riso"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-07T09:14:10.906882Z"
   }
 ]
