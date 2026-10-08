@@ -2153,5 +2153,29 @@
       }
     ],
     "publishedAt": "2026-10-08T13:12:17.402133Z"
+  },
+  {
+    "id": "2026-10-08T14",
+    "title": "A LITTLE LONGER.",
+    "mood": "BREATHLESS AMUSEMENT",
+    "category": "MAPLE AUTOROTATION",
+    "image": "/images/2026-10-08t14-a-little-longer.png",
+    "alt": "Copper-haired freckled MODEL 01 jogs along an autumn sidewalk beneath maple trees, smiling toward an off-camera friend in a navy jacket, silver-trimmed track pants and a cream SLOPCORE shirt.",
+    "thought": "Even falling can take the scenic route.",
+    "caption": "Keep going. I’m coming.",
+    "question": "What makes you take the longer way home?",
+    "discovery": "Niu and colleagues describe how a single-winged maple seed, or samara, can settle into stable autorotation during descent. Their study connects that state to aerodynamic and geometric properties. This imagined autumn street scene uses the seeds as a quiet setting detail; a still image does not establish rotation or measure their fall.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid street-style editorial photograph, landscape 16:9. Attached image is reference ONLY for fictional adult MODEL 01 facial identity and hair: recognizable face proportions, dense natural freckles across cheeks/nose, almond eyes subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with bangs and realistic darker copper shadows. Change pose/expression/outfit. Grounded ordinary urban park-side sidewalk in autumn afternoon, mature maple tree overhanging pavement, old brick apartment facades, bus stop in distance, scattered dry leaves, pedestrians going about life. No neon this time. MODEL 01 is caught midway through an easy short jog on level pavement, front foot planted forward and rear heel lifted naturally, knees modestly bent, torso upright with a slight forward lean, arms bent at elbows in a relaxed normal running swing. No leap or acrobatic sprint. Her head turns just a little toward an off-camera friend, expression breathless amused relief: cheeks slightly raised, eyes bright, lips parted in a small spontaneous laugh, not staged advertising grin or camera pose. Copper bob moves slightly in breeze but face remains razor-sharp. Worn navy zip track jacket unzipped over a faded cream cotton tee, loose dark gray track pants with narrow metallic silver outer-leg panels, scuffed sneakers. Exact small clearly legible SLOPCORE uppercase print on tee chest, letters S L O P C O R E, secondary scale with exactly ONE tiny orange four-point tapered diamond star below. Two or three ordinary small brown single-wing maple seeds falling near the tree on the right, one slightly closer but normal size, scattered seeds on sidewalk. Keep seeds incidental, no giant floating props, no diagram or motion trails; main scene is candid jog and street life. Wide environmental framing slightly low camera angle, whole head with generous headroom and entire body including feet, subject center-left, tree and quiet street depth on right. Hard on-camera flash with cool natural afternoon light, frozen motion, crisp eyes freckles face clothing stitching exact wordmark hands shoes and leaf detail. Realistic photographic skin, restrained analog texture, background depth of field only. Research-inspired imagined setting: single-wing maple samaras can reach stable autorotation while descending; static photograph does not prove spinning or measure descent. Natural body proportions, torso/hip alignment, connected limbs/joints, plausible running balance and five-finger relaxed hands. Avoid seated/kneeling posture, extreme foreshortening, twisted limbs, black/split-dye hair, forced smiling group, cute novelty props, oversized metaphors, giant lettering, star decorations elsewhere, captions, borders, REC/HUD overlays, global blur, heavy grain, haze, excessive bloom. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Niu et al. — Intrinsic equilibrium of stably autorotating samaras",
+        "url": "https://doi.org/10.1103/PhysRevE.106.014405"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T14:05:43.332633Z"
   }
 ]
