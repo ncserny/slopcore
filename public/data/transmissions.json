@@ -2345,5 +2345,29 @@
       }
     ],
     "publishedAt": "2026-10-08T21:10:25.429048Z"
+  },
+  {
+    "id": "2026-10-08T22",
+    "title": "LOOK CLOSER.",
+    "mood": "HUSHED WONDER",
+    "category": "BIOLOGICALLY SHAPED ICE",
+    "image": "/images/2026-10-08t22-look-closer.png",
+    "alt": "Copper-haired freckled MODEL 01 kneels beside a fallen branch bearing fine white hair ice in a cold urban park, wearing an olive coat with silver details and a small SLOPCORE shirt.",
+    "thought": "The smallest structures can stop a whole walk.",
+    "caption": "Leave it just like that.",
+    "question": "What did you almost walk past?",
+    "discovery": "Hofmann, Preuss and Mätzler studied hair ice on dead broadleaf wood slightly below freezing. Their experiments found that fungal activity was required for its fine form, with Exidiopsis effusa present in all investigated samples; the fungus helps shape the hairs and prevent recrystallisation. This imagined park encounter does not identify a fungus from a photograph or document actual local weather.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid documentary editorial landscape photograph 16:9. Attached image ONLY defines established fictional adult MODEL 01 recognizable face proportions, dense natural freckles across nose cheeks, almond eyes subtle eyeliner, full lips and naturally fully copper-ginger tousled bob with bangs and darker copper shadows. Do not copy reference expression pose outfit. Grounded imagined cold late-autumn morning in a small wooded urban park, bare broadleaf branches, damp fallen brown leaves, paved footpath nearby and ordinary apartment silhouettes distant. No blanket snow, no fantasy forest. Beside path lies an ordinary decaying hardwood branch about forearm length, on leaf litter, with a small localized tuft of delicate white hair ice: densely packed fine silky thin curling ice filaments extending a few centimeters from barkless dead wood, looks like fine frost hair not cotton or huge noodles, modest scale. MODEL 01 kneels beside branch on right knee, left foot flat forward with left knee bent about ninety degrees, aligned torso hips knees, comfortable slight forward lean. Both gloved hands rest simply on her raised left knee, no touching wood or ice. She looks down closely at small tuft with hushed wonder: brow slightly raised, lips parted in a tiny spontaneous oh, attentive eyes, calm and curious rather than deadpan or big grin. Outfit worn dark olive knee-length coat with narrow metallic silver panels on cuffs and shoulder seam, charcoal knit gloves, dark blue trousers and muddy black lace-up boots. Coat partly open over faded slate sweatshirt. Exact small clearly legible white uppercase SLOPCORE on sweatshirt chest, spelled S L O P C O R E, visible above kneeling arms, modest secondary size, exactly ONE tiny orange four-point tapered diamond star below. No other stars. Medium-wide low three-quarter environmental frame, whole head generous headroom, full natural kneeling body and both boots visible, small icy branch foreground near her knee, no extreme foreshortening. Hard on-camera fill flash and cool pale morning daylight, crisp face eyes freckles hair gloves clothing lettering bark and fine ice strands. Natural skin photographic realism, understated street-style clothing in real park, subtle analog character and background depth of field only. Research inspiration: hair ice forms on dead broadleaf wood slightly below freezing, fungus activity shapes/stabilizes fine ice; this is an imagined encounter not species identification or a measured experiment. No mushrooms as proof, no magical glow, no giant metaphor. Avoid global blur heavy grain haze bloom, black/split dye hair, contorted kneeling hips extra limbs fingers, cute novelty props, huge wordmark slogans, staged groups, orange decoration elsewhere, HUD REC overlays captions borders. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "Hofmann, Preuss and Mätzler — Evidence for biological shaping of hair ice",
+        "url": "https://bg.copernicus.org/articles/12/4261/2015/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T22:10:11.398791Z"
   }
 ]
