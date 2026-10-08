@@ -2129,5 +2129,29 @@
       }
     ],
     "publishedAt": "2026-10-08T12:03:04.995632Z"
+  },
+  {
+    "id": "2026-10-08T13",
+    "title": "TURN YOUR HEAD.",
+    "mood": "PUZZLED CONCENTRATION",
+    "category": "POLARIZED DISPLAYS",
+    "image": "/images/2026-10-08t13-turn-your-head.png",
+    "alt": "Copper-haired freckled MODEL 01 sits in a parked compact car, lowering black sunglasses with a puzzled expression beside a dark dashboard screen, wearing a plum jacket, silver trousers and small SLOPCORE shirt.",
+    "thought": "Sometimes the missing information is just an angle away.",
+    "caption": "It was on a second ago.",
+    "question": "What became clearer when you changed your angle?",
+    "discovery": "The University of Arizona's optics outreach explains that many LCD displays emit polarized light, so polarized sunglasses can make some electronics difficult to see. This imagined parked-car scene borrows that everyday interaction; it does not establish the display's state or demonstrate a measured optical effect.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid editorial landscape photograph 16:9. Attached image is identity reference only for fictional adult MODEL 01: established facial proportions, dense natural freckles across nose and cheeks, almond-shaped eyes subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with bangs and realistic darker copper shadows. Do not copy reference expression/outfit/pose. Imagined near-future city after rain, parked modest slightly battered silver compact car beneath a covered curbside parking bay, dense architecture and cyan/magenta storefront lights reflected in wet road outside, believable urban life. Car is stationary with engine off, driver-side door open. MODEL 01 sits naturally in driver seat, hips aligned with torso, knees pointing into footwell, feet down inside car; torso turns only slightly toward center dashboard. She tilts her head a little and lowers ordinary black polarized sunglasses slightly below her eyes with her right hand lightly holding one temple; left hand rests simply on her thigh. She looks at a small dark dashboard LCD with puzzled concentration, one eyebrow raised, the other slightly knitted, lips compressed into a faint wry skeptical expression. Her eyes and freckles fully visible above sunglasses, not hidden by lenses. Outfit worn muted plum zip hoodie open over a charcoal cotton tee, metallic silver loose trousers and old dark shoes. Exact small clearly legible SLOPCORE wordmark on tee at chest, uppercase letters S L O P C O R E, modest and secondary, with exactly ONE tiny orange four-point tapered diamond star beneath. No orange stars elsewhere. Simple ordinary dashboard with small dark rectangular LCD and physical buttons, no huge sci-fi holograms or exaggerated icons. Camera looks through open driver door from slightly forward side, medium-wide three-quarter environmental framing showing whole head with generous headroom, face, both arms, natural seated torso/hips and legs down into footwell, dashboard in right foreground and wet city through far window. Hard on-camera flash makes face, eyes, hair strands, hands, hoodie cotton and silver trousers crisp; low cool urban ambient light, realistic shadows, controlled reflections. Understated street-style documentary photograph, natural skin texture, restrained analog character, background depth of field only. Research inspiration: many LCD screens emit polarized light and polarized sunglasses may darken their view; this imagined moment doesn't claim every car display behaves identically and doesn't demonstrate an optical measurement. Avoid forced grin, camera eye contact, black or split-dye hair, twisted seated body, extra fingers, detached limbs, cute props, staged groups, novelty car design, giant metaphors, big wordmark/headline, captions, borders, HUD/REC overlays, global blur, heavy grain, haze, excessive bloom. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "University of Arizona — POPtics Polarization",
+        "url": "https://wp.optics.arizona.edu/oscoutreach/poptics-polarization/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T13:12:17.402133Z"
   }
 ]
