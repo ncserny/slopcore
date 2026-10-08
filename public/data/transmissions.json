@@ -2225,5 +2225,29 @@
       }
     ],
     "publishedAt": "2026-10-08T16:08:16.519805Z"
+  },
+  {
+    "id": "2026-10-08T17",
+    "title": "CHANGE THE VIEW.",
+    "mood": "CURIOUS ANTICIPATION",
+    "category": "ELECTROCHROMIC GLASS",
+    "image": "/images/2026-10-08t17-change-the-view.png",
+    "alt": "Copper-haired freckled MODEL 01 stands beside a rain-speckled transit shelter, pressing a small button while looking up at blue-gray glass in a burgundy silver-trimmed SLOPCORE jacket.",
+    "thought": "A window can have a change of mind.",
+    "caption": "Try the other setting.",
+    "question": "What would you change about the view while you wait?",
+    "discovery": "MIT explains that electrochromic materials change color and transparency in response to applied voltage, unlike light-responsive photochromic materials. Its 2016 report describes laboratory research, not this shelter. The rainy public-transit setting is an imagined application, and the image does not establish switching speed or measured performance.",
+    "prompt": "Use case: photorealistic-natural. Create an original SLOPCORE candid editorial landscape photograph 16:9. Attached reference ONLY defines established fictional adult MODEL 01 facial identity and naturally fully copper-ginger tousled bob with bangs and darker copper shadows: recognizable facial proportions, dense natural freckles nose and cheeks, almond eyes subtle eyeliner, full lips. Vary expression pose outfit. Imagined believable near-future city transit shelter after rain at dusk, dense layered buildings, cyan and muted magenta storefront light, wet crossings reflections, a few ordinary adult pedestrians in distant background. Shelter has ordinary rectangular glass panes in aluminum frames; one blue-gray tinted pane beside another clearer pane, not luminous or magical, realistic droplets and restrained reflections. MODEL 01 stands naturally beside shelter's narrow vertical control post, torso and hips aligned, weight on one leg and other foot casually forward. Right index finger gently presses one plain small round button at chest height on post; elbow comfortably bent. Left hand loosely holds folded dark umbrella pointing down beside thigh. She looks toward glass with curious anticipation: eyebrows slightly lifted, eyes attentive and subtly widened, lips curved into a small spontaneous intrigued smile, no camera eye contact, not forced grin. Outfit faded burgundy short nylon rain jacket with narrow metallic silver shoulder panels, plain cream tee, loose dark denim, worn black shoes. Exact modest small clearly legible white uppercase SLOPCORE print on left jacket chest, spelled S L O P C O R E, secondary to scene, with exactly ONE tiny orange four-point tapered diamond star below. No other stars. Medium-wide three-quarter environmental photograph from opposite side of shelter, full head generous headroom and body down to shoes, button hand and face clearly visible unobstructed, umbrella doesn't obscure anatomy. Natural shoulder elbow wrist finger connections and aligned legs, believable hand grip. Hard on-camera flash keeps face eyes freckles hair hands lettering and worn clothing crisp against cool twilight city. Research inspiration: electrochromic glazing changes color/transparency under applied voltage; this is an imagined public shelter application, not a real installation or a measured demonstration. No diagram, no glowing transformations, no performance claims. Documentary street-style fashion, subtle analog character, natural photographic skin texture, controlled wet reflections and only background depth of field. Avoid heavy grain global blur haze bloom, black/split dye hair, stiff neutral deadpan face, giant slogan/headline, big logos, oversized props, orange decorations, staged smiling groups, HUD REC captions borders. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "MIT Energy Initiative — MIT develops self-shading windows",
+        "url": "https://energy.mit.edu/news/mit-develops-self-shading-windows/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T17:06:28.922959Z"
   }
 ]
