@@ -2033,5 +2033,29 @@
       }
     ],
     "publishedAt": "2026-10-07T23:36:09.539934Z"
+  },
+  {
+    "id": "2026-10-08T04",
+    "title": "WHICH WAY IS UP?",
+    "mood": "ABSORBED CURIOSITY",
+    "category": "LIGHT AND ORIENTATION",
+    "image": "/images/2026-10-08t04-which-way-is-up.png",
+    "alt": "Copper-haired freckled MODEL 01 sits on a curb beside a motorcycle, looking curiously toward three moths resting near a wall lamp in a wet urban street, wearing a silver-panel SLOPCORE jacket.",
+    "thought": "A bright point can make the whole sky feel misplaced.",
+    "caption": "Still looking up.",
+    "question": "What small thing has interrupted your journey lately?",
+    "discovery": "Fabian and colleagues used three-dimensional flight recordings to study insects near artificial light. Their 2024 paper found that turning their backs toward the light can disrupt normal flight orientation and produce circling paths. This imagined street scene shows resting moths near a lamp; it does not demonstrate or measure their flight response.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE archive photograph, landscape 16:9. Reference image is ONLY the fictional adult MODEL 01's facial identity and naturally fully copper-ginger tousled bob: recognizable face proportions, dense natural freckles across nose and cheeks, almond eyes with subtle eyeliner, full lips. Change expression and outfit, do not copy the reference pose or expression. Night at a believable near-future urban motorcycle parking area beneath a concrete elevated railway, dense apartment architecture, modest cyan and magenta shop lighting reflected in wet pavement after rain. She sits on a dry low concrete curb beneath an awning beside a scuffed parked motorcycle, feet planted on pavement, knees naturally bent, left palm resting flat on curb beside hip, right hand resting loosely on right knee. Anatomically simple relaxed seated posture, torso and hips aligned. Her head turns slightly upward toward three small realistic ordinary moths near a utilitarian white wall lamp above and to her right. Raised eyebrows, alert curious eyes and slightly parted lips convey absorbed curiosity, no deadpan stare at camera. Moths are normal small insects, no giant butterflies or glowing magical creatures. Worn deep navy zip jacket with metallic silver shoulder panels, pale gray shirt, loose olive trousers and worn black shoes. Small sharply legible exact uppercase wordmark \"SLOPCORE\" on left jacket chest, letters S L O P C O R E, secondary to scene, with exactly ONE tiny orange four-point tapered diamond star underneath. Wide documentary composition from low sidewalk camera height showing full seated figure on left, motorcycle on right, lamp and urban depth above; candid off-center framing, natural life in distant background. Hard on-camera flash gives crisp freckles, eyes, copper hair strands, clothing seams and hands, restrained cool ambient light and realistic dark shadows. Natural photographic skin texture, clear optics, subtle analog character only. Research inspiration: insects can orient their backs toward artificial light, disrupting flight; scene is an imagined moment, not a science diagram. Avoid black hair or split dye, oversized lettering, slogan signs, stars elsewhere, posed smiling groups, cute props, HUD/REC overlays, borders, captions, global blur, heavy grain, haze, excessive bloom, twisted limbs, extra fingers. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "Fabian et al. — Why flying insects gather at artificial light (Nature Communications, 2024)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38291028/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T07:00:04.800123Z"
   }
 ]
