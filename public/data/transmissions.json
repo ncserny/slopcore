@@ -2273,5 +2273,29 @@
       }
     ],
     "publishedAt": "2026-10-08T18:07:24.136923Z"
+  },
+  {
+    "id": "2026-10-08T19",
+    "title": "SAVE ME SOME.",
+    "mood": "SUPPRESSED LAUGHTER",
+    "category": "GRANULAR SORTING",
+    "image": "/images/2026-10-08t19-save-me-some.png",
+    "alt": "Copper-haired freckled MODEL 01 crouches beside a worn skateboard under a concrete overpass, holding mixed nuts and glancing sideways mid-chew in a green SLOPCORE sweatshirt and silver cargo trousers.",
+    "thought": "Even a mixed bag has its own way of settling.",
+    "caption": "Hang on. Still chewing.",
+    "question": "What always finds its way to the top of your day?",
+    "discovery": "A 2021 Scientific Reports study used time-lapse X-ray tomography to follow Brazil nuts in a sheared mixture of peanuts. Some larger nuts rose after rotating toward vertical, while others stayed trapped below; shape, orientation and neighboring particles mattered. This imagined skate-spot snack break nods to granular sorting without claiming that the pictured bag reproduces the experiment.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid street-style editorial landscape photograph 16:9. Reference ONLY establishes fictional adult MODEL 01 same recognizable face proportions, dense natural freckles nose cheeks, almond eyes subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with bangs and darker copper shadows. Do not copy reference expression pose outfit. Grounded ordinary urban skate spot beneath concrete overpass, scuffed low concrete ledge, faded pavement, chain link fence, autumn daylight, two distant adult friends with skateboards quietly talking, no posing. MODEL 01 crouches naturally beside low ledge taking a snack break: both feet flat comfortably apart, knees bent naturally and aligned with feet, torso slightly forward over hips, balanced simple squat, elbows resting lightly on knees. Right hand loosely holds a small transparent resealable bag of mixed nuts at knee height; left hand relaxed open palm up near other knee, not at mouth. Bag half full with realistic small peanuts and a few larger elongated Brazil nuts visible near top, ordinary snack quantity and scale, not a scientific diagram. She looks sideways toward off-camera friend with playful caught-mid-chew reaction: lips closed, one cheek slightly puffed, eyes crinkled with suppressed laughter, eyebrows raised unevenly, recognizable freckles and face crisp. No broad staged grin or camera eye contact. Outfit worn muted forest-green cotton sweatshirt with small white SLOPCORE uppercase print at upper chest, exact clearly legible S L O P C O R E, secondary modest size; exactly ONE tiny orange four-point tapered diamond star below it. Metallic silver loose cargo trousers natural folds, old white canvas skate shoes. Ordinary worn skateboard rests wheels-down beside ledge, not under her feet. Medium-wide low three-quarter environmental framing showing whole head with generous headroom and whole crouched body, both feet hands and bag clearly readable, avoid extreme foreshortening. Hard on-camera fill flash with cool diffuse daylight, sharp eyes freckles hair fingers clothing seams lettering nut bag and pavement texture. Natural skin photographic realism, restrained analog character, background depth of field only. Research inspiration: granular segregation in agitated mixtures can bring larger nuts toward top, with shape and orientation influencing motion; scene is imagined snack break, not proof of sorting or a measured experiment. No motion graphics or exaggerated layers. Plausible anatomy and connected shoulders elbows wrists hips knees ankles, five natural fingers per hand. Avoid contorted squat, extra limbs, black/split hair, giant metaphors, cute novelty props, slogans, huge brand text, many orange decorations, staged smiling group, HUD REC overlays captions borders, heavy grain global blur haze bloom. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "Gajjar et al. — Size segregation of irregular granular materials captured by time-resolved 3D imaging",
+        "url": "https://www.nature.com/articles/s41598-021-87280-1"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T19:08:53.712012Z"
   }
 ]
