@@ -2177,5 +2177,29 @@
       }
     ],
     "publishedAt": "2026-10-08T14:05:43.332633Z"
+  },
+  {
+    "id": "2026-10-08T15",
+    "title": "LIFT IT SLOWLY.",
+    "mood": "ABSORBED ATTENTION",
+    "category": "PAPER MARBLING",
+    "image": "/images/2026-10-08t15-lift-it-slowly.png",
+    "alt": "Copper-haired freckled MODEL 01 stands at a bookbinding workbench, holding a damp sheet of blue, cream and red marbled paper above a shallow tray, wearing a charcoal SLOPCORE apron and silver-trimmed shirt.",
+    "thought": "For a moment, the surface was the whole picture.",
+    "caption": "Let the last drop fall.",
+    "question": "What process do you enjoy watching as much as the result?",
+    "discovery": "A Smithsonian Museum Conservation Institute catalogue abstract describes marbling with pigments floating on a bath thickened with gum tragacanth or carrageenan. Picks or combs shape the colors before paper or fabric takes up the pattern. This imagined workshop session draws on that process without claiming a historical reconstruction.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid editorial landscape photograph 16:9. Attached reference is ONLY established fictional adult MODEL 01 facial identity and naturally fully copper-ginger tousled bob: preserve recognizable facial proportions, dense freckles across nose/cheeks, almond eyes subtle eyeliner, full lips, bangs and realistic darker copper shadows. Do not copy reference pose/expression/outfit. Grounded small urban bookbinding workshop off a side street, worn wooden workbench, shallow rectangular marbling tray, small jars of pigment, old books on shelves, drying sheets clipped to a line in background, cool afternoon light through street-facing window. MODEL 01 stands upright close to bench with a slight comfortable lean, shoulders relaxed, hips aligned. Both hands naturally hold opposite upper corners of one ordinary A3-sized damp paper sheet just lifted above the tray, hands at waist/chest height and comfortably apart, no contortion. Sheet hangs vertically with subtle natural sag, lower edge just over tray, realistic navy, muted teal, cream and dusty red marbled swirls on front facing camera at a slight angle, a couple small drips from lower edge. She looks down at the fresh pattern with quiet absorbed concentration: brows gently drawn, lips lightly pressed, calm attentive eyes, no deadpan stare or smile for camera. Outfit faded slate-blue short-sleeved work shirt, metallic silver narrow shoulder trim, charcoal cotton apron, loose worn tan trousers. Exact small clearly legible white uppercase SLOPCORE print on upper apron chest, S L O P C O R E, secondary scale with exactly ONE tiny orange four-point tapered diamond star immediately beneath. Do not hide wordmark behind sheet. Medium-wide three-quarter side environmental framing, whole head with generous space above hair, torso hands and upper legs, tray in lower right foreground. Background adult coworker shelving books quietly, no posed group or exaggerated smiles. Hard on-camera flash plus soft cool window light, sharp freckles eyes face hair strands clothing seams lettering hands paper edges and marbled pattern. Natural skin texture, imperfect real workshop, restrained analog texture, background depth of field only. Research-inspired imagined marbling session: pigments floating on thickened liquid transfer to paper; no claim historical reconstruction or measured chemistry. Plausible shoulder/elbow/wrist connections, natural hands with five fingers, believable paper grip. Avoid black/split dye hair, giant props, huge text/headline, slogans, orange decoration elsewhere, magical liquids, holograms, HUD/REC overlays, borders, captions, global blur, haze, heavy grain, excessive bloom, twisted limbs/extra fingers. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Smithsonian Museum Conservation Institute — Turkish marbling on cloth or paper (catalogue abstract)",
+        "url": "https://mci.si.edu/node/1193329"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T15:07:40.636844Z"
   }
 ]
