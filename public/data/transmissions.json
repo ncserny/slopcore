@@ -2201,5 +2201,29 @@
       }
     ],
     "publishedAt": "2026-10-08T15:07:40.636844Z"
+  },
+  {
+    "id": "2026-10-08T16",
+    "title": "LET IT COOL.",
+    "mood": "SLEEPY EXASPERATION",
+    "category": "CAPILLARY HEAT PIPES",
+    "image": "/images/2026-10-08t16-let-it-cool.png",
+    "alt": "Copper-haired freckled MODEL 01 reclines on a worn olive sofa at a LAN party, looking tired in a charcoal SLOPCORE shirt and silver trousers while a copper heat-pipe cooler rests on the nearby table.",
+    "thought": "Even the quiet parts are moving something.",
+    "caption": "Wake me when it boots.",
+    "question": "What do you do while everyone else is still troubleshooting?",
+    "discovery": "NASA's thermal-management memorandum describes heat pipes moving heat through evaporation and condensation of an internal working fluid, with capillary action in a wick returning the liquid. This imagined LAN-party break places an ordinary copper-pipe computer cooler nearby; it is not a demonstration or diagnosis of the computer's cooling performance.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid editorial photograph, landscape 16:9. Reference is ONLY the established fictional adult MODEL 01 facial identity: recognizable proportions, dense natural freckles across nose and cheeks, almond eyes subtle eyeliner, full lips and naturally fully copper-ginger tousled bob with bangs, darker copper shadows. Do not copy neutral expression or clothing. Grounded late-night informal LAN party in a slightly shabby rented storefront, beige CRT monitors and ordinary computer towers on folding tables, cables neatly crossing floor, two adult friends quietly using computers in background. MODEL 01 is reclining lengthwise on a worn olive fabric sofa taking a break, head and shoulders supported by sofa arm and cushion at image left, torso and hips naturally aligned, legs stretched comfortably along cushions toward image right, ankles loosely crossed, shoes on a small blanket. Both arms simple relaxed: one forearm resting across abdomen, other along sofa cushion beside her. Sleepy exasperated expression, eyelids heavy but partly open, eyes looking toward off-camera friend, lips parted in a small weary sigh, brow gently lifted. No camera stare, not glamorous posing. Worn charcoal short-sleeve SLOPCORE tee, metallic silver loose track trousers with natural folds, burgundy socks and old dark trainers. Exact small white uppercase SLOPCORE lettering clearly legible on upper shirt chest, modest secondary size, spelled S L O P C O R E, exactly ONE tiny orange four-point tapered diamond star below it. No stars elsewhere. Foreground low coffee table off to side, ordinary removed desktop CPU cooler with dull copper heat pipes and aluminum fins, screws in small dish. Background adult friend in plain dark hoodie crouched beside unplugged open desktop computer, subtle mundane repair activity; no dramatic sparks. Research inspiration: heat pipes transport heat through evaporation and condensation with internal capillary wick; treat scene as imagined, no visible magical thermal effects or diagnostic claims. Medium-wide environmental framing from slight elevated diagonal at sofa foot, whole body and whole head visible with generous space around, natural foreshortening not exaggerated, realistic torso hip and limb connections. Hard on-camera flash, cool dim CRT ambient, understated documentary realism, crisp face eyes freckles hair fingers clothes lettering and cooler details, natural skin texture, only subtle analog character and background depth of field. No global blur heavy grain haze bloom, no bright neon spectacle, black/split hair, forced smile, staged groups, excessive props, oversized metaphors, giant text, overlays HUD REC captions or borders. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "NASA/TM—2005-213990 — Utilizing Radioisotope Power System Waste Heat for Spacecraft Thermal Management, section Heat Pipes",
+        "url": "https://ntrs.nasa.gov/api/citations/20050238992/downloads/20050238992.pdf"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T16:08:16.519805Z"
   }
 ]
