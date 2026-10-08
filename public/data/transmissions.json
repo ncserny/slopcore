@@ -2369,5 +2369,29 @@
       }
     ],
     "publishedAt": "2026-10-08T22:10:11.398791Z"
+  },
+  {
+    "id": "2026-10-08T23",
+    "title": "LET IT DRIFT.",
+    "mood": "WIND-SQUINTED AMUSEMENT",
+    "category": "DANDELION AERODYNAMICS",
+    "image": "/images/2026-10-08t23-let-it-drift.png",
+    "alt": "Freckled copper-haired MODEL 01 lies on a blanket beside a canal, squinting into the breeze in a silver windbreaker and small SLOPCORE shirt as a few dandelion seeds drift overhead.",
+    "thought": "A little empty space can carry a lot.",
+    "caption": "Watching the small things leave.",
+    "question": "What helps you loosen your grip?",
+    "discovery": "Cummins and colleagues found that air passing through a dandelion seed’s porous bristles creates a detached ring of recirculating flow. The pappus geometry and porosity help stabilize this vortex, contributing to the seed’s ability to stay aloft. This imagined canal-bank pause draws on that research; the photograph does not visualize or measure the airflow.",
+    "prompt": "Create an original crisp photographic SLOPCORE art transmission, landscape 1536x1024. Use the attached reference only for the established adult fictional MODEL 01 facial identity: recognizable facial proportions, dense natural freckles across nose and cheeks, almond eyes with subtle eyeliner, full lips, tousled naturally fully copper-ginger bob with darker copper shadows. A candid editorial flash photograph from a high diagonal angle on a mundane grassy urban canal bank in cool late-afternoon light. She is lying flat on her back along a faded charcoal picnic blanket, body straight and naturally aligned, both legs extended loosely, boots visible, arms resting comfortably along her sides with relaxed hands. Camera has room for her whole body and some surrounding grass, canal edge and ordinary apartment buildings far behind. She looks upward past the camera toward a few tiny ordinary dandelion seeds drifting in the breeze, with a spontaneous amused wind-squint, slight nose wrinkle and asymmetric closed-mouth half-smile. Keep her identity, vary expression from the reference. Worn silver nylon windbreaker open over dark charcoal T-shirt, straight dark navy trousers, scuffed boots. The shirt bears the exact clearly legible small word SLOPCORE, modest chest print secondary to scene. One tiny orange four-point tapered diamond star patch on the windbreaker, exactly four points. A few real dandelion seedheads in unmown grass beside blanket, only three or four small seeds drifting, no giant props or visible scientific vortex diagram. Understated real street-life atmosphere, hard on-camera fill flash, sharp natural skin and freckles, precise eyes, crisp fabric and lettering, realistic copper hair. Anatomically plausible adult proportions, connected shoulders elbows wrists hips knees ankles, five fingers per hand where visible, no contortion, no duplicate limbs. No heavy grain, haze, bloom, global blur, giant headline, slogans, REC overlay, fantasy effects or staged smiling group. Research inspiration is dandelion pappus aerodynamics, integrated only as ordinary seeds and a breeze. Preserve the photograph's quiet imperfect candid feel.",
+    "sources": [
+      {
+        "title": "Cummins et al. — A separated vortex ring underlies the flight of the dandelion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30333579/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T23:32:18.739017Z"
   }
 ]
