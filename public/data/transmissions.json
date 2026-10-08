@@ -2081,5 +2081,29 @@
       }
     ],
     "publishedAt": "2026-10-08T08:15:00.750374Z"
+  },
+  {
+    "id": "2026-10-08T09",
+    "title": "STILL WAITING.",
+    "mood": "SKEPTICAL PATIENCE",
+    "category": "BACTERIAL CONCRETE",
+    "image": "/images/2026-10-08t09-still-waiting.png",
+    "alt": "Copper-haired freckled MODEL 01 kneels beside a cracked concrete sample in a metal tray, wearing a green silver-panel SLOPCORE rain jacket and looking impatient in a wet urban courtyard.",
+    "thought": "Even a material that repairs itself needs time.",
+    "caption": "Nothing yet.",
+    "question": "What are you learning to give more time?",
+    "discovery": "Mors and Jonkers describe concrete containing bacterial spores and a lactate food source to improve crack sealing. Their study reports laboratory healing of small cracks under specified conditions, while full-scale demonstrations offered limited evidence because few cracks formed. This imagined test courtyard does not show instant repair or establish the sample's performance.",
+    "prompt": "Use case: photorealistic-natural. Create an original wide 16:9 landscape candid editorial SLOPCORE photograph. Reference image is ONLY the established fictional adult MODEL 01 facial identity and hair: dense natural freckles, recognizable facial proportions, almond-shaped eyes and subtle eyeliner, full lips, tousled naturally fully copper-ginger bob with bangs and realistic darker copper shadows. Do not copy reference expression, outfit, pose or framing. Imagined near-future urban materials-testing courtyard beside a rain-soaked pedestrian street at blue hour, dense believable apartment towers, glass walkway, distant understated cyan and magenta shop lights and wet reflections. Under a simple shelter, she kneels with left knee on a folded work pad, right foot flat in front and right knee bent comfortably; upright torso and aligned hips, both forearms resting loosely on raised right thigh, hands relaxed separated naturally. Camera slightly above knee height at a three-quarter side angle showing whole body and both feet, no contortion. She leans only slightly forward and studies a normal small rectangular concrete test slab sitting in a shallow metal weathering tray on the pavement in front of her. One fine hairline crack, faint pale mineral trace, no glowing repair, no animated or visibly closing crack, no giant specimen or scientific graphics. Expression skeptical impatience: brows gently knitted, one eyebrow a little higher, lips lightly pursed, downward sidelong gaze at slab, same identity but distinct natural reaction, not blank glamour stare or smile. Worn moss-green rain shell with narrow metallic silver sleeve panels, dark trousers, scuffed gray work shoes. Exact small sharply legible white uppercase SLOPCORE print on chest, letters S L O P C O R E, modest secondary scale; exactly ONE tiny orange four-point tapered diamond star directly beneath wordmark. A plain clipboard rests on a low crate in the background; sparse ordinary urban maintenance materials, no labels or motivational slogans. Hard on-camera flash sharply defines freckles, face, eyes, copper hair, clothing stitching, hands and exact text; cool low ambient urban light, controlled reflections, realistic darks, natural photographic texture. Composition off-center MODEL 01 left, small concrete tray lower right, generous urban depth above, documentary candid framing. Research-inspired setting: bacterial-spore-based self-healing concrete has been investigated for sealing small cracks; this is fictional, no miraculous instantaneous healing or claims of universal structural repair. Avoid black/split-dye hair, seated pose, smiling staged groups, cute novelty props, excessive orange stars, large wordmarks, oversized metaphors, borders, HUD/REC overlays, captions, global blur, haze, heavy grain, excessive bloom, extra limbs/fingers, implausible knees or foot positions. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "Mors & Jonkers — Bacteria-based self-healing concrete: Evaluation of full scale demonstrator projects",
+        "url": "https://repository.tudelft.nl/record/uuid:73201f57-9e18-4b21-a009-96ca365635f6"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T11:54:57.265457Z"
   }
 ]
