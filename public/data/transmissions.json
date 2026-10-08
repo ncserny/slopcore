@@ -2105,5 +2105,29 @@
       }
     ],
     "publishedAt": "2026-10-08T11:54:57.265457Z"
+  },
+  {
+    "id": "2026-10-08T12",
+    "title": "IT MOVED.",
+    "mood": "STARTLED DELIGHT",
+    "category": "TOUCH-SENSITIVE LEAVES",
+    "image": "/images/2026-10-08t12-it-moved.png",
+    "alt": "Copper-haired freckled MODEL 01 leans over a potted sensitive plant in a neighborhood plant shop, looking surprised with her finger withdrawn above the leaves, wearing a silver jacket and small SLOPCORE shirt.",
+    "thought": "The quietest thing in the shop answered first.",
+    "caption": "Did you see that?",
+    "question": "What tiny surprise made you curious recently?",
+    "discovery": "Kew describes how Mimosa pudica folds its compound leaves in response to touch. Internal movement of water drives the response; it does not imply animal-like nerves or feelings. This imagined plant-shop encounter shows a moment after contact, rather than documenting the movement over time.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE candid editorial photograph, landscape 16:9. The attached reference is only for fictional adult MODEL 01's recognizable facial identity and naturally fully copper-ginger tousled bob: facial proportions, dense natural freckles across cheeks and nose, almond-shaped eyes with subtle eyeliner, full lips, bangs with realistic darker copper hair shadows. Change expression and outfit; do not copy reference expression or framing. Grounded small neighborhood plant shop open to the street in soft afternoon daylight, worn wooden counter with ordinary terracotta pots, watering cans, leaf litter, price tags too distant to read, faded shop doorway and passing pedestrians outside. No futuristic neon. MODEL 01 stands at counter leaning forward slightly from hips, shoulders relaxed, left hand resting flat on counter near edge, right forearm raised with right index finger loosely extended a few centimeters above a small potted Mimosa pudica, as if she just gently touched one leaflet and withdrew her finger. Other fingers relaxed naturally; avoid exaggerated pointing. Plant is realistic small sensitive plant, thin branching stems, feathery bipinnate leaves with many paired small narrow leaflets, one nearby leaf cluster folded while other leaflets remain open. No giant plant or cartoon animation. Expression spontaneous startled delight, eyebrows lifted, eyes widened and looking at the plant, lips parted in a small surprised breath, no staged grin or camera eye contact. Worn metallic silver lightweight track jacket open over a dark petrol-blue cotton tee, loose brown trousers. Small clearly legible exact uppercase white SLOPCORE wordmark printed on tee at chest, letters S L O P C O R E, secondary to scene with exactly ONE tiny orange four-point tapered diamond star directly below. Medium-wide three-quarter side framing from head to mid-thigh, whole head and hands visible, plant in right foreground, adult shopkeeper only a subtle out-of-focus figure deeper in shop, no posing or smiling group. Hard on-camera flash mixed with cool natural window light, crisp freckles, eyes, copper hair strands, jacket seams, exact lettering, hands and leaf structure. Realistic skin and materials, restrained analog photographic character, deliberate background depth of field but sharp main subject. Research inspiration is touch-sensitive leaflet folding caused by internal water movement; imagined encounter, not a time sequence or evidence of plant emotions. Natural torso hip alignment and limbs; simple plausible wrists and five-finger hands. Avoid black or split-dye hair, seated or kneeling pose, giant metaphors, cute props, excessive stars, slogan signs, large text, HUD/REC overlays, borders, captions, global blur, heavy grain, haze, excessive bloom, extra fingers or disconnected limbs. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Kew Science — Mimosa pudica species profile",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:313242-2/general-information"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-08T12:03:04.995632Z"
   }
 ]
