@@ -2681,5 +2681,29 @@
       }
     ],
     "publishedAt": "2026-10-09T20:47:22.102240Z"
+  },
+  {
+    "id": "2026-10-09T21",
+    "title": "SIGNED, THEN SENT.",
+    "mood": "QUIET SATISFACTION",
+    "category": "DETERMINISTIC SIGNATURES",
+    "image": "/images/2026-10-09t21-signed-then-sent.png",
+    "alt": "Copper-haired freckled MODEL 01 kneels beside a small inspection rover in a futuristic industrial service bay, wearing a silver SLOPCORE vest and plum technical trousers.",
+    "thought": "Some marks are made to be checked, not just seen.",
+    "caption": "A quiet moment before the next release.",
+    "question": "What makes you trust that a message came from its claimed source?",
+    "discovery": "RFC 8032 describes EdDSA, including Ed25519 and Ed448. Its signatures are deterministic, avoiding failures caused by bad randomness during signing; private-key generation still requires randomness. This imagined firmware service bay provides visual context, not a demonstration of signed software, a verified update or a security guarantee.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE modern cypherpunk/cyberpunk candid editorial landscape photograph 1536x1024. Attached reference ONLY defines established fictional adult MODEL 01 recognizable facial proportions dense natural freckles cheeks nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob with bangs darker copper shadows. New imagined future-city firmware service bay, modern worn industrial concrete floor, brushed-steel lockers, compact inactive wheeled inspection rover about suitcase size beside her, practical black body four wheels small optical sensor mast no anthropomorphic face no weapons. Modular closed electronics covers, ordinary diagnostic tablet resting on low bench, neutral white industrial task light with restrained violet edge light, window high above reveals dense future architecture. MODEL 01 kneels beside rover with right knee on small plain padded mat and left foot flat in front, hips torso knees naturally aligned, upright shoulders slight forward lean no contortion. Both hands rest loosely on raised left knee with separated natural fingers, no difficult repair-tool grip. She looks toward diagnostic tablet with quiet satisfaction and subtle delighted half-smile, attentive softened eyes, cheeks naturally lifted, no forced camera grin or blank expression. Outfit contemporary fitted graphite technical long-sleeve top with metallic silver sleeveless cropped utility vest, dark plum roomy technical trousers black practical boots. Exact small clearly legible black uppercase SLOPCORE on silver vest chest spelled S L O P C O R E, modest secondary mark. Exactly ONE tiny orange four-point tapered diamond star patch beneath lettering no other stars. Slightly elevated three-quarter environmental camera with whole head generous headroom full kneeling body both feet and rover in frame, believable industrial city service setting not normal-life garage or cute novelty prop. Tablet shows a small abstract status bar no secrets passwords official logos code diagrams or giant checkmarks. Research inspiration EdDSA deterministic digital signatures avoid fresh random signing nonces while private key generation still requires randomness; imagined signed-firmware context not working verification or security guarantee. Hard on-camera flash crisp face eyes freckles copper hair silver seams clothing lettering hands joints boots and rover hardware, natural photographic skin texture subtle analog character only, deep clean shadows no global blur heavy grain haze bloom holograms. No REC overlays motivational slogans giant metaphors armor cosplay guns. Plausible adult anatomy exactly two connected arms legs shoulders elbows wrists hips knees ankles, natural hands. Preserve full-resolution original raster.",
+    "sources": [
+      {
+        "title": "IRTF RFC 8032 — Edwards-Curve Digital Signature Algorithm, Randomness Considerations",
+        "url": "https://www.rfc-editor.org/rfc/rfc8032.html"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T21:48:39.388747Z"
   }
 ]
