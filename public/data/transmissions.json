@@ -2609,5 +2609,29 @@
       }
     ],
     "publishedAt": "2026-10-09T13:08:53.220002Z"
+  },
+  {
+    "id": "2026-10-09T14",
+    "title": "LEAVE IT SEALED.",
+    "mood": "WRY CONFIDENCE",
+    "category": "HOMOMORPHIC ENCRYPTION",
+    "image": "/images/2026-10-09t14-leave-it-sealed.png",
+    "alt": "Copper-haired freckled MODEL 01 walks through a violet-lit underground compute hall carrying a closed laptop, wearing a plum coat with silver sleeves and a small SLOPCORE shirt.",
+    "thought": "An answer does not always need an open door.",
+    "caption": "Working with what stays private.",
+    "question": "What should remain private even when it helps someone else?",
+    "discovery": "Microsoft SEAL is an open-source library for homomorphic encryption, which allows computation directly on encrypted data without decrypting it in the process. This can support services where customers retain their decryption keys. The imagined independent compute hall is visual context, not proof of working encrypted software or a guarantee of privacy.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE modern cypherpunk/cyberpunk candid editorial landscape photograph 1536x1024. Reference ONLY defines established fictional adult MODEL 01 recognizable facial proportions dense natural freckles cheeks nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob with bangs darker copper shadows. Change outfit expression framing. Scene imagined independent underground encrypted-computation cooperative beneath dense future city: cavernous repurposed industrial hall, exposed concrete and metal ceiling, modern black mesh compute racks on one side, compact desk screens behind glass on other, cable trays overhead, violet task lamps and restrained cyan status indicators, a few distant adult workers unposed, no empty generic sci-fi chrome tunnel. MODEL 01 walks naturally across foreground along wide service aisle, left foot planted forward right heel lifting, torso hips knees aligned, relaxed pace no running. Left hand carries a small closed matte graphite laptop by its edge alongside thigh, natural grip, right hand rests loosely in coat pocket with wrist not distorted. She turns head slightly over shoulder toward someone off-frame with understated wry amusement, one lip corner raised, alert eyes and lifted eyebrow, no forced grin or repeated deadpan. Modern structured plum-black technical overshirt coat with tasteful worn metallic silver sleeves and collar panels, charcoal high-neck fitted layer, dark navy straight technical trousers and black low boots. Exact small clearly legible white uppercase SLOPCORE on upper charcoal shirt chest visible inside open coat spelled S L O P C O R E, modest secondary mark. Exactly ONE tiny orange four-point tapered diamond star patch on coat lapel. No other stars. Low side three-quarter candid camera framing whole head with generous headroom and entire walking body including both feet, architecture and workstation depth visible. Hard on-camera fill flash crisp natural face eyes freckles copper hair clothing textures silver seams lettering hands laptop and rack edges, deep shadows restrained violet/cyan lights no haze excessive bloom heavy grain global blur. Small background screens show abstract muted numerical grids or tiny activity bars no secret keys readable passwords giant slogans holograms or official logos. Research inspiration: homomorphic encryption allows computation directly on encrypted data without decrypting it during computation. Imagined privacy computing hall, not proof that depicted software works or guarantee of security. No giant padlocks or oversized metaphors weapons military hacker armor costume, REC overlays or ordinary daily-life scene. Plausible adult anatomy exactly two connected arms legs natural walking hips knees ankles shoulders wrists fingers. Preserve full-resolution original raster.",
+    "sources": [
+      {
+        "title": "Microsoft Research — Microsoft SEAL",
+        "url": "https://www.microsoft.com/en-us/research/project/microsoft-seal/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T19:36:06.718627Z"
   }
 ]
