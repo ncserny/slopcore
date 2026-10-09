@@ -2393,5 +2393,29 @@
       }
     ],
     "publishedAt": "2026-10-08T23:32:18.739017Z"
+  },
+  {
+    "id": "2026-10-09T00",
+    "title": "WAIT, IT FLOATS.",
+    "mood": "INCREDULOUS CURIOSITY",
+    "category": "ACOUSTIC LEVITATION",
+    "image": "/images/2026-10-09t00-wait-it-floats.png",
+    "alt": "Copper-haired freckled MODEL 01 leans on a repair-shop counter with a surprised expression, watching a tiny suspended droplet in a metal device, with rainy neon streets behind her.",
+    "thought": "Some things are held by what you cannot see.",
+    "caption": "A very small reason to stop walking.",
+    "question": "What last made you look twice?",
+    "discovery": "Trinh and Hsu measured liquid drops suspended in an ultrasonic standing wave, including millimeter and submillimeter drops levitated in air under normal gravity. Acoustic radiation pressure also deformed the drops’ shapes. This imagined repair-shop demonstration draws on that result without reproducing the experiment or establishing the specifications of the pictured device.",
+    "prompt": "Use case: photorealistic-natural. Create an original landscape SLOPCORE candid documentary editorial photograph. Attached reference defines ONLY fictional adult MODEL 01 recognizable face proportions, dense natural freckles across cheeks and nose, almond eyes subtle eyeliner, full lips and naturally fully copper-ginger tousled bob with darker copper shadows. Do not copy reference pose expression outfit. Imagined late-night electronics repair shop opening onto a rainy futuristic city side street: dense believable apartment architecture outside, restrained cyan and magenta signs reflected in wet pavement, mundane cables, parts drawers and battered laminate counter inside, no cyberpunk costume or giant visual metaphor. MODEL 01 stands at the counter, leaning gently forward from hips with both hands resting naturally spaced on counter edge, shoulders hips legs aligned. Three-quarter medium-wide view from inside shop looking sideways toward rain outside, whole head and body to knees visible. She looks intently at a small tabletop ultrasonic levitation demonstration on the counter with spontaneous incredulous surprise: one eyebrow lifted, eyes slightly widened, lips rounded in a tiny disbelieving oh, no forced smile, no deadpan camera stare. Device is ordinary palm-sized open C-shaped metal stand with a small circular ultrasound emitter facing a round reflector above it, narrow gap roughly two centimeters; one tiny clear water droplet about three millimeters hangs in middle of gap. It is a modest piece of equipment, not glowing, no visible sound waves, no floating large objects. Keep plausible optical scale, recognizable as tiny droplet rather than huge orb. Outfit worn burgundy workwear overshirt open over faded charcoal tee, narrow metallic silver sleeve panels and silver hardware, dark trousers. Exact small clearly legible white uppercase SLOPCORE on tee chest, spelled S L O P C O R E, secondary to scene and visible above arms. Exactly one tiny orange four-point tapered diamond star patch on overshirt chest, no other stars. Hard on-camera flash, sharp eyes freckles copper hair fabric hands lettering and equipment, crisp natural photographic texture; background depth of field allowed, no global blur grain haze or excessive bloom. Natural hand anatomy and finger count, no extra limbs, no contorted torso or hip alignment. Understated street-style framing with everyday adult background technician softly out of focus, no staged group. Research inspiration: millimeter and submillimeter liquid drops have been suspended in air by ultrasonic standing waves under normal gravity. This is an imagined informal demonstration, not a recreation of a particular experiment. No NASA logos, no oversized headlines, motivational text, REC overlay or diagrams. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Trinh and Hsu — Equilibrium shapes of acoustically levitated drops",
+        "url": "https://ntrs.nasa.gov/citations/19860052486"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T03:53:02.854645Z"
   }
 ]
