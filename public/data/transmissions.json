@@ -2513,5 +2513,29 @@
       }
     ],
     "publishedAt": "2026-10-09T09:08:02.907486Z"
+  },
+  {
+    "id": "2026-10-09T10",
+    "title": "TAKE IT WITH YOU.",
+    "mood": "FORWARD DETERMINATION",
+    "category": "STORE-CARRY-FORWARD",
+    "image": "/images/2026-10-09t10-take-it-with-you.png",
+    "alt": "Copper-haired freckled MODEL 01 runs beneath layered futuristic transit structures with a small black data case, wearing a crisp silver SLOPCORE jacket on wet pavement.",
+    "thought": "A broken connection is not always the end of the message.",
+    "caption": "Carry it until the next opening.",
+    "question": "What would you carry forward through a pause?",
+    "discovery": "RFC 9171 describes the Bundle Protocol as a store-carry-forward overlay for networks with intermittent connectivity, substantial delays or high error rates. It can use physical movement to transport data and handle situations where sender and receiver are not connected at the same time. This imagined future-city courier is a visual extrapolation, not a working protocol demonstration or claim about the case’s contents.",
+    "prompt": "Use case: photorealistic-natural. Original modern SLOPCORE cypherpunk/cyberpunk candid editorial landscape photograph 1536x1024. Attached reference ONLY defines established fictional adult MODEL 01 recognizable facial proportions, dense natural freckles across nose cheeks, almond eyes subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with bangs and realistic darker copper shadows. Do not copy reference expression outfit framing. Imagined future city courier crossing beneath a massive elevated transit interchange: dense stacked contemporary futuristic towers, ribbed steel overhead tracks, modular network conduits, dark concrete columns, wet charcoal pavement after rain, a few distant people and quiet electric vehicles, pale overcast daylight with restrained cyan wayfinding illumination. Unmistakable modern future urban infrastructure, no ordinary park daily-life setting, no repeated rack-room or rooftop catwalk. MODEL 01 is caught in a natural short running stride across pedestrian route, viewed from low side three-quarter camera. Leading left foot about to touch ground, trailing right foot lifted behind modestly with knee bent, knees and hips naturally aligned, upright torso leaning slightly forward, no leap or extreme split. Right hand grips handle of one small rugged matte black rectangular data case held alongside hip, elbow relaxed; left arm bent naturally forward with relaxed hand. Both arms legs and case visible, no ambiguity or contorted joints. She looks ahead toward destination with determined focused effort: brows gently drawn, eyes alert, lips pressed together, copper hair swept back slightly by movement, no deadpan camera gaze or staged smile. Modern metallic silver cropped technical shell jacket with graphite collar and small black sleeve details, dark charcoal high-neck layer, slate technical trousers with precise utility seams, black athletic shoes. Exact small clearly legible black uppercase SLOPCORE on silver jacket upper chest, spelled S L O P C O R E, modest secondary mark; exactly ONE tiny orange four-point tapered diamond star below. Case ordinary portable equipment scale, no glowing sci-fi box or giant message icon. Whole head generous headroom and entire running body including both shoes in frame, environmental space ahead of her. Hard on-camera fill flash freezes face eyes freckles hair clothes lettering hands and body crisply; only very slight distant traffic motion acceptable, no global blur heavy grain haze bloom. Natural photographic skin texture, deep cool shadows, concrete gray silver charcoal cyan, minimal analog character. Research inspiration: delay-tolerant Bundle Protocol is store-carry-forward networking, supports intermittent connectivity and physical movement of data. This imagined data courier is a visual extrapolation, not a literal protocol demonstration or claim about encrypted contents. No readable secrets, official logos, floating code diagrams, giant slogan, REC overlay, military armor weapons or costume clichés. Plausible adult anatomy and body proportions with exactly two arms two legs connected shoulders elbows wrists hips knees ankles, natural fingers, simplify stride to avoid contortion. Preserve full-resolution original raster.",
+    "sources": [
+      {
+        "title": "IETF RFC 9171 — Bundle Protocol Version 7, Introduction",
+        "url": "https://www.rfc-editor.org/rfc/rfc9171.html"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T10:07:51.776550Z"
   }
 ]
