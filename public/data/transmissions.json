@@ -2633,5 +2633,29 @@
       }
     ],
     "publishedAt": "2026-10-09T19:36:06.718627Z"
+  },
+  {
+    "id": "2026-10-09T19",
+    "title": "ENOUGH TO RETURN.",
+    "mood": "TIRED RELIEF",
+    "category": "FOUNTAIN CODES",
+    "image": "/images/2026-10-09t19-enough-to-return.png",
+    "alt": "Copper-haired freckled MODEL 01 reclines inside a parked mobile network van beside compact equipment, wearing a silver bomber and small SLOPCORE shirt against a rainy futuristic city.",
+    "thought": "You do not always need every piece to find your way back.",
+    "caption": "Waiting for enough to arrive.",
+    "question": "What helps you recover when a few pieces are missing?",
+    "discovery": "RFC 6330 describes RaptorQ as a fountain code: an encoder can generate additional encoding symbols from a source block, and a decoder can recover that block from almost any sufficiently large set. In some cases slightly more symbols than the source-symbol count are needed. This imagined mobile receiver is visual context, not a demonstration of working decoding or guaranteed recovery.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE modern cypherpunk/cyberpunk candid editorial landscape photograph 1536x1024. Attached reference ONLY defines established fictional adult MODEL 01 recognizable facial proportions dense natural freckles cheeks nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob bangs darker copper shadows. New imagined mobile community network van parked securely on a future-city elevated service deck at rainy night. Side sliding door open shows dense futuristic towers cyan magenta traffic reflections outside, compact black modern network equipment bolted inside van, short neat patch cables, understated small receiver display with abstract progress segments, practical modern interior black rubber flooring silver wall panels. MODEL 01 reclines in a fixed passenger lounge seat inside van, back supported at gentle angle, hips aligned with torso, knees naturally bent both boots planted on interior floor, two forearms relaxed on seat armrests simple hands. Head turned toward receiver display with visibly tired relief, eyes softly half narrowed and tiny closed-mouth smile, no deadpan pose or forced grin. Contemporary worn metallic silver technical bomber open over charcoal high-neck top with exact small clearly legible white uppercase SLOPCORE chest print spelled S L O P C O R E. Exactly ONE tiny orange four-point tapered diamond star on jacket chest, modest secondary mark no other stars. Dark slate technical trousers scuffed black boots. Camera from outside open side door, oblique medium-wide full supported reclining body including both boots and whole head with generous headroom, sufficient real cabin width plausible furniture scale, city in background. Crisp face eyes freckles copper hair clothing seams lettering hands seat edges and modern equipment; hard on-camera flash cold neutral cabin lighting restrained city neon, no global blur heavy grain haze bloom. Research inspiration RaptorQ fountain codes generate encoding symbols and reconstruct original data from almost any sufficiently large set; imagined receiver context not real software performance or guaranteed recovery. No floating code holograms giant missing puzzle pieces padlocks official logos passwords slogans REC overlay military armor weapons, normal-life domestic vignette. Plausible adult anatomy connected shoulders elbows wrists torso hips knees ankles, no contorted legs or extra fingers. Preserve full-resolution original raster.",
+    "sources": [
+      {
+        "title": "IETF RFC 6330 — RaptorQ Forward Error Correction Scheme for Object Delivery",
+        "url": "https://www.rfc-editor.org/rfc/rfc6330.html"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T19:45:16.558596Z"
   }
 ]
