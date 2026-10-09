@@ -2561,5 +2561,29 @@
       }
     ],
     "publishedAt": "2026-10-09T11:06:56.113265Z"
+  },
+  {
+    "id": "2026-10-09T12",
+    "title": "KEEP A COPY.",
+    "mood": "QUIET PRIDE",
+    "category": "GLASS DATA STORAGE",
+    "image": "/images/2026-10-09t12-keep-a-copy.png",
+    "alt": "Copper-haired freckled MODEL 01 stands in a cool industrial data vault, holding a small glass platter beside an open archive drawer, in a charcoal coat and silver SLOPCORE top.",
+    "thought": "Some things deserve a place beyond the next upgrade.",
+    "caption": "A small piece of a longer memory.",
+    "question": "What would you keep for someone you will never meet?",
+    "discovery": "Microsoft Research’s Project Silica describes writing archival data into quartz glass with ultrafast femtosecond lasers and reading it through polarization-sensitive microscopy using regular light. Writing and reading use different technologies. This imagined independent vault draws on that research; its hardware is fictional and makes no claim about working storage, security or guaranteed lifespan.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE modern cypherpunk/cyberpunk candid editorial landscape photograph 1536x1024. Reference ONLY defines established fictional adult MODEL 01 recognizable facial proportions, dense freckles cheeks nose, almond eyes subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with bangs darker copper shadows. Preserve same identity, change outfit expression pose. Scene an imagined independent deep archival vault beneath a futuristic city, austere industrial concrete room with clean brushed-steel cabinets, narrow shallow drawers containing small transparent square glass data platters in black protective holders, closed optical reader nearby, slim cyan cabinet-edge indicators, cold white strip ceiling lights and deep shadows. Contemporary sophisticated computing infrastructure and privacy-culture mood, no ordinary daily-life setting, no retro CRT party. MODEL 01 stands upright beside one waist-high open drawer, both feet firmly grounded, torso hips legs aligned. Left hand rests on drawer edge. Right hand holds the edge of one ordinary palm-sized clear square glass platter in a slim black holder at chest height, natural simple grip, platter secondary scale no giant magical crystal. She looks toward the glass with thoughtful quiet pride, lips in subtle closed asymmetric smile, softened eyes, chin slightly lowered, no blank camera stare. Modern long charcoal technical coat open over a matte silver high-neck sleeveless top, dark tailored utility trousers and clean black boots. Exact small clearly legible black uppercase SLOPCORE on silver upper chest spelled S L O P C O R E, modest secondary mark. Exactly ONE tiny orange four-point tapered diamond star on coat lapel, no other stars. Low oblique medium-wide environmental camera angle, whole head generous headroom and whole standing body including boots visible, cabinet perspective provides depth. Crisp sharp face eyes freckles copper hair clothing folds silver texture lettering natural hands glass edges drawer hardware. Hard on-camera fill flash mixed cool white task lighting and restrained cyan indicators, natural photographic skin texture with only subtle analog character. Research inspiration: Project Silica writes data in quartz glass using femtosecond lasers and reads with polarization-sensitive microscopy using regular light. Imagined independent archive, not literal Microsoft hardware or evidence of working storage, security or guaranteed lifetime. Glass clear with barely perceptible internal texture; no visible giant code engraving, glowing cube, floating holograms, laser beam or unsafe active optics, secrets, official logos, slogans, REC overlays, costume armor, haze heavy grain global blur excessive bloom. Plausible adult anatomy with exactly two connected arms and legs natural fingers shoulders elbows wrists pelvis knees ankles. Preserve full-resolution original raster.",
+    "sources": [
+      {
+        "title": "Microsoft Research — Project Silica",
+        "url": "https://www.microsoft.com/en-us/research/project/project-silica/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T12:07:27.867472Z"
   }
 ]
