@@ -2537,5 +2537,29 @@
       }
     ],
     "publishedAt": "2026-10-09T10:07:51.776550Z"
+  },
+  {
+    "id": "2026-10-09T11",
+    "title": "ALREADY IN THE AIR.",
+    "mood": "DELIGHTED DISBELIEF",
+    "category": "AMBIENT BACKSCATTER",
+    "image": "/images/2026-10-09t11-already-in-the-air.png",
+    "alt": "Copper-haired freckled MODEL 01 sits at a radio workbench above a dense futuristic night city, reacting to a receiver beside small antenna boards in a silver SLOPCORE vest.",
+    "thought": "Sometimes the signal is already there. You only need another way to answer.",
+    "caption": "A reply on borrowed radio.",
+    "question": "What could you make from something already passing through?",
+    "discovery": "University of Washington researchers demonstrated battery-free prototypes that harnessed existing television signals and exchanged information by changing their reflections. Their 2013 tests achieved 1 kilobit per second over short distances. This imagined future-city workshop extrapolates from ambient backscatter; the pictured boards are not verified working devices or a claim of limitless power.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE modern cypherpunk/cyberpunk candid editorial landscape photograph 1536x1024. Attached reference ONLY defines established fictional adult MODEL 01 recognizable face proportions, dense natural freckles across cheeks and nose, almond eyes subtle eyeliner, full lips and naturally fully copper-ginger tousled bob with bangs and darker copper shadows. Preserve identity, change expression and clothing. Scene: improvised contemporary radio workshop inside a dense futuristic city tower at night, open brushed-metal workbench, small circuit-board antenna prototypes each credit-card sized, precision tools, compact receiver with restrained green waveform screen, cable conduits and concrete beams, tall window overlooking tightly stacked illuminated modern buildings. Cool neutral task lighting, sparse magenta architecture outside, deep clean shadows and hard on-camera flash, no haze or glowing magical signals. MODEL 01 sits sideways on a stable tall black workshop stool, upright relaxed torso, hips centered on seat, both boots supported on stool footrest, legs naturally bent and fully connected. Her left forearm rests on workbench with relaxed hand beside one small antenna circuit board; right hand rests naturally on right thigh. She turns her head toward the small receiver screen with a moment of delighted disbelief: subtle asymmetric open-mouth grin, slightly lifted brows and attentive eyes, candid reaction not forced camera smile. Outfit modern charcoal sleeveless technical high-neck top with a compact metallic silver asymmetric vest, slate wide-leg trousers, worn black ankle boots. Exact small clearly legible black uppercase SLOPCORE on silver vest chest panel spelled S L O P C O R E, modest secondary mark. Exactly ONE tiny orange four-point tapered diamond star patch beneath wordmark, no other stars. Three-quarter medium-wide camera from workbench level, full head with generous headroom and whole seated body including both boots visible, workshop and future city context balanced. Crisp face freckles eyes copper hair clothing textures seams small lettering hands boards antenna traces and tools; photographic natural skin, subtle analog character only. Research inspiration: ambient backscatter prototypes harness and modulate reflections of existing TV radio signals to communicate between battery-free devices. This workshop is imagined extrapolation, not demonstrated functioning hardware, free limitless power or security guarantees. Keep circuit boards small and understated; no giant metaphor props, no floating holographic code, no readable secrets, official logos, motivational signs, REC overlay, armor hacker costume, daily-life cafe vignette, global blur heavy grain haze excessive bloom. Plausible adult anatomy torso hips knees wrists elbows aligned with exactly two arms two legs and natural hands. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "University of Washington — Wireless devices go battery-free with new communication technique",
+        "url": "https://www.washington.edu/news/2013/08/13/wireless-devices-go-battery-free-with-new-communication-technique/"
+      },
+      {
+        "title": "SLOPCORE official visual reference",
+        "url": "https://slopcore.fun/"
+      }
+    ],
+    "publishedAt": "2026-10-09T11:06:56.113265Z"
   }
 ]
