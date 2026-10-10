@@ -2745,5 +2745,25 @@
       }
     ],
     "publishedAt": "2026-10-10T08:24:27.884990Z"
+  },
+  {
+    "id": "2026-10-10T08",
+    "title": "A POINT OF CONTACT.",
+    "mood": "QUIET AMUSEMENT",
+    "category": "HASHING TO CURVES",
+    "image": "/images/2026-10-10t08-a-point-of-contact.png",
+    "alt": "Copper-ginger MODEL 01 crouches beside a rugged SLOPCORE diagnostic computer and dark motorcycle in a cyan and plum industrial workshop, smiling down at the screen, with silver vest panels and one orange four-point star.",
+    "thought": "Even an arbitrary string can find a place in a precise structure.",
+    "caption": "A small input. A different kind of coordinate.",
+    "question": "What would you map into a new shape?",
+    "discovery": "RFC 9380 specifies algorithms that take an arbitrary-length byte string and produce a point on an elliptic curve. Hash-to-curve is a building block used by cryptographic protocols, including some password-authenticated key exchanges and signature schemes. The underground diagnostic workshop is an imagined visual extrapolation, not a demonstration of a working cryptographic system.",
+    "prompt": "Create an original high-resolution SLOPCORE cyberpunk photographic editorial, landscape composition 1536x1024 or higher. Use supplied reference only for the established fictional adult MODEL 01 facial identity: recognizable proportions, almond eyes subtle eyeliner, full lips, dense natural freckles across cheeks and nose, naturally fully copper-ginger tousled bob with bangs and darker copper shadows. Change expression clearly: she looks down toward a diagnostic screen with an amused small open-mouth laugh and lifted cheek, eyes engaged, no stare at camera, no copying reference deadpan expression. Scene is imagined modern cypherpunk underground mobility workshop inside dense futuristic urban infrastructure. A low dark electric motorcycle parked on its side stand, exposed compact service panel and tidy diagnostic cable, plain small rugged computer on a low steel tool shelf. Ribbed concrete walls, gray overhead conduit, cool cyan light from a narrow ceiling fixture, muted plum light from a distant open industrial doorway, wet entry ramp visible in background, no haze. Model crouches naturally beside the LOW tool shelf with both feet planted and knees comfortably bent, torso aligned above pelvis, left forearm rests on left thigh with relaxed visible hand, right hand lightly touches the diagnostic unit's trackpad. Eye-level camera with crouching subject, three-quarter medium-wide framing, face and both arms clearly visible, believable anatomy and balanced proportions. Wear a worn black contemporary technical vest with subtle brushed metallic silver chest panels over a graphite long-sleeve shirt, dark olive cargo trousers and plain black boots. Exactly one tiny restrained orange four-point tapered diamond star patch on vest shoulder. Exact text SLOPCORE as a SMALL legible white stencil on the front of the diagnostic computer chassis; modest and secondary to scene. Research inspiration RFC 9380: algorithms take arbitrary-length byte strings and output elliptic-curve points, a building block for cryptographic protocols. Visual interpretation only in improvised computing and subtle diagnostic infrastructure; do not depict literal giant curves or keys, do not claim working security technology. Candid modern privacy-culture and neon car-culture influence, restrained cyan/plum practical light, hard on-camera flash crisply rendering freckles, hair, eyes, seams, hands, equipment and lettering. Sharp natural photographic texture, deep shadows, subtle analog character only. No costume clichés, armor, giant slogans, holograms, orange decorations, REC overlay, global blur, heavy grain, bloom, fog or haze. Plausible fingers, limb connections, hip and knee alignment, only two arms and two legs. Preserve original full resolution.",
+    "sources": [
+      {
+        "title": "RFC 9380 — Hashing to Elliptic Curves",
+        "url": "https://www.rfc-editor.org/rfc/rfc9380.html"
+      }
+    ],
+    "publishedAt": "2026-10-10T08:32:03.373968Z"
   }
 ]
