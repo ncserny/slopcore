@@ -2765,5 +2765,25 @@
       }
     ],
     "publishedAt": "2026-10-10T08:32:03.373968Z"
+  },
+  {
+    "id": "2026-10-10T09",
+    "title": "SIGNED WITHOUT SEEING.",
+    "mood": "TIRED PATIENCE",
+    "category": "RSA BLIND SIGNATURES",
+    "image": "/images/2026-10-10t09-signed-without-seeing.png",
+    "alt": "Copper-ginger MODEL 01 leans against a steel pillar at an imagined futuristic transit checkpoint, holding a small credential device and wearing a navy jacket with silver panels and one orange four-point star; the access terminal bears a small SLOPCORE label.",
+    "thought": "Approval does not always need the whole story.",
+    "caption": "A signature can travel farther than disclosure.",
+    "question": "What should a system be able to verify without seeing?",
+    "discovery": "RFC 9474 describes an RSA blind-signature protocol in which a client obtains a signature while the server learns neither the client's original message nor its prepared form. The client finalizes the result into a signature verifiable using RSA-PSS and the server's public key. The privacy-oriented transit checkpoint is imagined, not an implementation or guarantee of anonymity.",
+    "prompt": "Original SLOPCORE art transmission, high-resolution landscape crisp modern cypherpunk photographic editorial. Primary reference supplied is fictional adult MODEL 01 face only: preserve recognizable facial proportions, dense natural freckles across cheeks and nose, almond eyes subtle eyeliner, full lips and naturally copper-ginger tousled bob with bangs and realistic darker copper shadows. Vary expression and gaze: tired patience, lips gently pressed together, eyes looking sideways toward distant approaching transit, slightly furrowed brow, natural unposed reaction; do not copy reference face pose. Scene is imagined elevated transit checkpoint inside dense futuristic architecture at early morning: layered metal walkways and glass roof, compact dark access terminal, opaque privacy dividers along gate corridor, realistic tracks beyond railing, towering buildings with restrained cyan windows and small distant magenta light, wet concrete reflecting diffuse daylight. No generic everyday-life setting, obvious futuristic industrial infrastructure. MODEL 01 stands leaning her left shoulder lightly against a wide brushed-steel pillar, torso and hips aligned naturally, weight on right leg, other foot relaxed forward on floor. Right hand loosely holds a palm-sized black credential device down beside her thigh, left hand in jacket pocket. Three-quarter medium-wide camera, head to boots visible, slightly off-center candid street-fashion framing, camera at chest height. Contemporary worn dark navy technical jacket with metallic silver collar and narrow silver sleeve panels, black mock-neck, charcoal straight-leg technical trousers, plain black boots. One and only one tiny orange four-point tapered diamond star patch near cuff. Exact text SLOPCORE as a small clearly legible white label on the nearby access terminal, modest and secondary to the scene. No giant headline or additional prominent text. Research inspiration RFC 9474 RSA blind signatures: a server signs a blinded client message without learning original message, final unblinded signature publicly verifiable as RSA-PSS. Interpret as fictional privacy-oriented transit credential environment, not an actual implementation or claim of anonymity/security. No currency, finance symbols, giant keys or locks, floating holograms, costume clichés, armor, slogans, REC overlays or orange decorations. Candid hard on-camera flash balanced with cold diffuse early daylight, deep navy shadows and restrained cyan/magenta accent light. Face, eyes, freckles, hair, clothing seams, hands and lettering sharply resolved, natural photographic texture and subtle analog character, no heavy grain, global blur, haze, excessive bloom or fog. Realistic body proportions and joints, two arms two legs, natural hand fingers. Preserve full original resolution.",
+    "sources": [
+      {
+        "title": "RFC 9474 — RSA Blind Signatures, sections 1 and 4",
+        "url": "https://www.rfc-editor.org/rfc/rfc9474.html"
+      }
+    ],
+    "publishedAt": "2026-10-10T12:35:30.623351Z"
   }
 ]
