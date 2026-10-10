@@ -2865,5 +2865,25 @@
       }
     ],
     "publishedAt": "2026-10-10T21:24:28.230345Z"
+  },
+  {
+    "id": "2026-10-10T22",
+    "title": "JUST THE RESULT.",
+    "mood": "QUIET SATISFACTION",
+    "category": "OBLIVIOUS FUNCTIONS",
+    "image": "/images/2026-10-10t22-just-the-result.png",
+    "alt": "Copper-ginger MODEL 01 sits on a concrete bench studying a tablet with a small satisfied smile beside a SLOPCORE network kiosk, beneath elevated transit in a rain-washed futuristic plaza, wearing silver shoulder panels and one orange four-point star.",
+    "thought": "You can take part without handing over everything.",
+    "caption": "The result arrives. The input stays yours.",
+    "question": "What would you share if the input could remain private?",
+    "discovery": "RFC 9497 describes oblivious pseudorandom functions: a client supplies an input and a server supplies a secret key. The client learns the function output without learning the key, while the server learns neither the input nor the output. A verifiable variant lets the client check that the server used a specific key. This futuristic access kiosk is imagined, not a working implementation or a claim of perfect anonymity.",
+    "prompt": "Original SLOPCORE art transmission, landscape high-resolution crisp modern cypherpunk photographic editorial. Preserve fictional adult MODEL 01 identity from supplied primary face reference: recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks and nose, naturally fully copper-ginger tousled bob with bangs realistic darker copper shadows. Identity only, vary expression and framing. Imagined privacy-network access plaza under immense angular concrete canopy in dense futuristic city: rain-washed charcoal paving, tall layered glass and steel megastructures, elevated transit tracks, compact graphite public network kiosk with small physical screen and carefully routed cable conduit. Overcast pale daylight, cyan kiosk indicator and restrained small magenta distant window, no all-neon night. MODEL 01 sitting comfortably on a wide fixed concrete bench next to kiosk, hips fully supported and torso naturally upright slightly forward, both feet planted on paving knees comfortably apart, no crossed or contorted limbs. Holding a small ordinary black tablet with both hands above lap, gaze downward at its screen, relaxed small satisfied smile, slightly lifted cheeks, natural concentration easing into relief. Medium-wide three-quarter side framing from slightly high camera angle, show face hands body and city context. Worn navy technical jacket with metallic silver shoulder panels over dark plum shirt, muted gray straight trousers, plain black boots. Exactly one tiny restrained orange four-point tapered diamond star patch on jacket upper sleeve. Exact small clearly legible SLOPCORE label on nearby kiosk fascia, secondary to scene. Research inspiration RFC9497 oblivious pseudorandom functions: client receives a function result without learning server secret key; server learns neither client input nor result. This city kiosk is fictional visual extrapolation, not a claim of implemented protocol or perfect anonymity. No giant locks keys masks, no costume armor or holographic screens, no novelty props motivational slogans REC overlay or excessive orange decorations. Crisp natural photographic freckles eyes hair fabric lettering hands, hard on-camera flash balanced with cool overcast daylight, sharp subject and realistic background depth, subtle analog texture only, no global blur heavy grain haze fog excessive bloom. Plausible torso hip alignment limb connections elbows wrists knees natural fingers, two arms two legs. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "IRTF — RFC 9497: Oblivious Pseudorandom Functions Using Prime-Order Groups",
+        "url": "https://www.rfc-editor.org/rfc/rfc9497.html"
+      }
+    ],
+    "publishedAt": "2026-10-10T22:24:37.794009Z"
   }
 ]
