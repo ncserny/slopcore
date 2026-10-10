@@ -2805,5 +2805,25 @@
       }
     ],
     "publishedAt": "2026-10-10T15:58:13.090303Z"
+  },
+  {
+    "id": "2026-10-10T17",
+    "title": "KEEP YOUR OWN TIME.",
+    "mood": "ALERT DETERMINATION",
+    "category": "CHIP-SCALE ATOMIC BEAMS",
+    "image": "/images/2026-10-10t17-keep-your-own-time.png",
+    "alt": "Copper-ginger MODEL 01 runs through a cyan-lit underground network passage carrying a small SLOPCORE case, wearing a silver-gray technical jacket, plum trousers and one orange four-point star.",
+    "thought": "A reference can travel with you when the outside signal disappears.",
+    "caption": "Timing, carried below the signal.",
+    "question": "What reference would you carry when the network goes quiet?",
+    "discovery": "In 2023, NIST and Georgia Tech researchers reported a chip-scale atomic beam clock prototype built from etched silicon and glass layers, with rubidium atoms moving through microcapillaries. Initial performance was slightly worse than existing chip-scale atomic clocks; improved long-term stability was a research goal. The portable timing case and underground network passage are imagined extrapolations, not claims about a finished device.",
+    "prompt": "Original SLOPCORE art transmission, landscape high-resolution sharp photographic editorial. Established fictional adult MODEL 01 face identity from supplied reference: recognizable facial proportions, almond eyes subtle eyeliner full lips dense natural freckles nose and cheeks, naturally fully copper-ginger tousled bob bangs dark copper shadows. Do not copy reference expression or framing. Scene: imagined modern cypherpunk underground network passage below futuristic city, wide dark charcoal concrete corridor with large insulated conduits, fiber junction cabinets, high industrial ceiling, cyan practical strips, one distant restrained magenta service light, damp floor reflections, clear air. Model jogging briskly across passage from left toward right, captured cleanly without motion blur. Face three-quarter toward camera but eyes looking ahead to right, determined alert concentration, slightly parted lips from exertion, no smile. Natural running anatomy, upright torso aligned with hips, right leg forward left leg trailing, knees and ankles sensible, no leaps or contortion. Left hand carries a small rectangular rugged graphite timing-module case at her side, right arm bent naturally opposite stride. Medium-wide full body candid low camera angle, crisp face and limbs. Contemporary worn silver-gray lightweight technical jacket with graphite side panels over black top, dark plum straight technical trousers, plain black running boots. Exactly one small orange four-point tapered diamond star patch on upper sleeve. Exact small clearly legible SLOPCORE lettering on side of carried case, secondary to scene. Research inspiration NIST 2023 chip-scale atomic beam clock prototype made from etched silicon and glass layers; portable timing for places without GPS is the imagined infrastructure theme, not actual working implementation or guaranteed accuracy. Do not depict a visible miniature atom or giant clock, no oversized metaphors, armor, hacker costume, floating holograms, giant slogans or REC overlays. Hard on-camera flash balances restrained cyan industrial lighting and deep shadows, natural photographic freckles eyes hair fabric seams hands lettering sharply resolved, subtle analog texture only, no global blur, heavy grain, haze, fog or bloom. Plausible proportions two arms two legs, natural hands and limb connections. Preserve full original asset.",
+    "sources": [
+      {
+        "title": "NIST — New Tiny Atomic Beam Clock Could Bring Stable Timing to Places GPS Can’t Reach",
+        "url": "https://www.nist.gov/news-events/news/2023/06/new-tiny-atomic-beam-clock-could-bring-stable-timing-places-gps-cant-reach"
+      }
+    ],
+    "publishedAt": "2026-10-10T19:17:13.238694Z"
   }
 ]
