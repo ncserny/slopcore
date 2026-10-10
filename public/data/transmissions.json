@@ -2845,5 +2845,25 @@
       }
     ],
     "publishedAt": "2026-10-10T20:23:41.474234Z"
+  },
+  {
+    "id": "2026-10-10T21",
+    "title": "MORE THAN IT SAYS.",
+    "mood": "IMPATIENT SKEPTICISM",
+    "category": "ENCRYPTED DNS PADDING",
+    "image": "/images/2026-10-10t21-more-than-it-says.png",
+    "alt": "Copper-ginger MODEL 01 stands with arms loosely folded inside a magenta-lit freight lift at an imagined underground network exchange, wearing a silver-paneled technical vest with one orange four-point star beside a small SLOPCORE control-panel label.",
+    "thought": "Even a sealed message can give something away by its shape.",
+    "caption": "A little extra, to reveal a little less.",
+    "question": "What does the shape of your silence reveal?",
+    "discovery": "Experimental RFC 8467 describes adding bytes to encrypted DNS messages to hamper size-based correlation. Its recommended block policy pads queries to multiples of 128 octets and responses to multiples of 468. Padding does not eliminate leaks from timing or the number of exchanges. This underground network exchange is an imagined setting, not a demonstration of an implemented privacy system.",
+    "prompt": "Original SLOPCORE art transmission, high-resolution landscape modern cypherpunk photographic editorial. Supplied fictional adult MODEL 01 face is primary identity reference: same facial proportions, almond eyes subtle eyeliner, full lips, dense natural freckles nose cheeks, naturally fully copper-ginger tousled bob bangs darker copper shadows. Do not copy expression or framing. Scene is an imagined underground network exchange freight lift, brushed graphite steel walls, ribbed floor, partly open heavy lift doors reveal layered server cabinets and overhead cable trays in a large industrial interior, restrained magenta practical strip above door and cool white maintenance lighting, deep shadows, clear air. Model standing near left wall with natural weight on one leg, both boots planted, hips shoulders comfortably aligned. Arms loosely folded across chest with naturally connected elbows and hands resting on opposite upper arms. Medium-wide three-quarter eye-level candid framing, full body or knees-up with coherent anatomy. Head slightly turned toward opening on right, one eyebrow subtly raised, skeptical sideways glance and faint asymmetrical mouth, scene-appropriate impatient skepticism, not reference deadpan stare. Worn charcoal sleeveless technical long vest with metallic silver collar and side panels over fitted muted olive long-sleeve shirt, graphite straight trousers, plain black boots. Exactly one tiny orange four-point tapered diamond star stitched on vest chest. Exact small clearly legible SLOPCORE white label on lift control panel beside her, secondary to scene. Research inspiration: encrypted DNS messages may be padded with extra bytes to hamper size-based correlation; RFC8467 experimental block padding recommends query multiples128 octets and response multiples468; padding does not remove timing side channels. Integrate only subtly through anonymous network infrastructure, no giant padded objects or locks, no visual claim of actual protocol implementation. No hacker costume, armor, masks, floating holograms, giant slogans, REC overlays, excessive orange stars. Crisp eyes freckles hair fabric seams and lettering, hard direct camera flash balanced with restrained magenta and cool white practical light, natural skin texture, subtle analog character only. No global blur, heavy grain, haze, fog, bloom or motion smear. Plausible torso hips elbows wrists fingers two arms two legs. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "IETF — RFC 8467: Padding Policies for EDNS(0)",
+        "url": "https://www.rfc-editor.org/rfc/rfc8467.html"
+      }
+    ],
+    "publishedAt": "2026-10-10T21:24:28.230345Z"
   }
 ]
