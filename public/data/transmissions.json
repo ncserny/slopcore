@@ -2725,5 +2725,25 @@
       }
     ],
     "publishedAt": "2026-10-09T23:24:58.040350Z"
+  },
+  {
+    "id": "2026-10-10T05",
+    "title": "LEAVE A TRACE.",
+    "mood": "WATCHFUL SKEPTICISM",
+    "category": "CERTIFICATE TRANSPARENCY",
+    "image": "/images/2026-10-10t05-leave-a-trace.png",
+    "alt": "Copper-ginger MODEL 01 walks through a cool white industrial computing aisle carrying a rugged tablet, wearing a silver jacket with small SLOPCORE lettering and one orange four-point star.",
+    "thought": "Trust gets stronger when its history can be questioned.",
+    "caption": "A record that others can inspect.",
+    "question": "What would you want a system to leave on record?",
+    "discovery": "RFC 9162 describes Certificate Transparency using append-only logs of public TLS server certificates. Monitoring those logs can reveal unexpected or suspect certificate issuance; the logs do not themselves prevent misissuance. Merkle trees support proofs about log inclusion and consistency. This audit hall is an imagined visual extrapolation.",
+    "prompt": "Original SLOPCORE transmission, landscape high-resolution crisp photographic editorial. Use supplied face reference only for fictional adult MODEL 01 identity: same recognizable facial proportions, almond eyes subtle eyeliner full lips dense natural freckles across nose and cheeks, naturally fully copper-ginger tousled bob and bangs with darker copper shadows. Do not copy reference framing or expression. Modern cypherpunk imagined certificate-audit hall beneath a futuristic megastructure: tall narrow black steel computing racks, overhead exposed cable trays, translucent ribbed glass partitions, a long cold-white illuminated strip running through ceiling, occasional restrained violet equipment LEDs, slate concrete floor reflecting a little light. No ordinary daily-life setting. Model walking down the aisle toward camera at three-quarter diagonal angle, natural mid-step, hips shoulders limbs aligned, right arm swinging naturally at her side, left arm holds a thin rugged tablet against her waist with screen facing inward. Frame from boots to overhead racks, slight low camera angle with candid hard on-camera flash. Her head turned slightly to side with a skeptical raised eyebrow and a small asymmetric wry smile, alert thoughtful expression, not forced smile. Worn contemporary black technical trousers, structured brushed metallic silver waist-length jacket over charcoal mock-neck top, practical black boots; no armor or hacker costume. Exactly one small restrained orange four-point tapered diamond star patch on jacket upper sleeve. Exact text SLOPCORE small and clearly legible on jacket left chest, secondary to entire scene. Research inspiration RFC 9162 Certificate Transparency: append-only public certificate logs aid auditing and noticing suspect certificates; logs do not themselves prevent misissuance. Interpret subtly through monitoring infrastructure, fictional setting, no claim this equipment performs a working security function. Do not render large words or giant visual metaphors, locks, keys, holograms, motivational signs, REC overlay. Keep silver fashion, eyes, freckles, hair, seams, hands and SLOPCORE text sharply resolved, natural photographic skin texture, balanced flash and cool practical lighting with deep shadows. No heavy grain, global blur, haze, fog, excessive bloom or orange decorations. Plausible anatomy two arms two hands natural fingers, sensible proportions, no contorted joints. Preserve original full resolution.",
+    "sources": [
+      {
+        "title": "RFC 9162 — Certificate Transparency Version 2.0",
+        "url": "https://www.rfc-editor.org/rfc/rfc9162.html"
+      }
+    ],
+    "publishedAt": "2026-10-10T08:24:27.884990Z"
   }
 ]
