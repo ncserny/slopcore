@@ -2925,5 +2925,25 @@
       }
     ],
     "publishedAt": "2026-10-11T01:32:28.143561Z"
+  },
+  {
+    "id": "2026-10-11T02",
+    "title": "FOR YOUR EYES.",
+    "mood": "WRY AMUSEMENT",
+    "category": "HYBRID PUBLIC-KEY ENCRYPTION",
+    "image": "/images/2026-10-11t02-for-your-eyes.png",
+    "alt": "Copper-ginger MODEL 01 leans against a network-equipped hatchback in an underground relay garage, looking sideways with wry amusement, wearing silver sleeves and one orange four-point star beside a small SLOPCORE equipment-case label.",
+    "thought": "You can send something out without making it public.",
+    "caption": "Addressed to one. Carried through many.",
+    "question": "What would you send if only the intended recipient could read it?",
+    "discovery": "RFC 9180 describes hybrid public-key encryption, combining an asymmetric key encapsulation mechanism, a key derivation function and authenticated encryption with additional data to encrypt arbitrary-sized messages for a recipient public key. The network-equipped hatchback is an imagined mobile relay, not a working HPKE demonstration or a claim of post-quantum security.",
+    "prompt": "Original SLOPCORE landscape high-resolution modern cypherpunk photographic editorial. Established fictional adult MODEL 01 identity from supplied primary face reference: recognizable proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob bangs darker copper shadows. Use identity only, different expression framing outfit. Imagined underground mobile relay garage in futuristic industrial megastructure: graphite concrete walls high cable trays, compact matte charcoal electric hatchback parked with rear hatch open showing neatly mounted compact network equipment and a rugged terminal in trunk, small antenna on roof, ordinary plausible vehicle proportions not armored military vehicle. MODEL 01 standing and comfortably leaning her hip against rear quarter panel, both feet planted with natural relaxed stance, torso hips aligned, left forearm relaxed on car roof edge with hand supported, right arm down naturally hand loosely holding small phone. Face turned toward someone off-camera left, spontaneous brief wry laugh, lifted cheeks eyes slightly narrowed in amusement lips parted showing just a little teeth, no forced broad smile no staged group. Medium-wide three-quarter low camera angle, coherent full-body anatomy face hands crisp. Worn graphite technical bomber with metallic silver sleeves over dark plum shirt, muted olive loose straight trousers plain black boots. Exactly one tiny restrained orange four-point tapered diamond star patch on bomber chest. Exact small clearly legible SLOPCORE wordmark on side of trunk terminal, secondary to scene. Research inspiration RFC9180 hybrid public-key encryption combines asymmetric key encapsulation, a key derivation function and authenticated encryption with additional data to encrypt messages for recipient public key. Integrate subtly through mobile communications infrastructure, not a visual claim of working implementation or postquantum technology. Cool white overhead garage practical light, restrained cyan trunk display and faint distant magenta service light, hard camera flash deep shadows natural skin hair fabric texture. No floating holograms giant keys locks envelope metaphors hacker costume armor masks motivational signs REC overlays cute props excessive orange stars. Clear air sharp eyes freckles lettering seams hands, minimal analog texture no global blur heavy grain haze fog or bloom. Plausible joints hips shoulders elbows wrists natural fingers two arms two legs. Preserve full original raster resolution.",
+    "sources": [
+      {
+        "title": "IRTF — RFC 9180: Hybrid Public Key Encryption",
+        "url": "https://www.rfc-editor.org/rfc/rfc9180.html"
+      }
+    ],
+    "publishedAt": "2026-10-11T04:00:24.753157Z"
   }
 ]
