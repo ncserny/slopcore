@@ -2885,5 +2885,25 @@
       }
     ],
     "publishedAt": "2026-10-10T22:24:37.794009Z"
+  },
+  {
+    "id": "2026-10-11T00",
+    "title": "WHEN YOU COME BACK.",
+    "mood": "ATTENTIVE CURIOSITY",
+    "category": "MESSAGING LAYER SECURITY",
+    "image": "/images/2026-10-11t00-when-you-come-back.png",
+    "alt": "Copper-ginger MODEL 01 kneels naturally beside a rugged terminal case labeled SLOPCORE in an underground computing room, looking upward with attentive curiosity, wearing a plum jacket with silver pockets and one orange four-point star.",
+    "thought": "A conversation can keep its place while people come and go.",
+    "caption": "Not everyone has to arrive together.",
+    "question": "Which conversation would you return to after the network wakes?",
+    "discovery": "RFC 9420 specifies Messaging Layer Security, a protocol for efficiently establishing encryption keys for asynchronous groups ranging from two members to thousands. It is designed to provide forward secrecy and post-compromise security. The underground computing cooperative is an imagined scene, not a demonstration of a working MLS deployment.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Fictional adult MODEL 01 primary identity from supplied face reference: recognizable facial proportions, almond eyes subtle eyeliner, full lips dense natural freckles nose cheeks naturally fully copper-ginger tousled bob bangs darker copper shadows. Do not copy reference framing expression. Imagined underground computing cooperative in a futuristic industrial district: low charcoal concrete room, improvised but plausible compact network terminal on a low rugged equipment case, tidy thin cables across floor to patch panel, worn steel worktables with modern compact computers, one distant adult absorbed at another workstation, not posed or smiling group, narrow high window with layered megastructure outside. MODEL 01 kneeling comfortably on both knees on a flat dark maintenance mat beside equipment case, shins behind her naturally and hips above heels, torso upright aligned with pelvis with no twisting or awkward splits. Left hand rests on case beside terminal, right hand loosely on right thigh. Face turned gently up toward someone just outside frame to right, brows softly lifted, eyes engaged with attentive curiosity, mouth subtly parted as if listening. Medium-wide three-quarter camera from slightly above floor, clear face hands knees alignment. Worn plum lightweight technical jacket with metallic silver front pockets and cuffs over charcoal shirt, black loose practical trousers plain boots. Exactly one tiny orange four-point tapered diamond star patch on upper sleeve. Exact small clearly legible SLOPCORE label on front of equipment case, secondary to scene. Research inspiration RFC9420 Messaging Layer Security establishes shared encryption keys for asynchronous groups, from two to thousands, designed for forward secrecy and post-compromise security. Integrate only through underground collaborative computing infrastructure, not a literal diagram or actual protocol demonstration. No giant trees locks keys, no holograms costume armor hacker masks motivational slogans REC overlays cute novelty props excessive star decorations. Cool white work lights with single restrained cyan terminal glow and muted magenta outside high window, hard on-camera flash, deep shadows, clear air, sharply resolved eyes freckles hair hands fabric lettering natural skin texture, minimal analog texture only. No global blur haze heavy grain fog excessive bloom. Plausible body proportions torso hips sensible elbows wrists knees natural fingers two arms two legs. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "IETF — RFC 9420: The Messaging Layer Security Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9420.html"
+      }
+    ],
+    "publishedAt": "2026-10-11T00:20:16.948524Z"
   }
 ]
