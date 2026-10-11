@@ -3029,5 +3029,25 @@
       }
     ],
     "publishedAt": "2026-10-11T20:25:21.642837Z"
+  },
+  {
+    "id": "2026-10-11T21",
+    "title": "WHO SET THE TIME?",
+    "mood": "WATCHFUL SKEPTICISM",
+    "category": "NETWORK TIME SECURITY",
+    "image": "/images/2026-10-11t21-who-set-the-time.png",
+    "alt": "Copper-ginger MODEL 01 stands with folded arms against a steel support on a futuristic transit catwalk, wearing plum and silver with one orange four-point star beside a small SLOPCORE timing cabinet.",
+    "thought": "Knowing who said it is only part of knowing when.",
+    "caption": "The message is authentic. The wait is another question.",
+    "question": "Which signals do you trust, and which delays do you question?",
+    "discovery": "RFC 8915 specifies Network Time Security for client-server NTP. It uses TLS for initial authentication and key establishment, then authenticated encryption to protect time-synchronization messages. Authentic messages can still be delayed asymmetrically in transit: cryptography alone cannot eliminate that source of clock error. This futuristic transit catwalk and timing cabinet are imagined, not a verified NTS installation.",
+    "prompt": "Create original high-resolution landscape modern cypherpunk SLOPCORE photographic editorial. Preserve fictional adult MODEL 01 established facial identity using supplied reference only for face and hair: recognizable proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose fully natural copper-ginger tousled bob bangs darker copper shadows. New expression dry amused skepticism, one eyebrow subtly raised a slight asymmetrical closed-mouth smile, gaze toward something out of frame left, no forced grin. Imagined futuristic elevated transit switching catwalk at night, layers of dense modern megastructure, overhead rails and enclosed pedestrian bridges, steel mesh flooring guardrail wide safe space, compact wall mounted network timing cabinet with small numerical display, distant wet streets below cyan and muted magenta windows. MODEL 01 standing relaxed with shoulder leaning against a vertical steel support, both boots planted on floor shoulder-width, arms loosely folded comfortably across chest natural wrists fingers, believable torso and hips aligned, head turned slightly toward camera left. Three-quarter full-body framing camera a little above waist level foreground subject crisp and substantial architectural context. Contemporary worn muted plum technical jacket with metallic silver front panels over black top dark gray straight trousers plain black boots. Exactly one small restrained orange four-point tapered diamond star patch on jacket upper sleeve. Exact clearly legible small white SLOPCORE label on compact timing cabinet beside support, secondary not a large headline. Research inspiration RFC8915 Network Time Security uses TLS for key establishment and authenticated encryption for NTP synchronization messages; authentications do not solve asymmetric network delay. This transit infrastructure is an imagined extrapolation not actual implementation claim. No giant clocks giant locks holographic graphics masks armor weapons cute props slogans REC overlays extra stars. Hard on-camera flash clean deep shadows restrained practical cyan magenta architectural light crisp natural face freckles eyes hair clothing seams hands and lettering. Subtle analog character no heavy grain haze fog global blur bloom. Natural two arms two legs anatomically correct shoulders elbows wrists hips knees fingers without contortion. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "IETF RFC 8915 — Network Time Security for the Network Time Protocol",
+        "url": "https://datatracker.ietf.org/doc/html/rfc8915"
+      }
+    ],
+    "publishedAt": "2026-10-11T21:27:35.545685Z"
   }
 ]
