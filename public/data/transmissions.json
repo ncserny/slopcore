@@ -2989,5 +2989,25 @@
       }
     ],
     "publishedAt": "2026-10-11T08:11:13.789341Z"
+  },
+  {
+    "id": "2026-10-11T19",
+    "title": "BACK FROM THE DEEP.",
+    "mood": "ALERT CURIOSITY",
+    "category": "UNDERWATER DATACENTERS",
+    "image": "/images/2026-10-11t19-back-from-the-deep.png",
+    "alt": "Copper-ginger MODEL 01 jogs across a wet futuristic computing dock in silver-paneled technical fashion, with one orange four-point star and a small SLOPCORE cabinet label beside a sealed datacenter capsule.",
+    "thought": "Even the quietest machines eventually come back to the surface.",
+    "caption": "Sealed below. Retrieved into the light.",
+    "question": "What would you discover if you brought a hidden system back to the surface?",
+    "discovery": "Microsoft deployed Project Natick’s sealed Northern Isles datacenter 117 feet underwater in spring 2018, monitored its servers for two years, then retrieved it in 2020. The team explored whether a sealed environment could reduce failures associated with oxygen, humidity, temperature changes and human handling. This futuristic recovery dock is imagined, not an actual Microsoft facility or a claim about current deployments.",
+    "prompt": "Create original SLOPCORE high-resolution landscape modern cypherpunk photographic editorial. Preserve fictional adult MODEL 01's established facial identity from the reference: almond-shaped eyes subtle eyeliner full lips dense natural freckles cheeks and nose recognizable facial proportions naturally fully copper-ginger tousled bob bangs with darker copper shadows. Reference for face and hair only. Imagined future coastal computing recovery dock at blue dusk, dense stacked industrial architecture over dark water, overhead cables and distant angular high-rise buildings, a realistic sealed steel cylindrical datacenter capsule approximately shipping-container size sitting secured horizontally on a low transport cradle in the middle background, faint marine patina and compact maintenance fittings, closed network cabinets and gantry structures. No exposed servers underwater. MODEL 01 jogging quickly along the wide safe wet dock toward frame right, full body in natural mid-stride, one foot planted and opposite leg trailing bent at knee, arms naturally bent in opposing running motion, torso aligned with hips, believable balanced athletic movement rather than acrobatics. Three-quarter front view camera slightly low medium-wide candid framing, face sharply visible looking toward something just off frame with alert curiosity and slightly raised brows parted lips. Worn dark graphite technical rain jacket with metallic silver shoulder panels and silver cuffs, muted blue straight technical trousers black boots. Exactly one small restrained orange four-point tapered diamond star patch on jacket chest. Exact clearly legible small SLOPCORE white label on a dark closed network cabinet foreground left, modest secondary scene detail not a headline. Research inspiration historical Microsoft Project Natick sealed underwater datacenter tested 2018 to 2020 and retrieved for inspection; this futuristic facility is imagined extrapolation not actual Microsoft location or present deployed technology claim. Understated cyan practical lights magenta distant window reflections dark navy water hard on-camera flash crisp natural photographic skin hair freckles eyes seams hands letters and boots, subject frozen sharply no motion blur, restrained subtle analog texture only, no haze fog heavy grain global blur bloom glowing sea giant metaphors holograms cyber armor masks weapons slogans REC overlays or decorative extra stars. Plausible two arms two legs natural joints hands fingers torso hip alignment. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Microsoft — Project Natick underwater datacenter experiment",
+        "url": "https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/"
+      }
+    ],
+    "publishedAt": "2026-10-11T19:25:30.787546Z"
   }
 ]
