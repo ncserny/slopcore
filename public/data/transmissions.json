@@ -3009,5 +3009,25 @@
       }
     ],
     "publishedAt": "2026-10-11T19:25:30.787546Z"
+  },
+  {
+    "id": "2026-10-11T20",
+    "title": "WE BOTH KNOW.",
+    "mood": "ABSORBED CONCENTRATION",
+    "category": "PASSWORD-AUTHENTICATED KEY EXCHANGE",
+    "image": "/images/2026-10-11t20-we-both-know.png",
+    "alt": "Copper-ginger MODEL 01 sits at a steel workbench pairing two rugged terminals in an underground computing room, with silver fashion details, one orange four-point star and a small SLOPCORE cabinet mark.",
+    "thought": "Some things can be shared without being said.",
+    "caption": "A shared secret. A new connection.",
+    "question": "What would you like to confirm without revealing?",
+    "discovery": "RFC 9382 describes SPAKE2, a protocol that lets two parties sharing a password derive a strong shared key without disclosing the password. Its first round establishes a shared secret; a second round confirms the keys. Published in 2023 as an informational IRTF RFC, it is not an Internet Standards Track specification. This underground device-pairing room is imagined, not a demonstration of a particular implementation.",
+    "prompt": "Create an original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Use supplied reference only for established fictional adult MODEL 01 face and hair: recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles over cheeks nose naturally fully copper-ginger tousled bob with bangs and darker copper shadows. New expression absorbed concentration, brows slightly knitted eyes looking downward at a small handheld terminal with mouth relaxed, not reference expression. Imagined underground privacy-computing cooperative inside repurposed industrial switchgear room: unfinished concrete steel mesh partitions compact modern networking equipment, practical wiring tidy cable trays, two small rugged terminals on a narrow steel workbench, a discreet wall display with simple paired status indicators. Contemporary future technology not nostalgic CRT wall. MODEL 01 seated sideways on a plain low utility stool, both feet planted on floor naturally separated, hips torso shoulders aligned, torso leaning slightly forward toward workbench, one hand holding a small rectangular terminal just above her thigh the other resting naturally on workbench next to second device. Three-quarter side camera at eye level medium-wide composition show body from head through boots with rich room context. Worn olive technical overshirt with metallic silver chest pockets and collar, black straight trousers black practical boots. Exactly one restrained small orange four-point tapered diamond star patch on upper sleeve. Exact small legible SLOPCORE mark printed in white on the closed dark cabinet beside workbench, modest secondary detail. Research inspiration SPAKE2 RFC9382 two parties sharing a password derive a strong shared key without disclosing password, first exchange then key confirmation; imagined device-pairing scene not a literal protocol diagram or real deployment claim. No passwords visible no giant locks no holographic webs hacker masks armor weapons slogans cute props REC overlays extra stars. Dry clear air industrial interior deep shadows with restrained cyan equipment lights and small magenta strip reflected in steel hard camera flash, crisp freckles skin eyes hair seams hands fingers lettering devices natural photographic texture, subtle analog character only no heavy grain global blur haze fog bloom. Anatomically plausible two arms two legs connected natural elbows wrists knees hips five fingers per hand and no contortion. Preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "IRTF RFC 9382 — SPAKE2, a Password-Authenticated Key Exchange",
+        "url": "https://datatracker.ietf.org/doc/html/rfc9382"
+      }
+    ],
+    "publishedAt": "2026-10-11T20:25:21.642837Z"
   }
 ]
