@@ -2945,5 +2945,29 @@
       }
     ],
     "publishedAt": "2026-10-11T04:00:24.753157Z"
+  },
+  {
+    "id": "2026-10-11T06",
+    "title": "THE IMAGE STAYS.",
+    "mood": "FOCUSED CONCENTRATION",
+    "category": "BISTABLE ELECTRONIC PAPER",
+    "image": "/images/2026-10-11t06-the-image-stays.png",
+    "alt": "Copper-ginger MODEL 01 crouches beside a matte monochrome SLOPCORE electronic-paper status panel in a futuristic service passage, wearing a teal technical overshirt with silver details and one orange four-point star.",
+    "thought": "Some things can stay visible without being kept awake.",
+    "caption": "The power changes. The image remains.",
+    "question": "What would you leave visible after the power goes quiet?",
+    "discovery": "E Ink describes its displays as bistable: the displayed image remains even when power is removed, and energy is needed to change it. Its two-particle electrophoretic ink moves charged black and white particles using an electric field. This service passage is imagined; retaining the panel image does not mean the surrounding network or device electronics need no energy.",
+    "prompt": "Create original SLOPCORE landscape high-resolution modern cypherpunk photographic editorial. Preserve fictional adult MODEL 01 face identity from supplied primary reference: recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles nose cheeks naturally fully copper-ginger tousled bob bangs darker copper shadows. Reference for identity only not expression framing outfit. Imagined low-power network service passage inside dense futuristic megastructure, charcoal concrete walls embedded narrow conduits and graphite junction cabinets, narrow skylight with pale morning light, a small rectangular non-glowing monochrome electronic-paper display mounted low beside a maintenance cabinet, its matte white surface has exact small clearly legible SLOPCORE at top and a few understated black status bars below. Display secondary to scene, no giant headline. MODEL 01 crouching comfortably beside display, both feet planted flat knees bent natural balanced squat, torso leaning slightly forward aligned with hips, left hand resting on left knee and right hand lightly touching display frame, head angled toward screen, concentrated narrowed eyes and gently pursed lips, candid gaze away from camera. Medium-wide three-quarter side framing slightly high camera angle, clear face hands knees feet, no awkward contortions. Worn dark teal technical overshirt with metallic silver cuffs and pocket panels over charcoal top, dark gray practical trousers plain boots. Exactly one tiny orange four-point tapered diamond star patch on upper sleeve. Research inspiration E Ink electrophoretic displays move charged pigment particles with electric fields and are bistable: image remains when power is removed, panel uses power to change it. This fictional service passage is imagined infrastructure, not actual working demonstration or claim entire system runs without energy. Reflective matte display illuminated by ambient light only, no glowing e-paper screen. Pale morning skylight and hard direct camera flash, restrained cyan distant maintenance indicator, deep graphite shadows, crisp freckles eyes hair clothing seams lettering hands, natural photographic texture subtle analog character only. No giant particle metaphors holograms locks keys masks costume armor motivational signs REC overlay excessive orange accents. Clear air no heavy grain global blur haze fog excessive bloom. Plausible body proportions connected limbs natural joints fingers two arms two legs. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "E Ink — Technology Benefits: Bi-Stability",
+        "url": "https://www.eink.com/tech/detail/Benefits"
+      },
+      {
+        "title": "E Ink — How Electronic Ink Works",
+        "url": "https://www.eink.com/tech/detail/How_it_works"
+      }
+    ],
+    "publishedAt": "2026-10-11T07:58:57.179528Z"
   }
 ]
