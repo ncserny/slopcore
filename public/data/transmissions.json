@@ -2905,5 +2905,25 @@
       }
     ],
     "publishedAt": "2026-10-11T00:20:16.948524Z"
+  },
+  {
+    "id": "2026-10-11T01",
+    "title": "STILL CONNECTED.",
+    "mood": "TIRED DETERMINATION",
+    "category": "QUIC CONNECTION MIGRATION",
+    "image": "/images/2026-10-11t01-still-connected.png",
+    "alt": "Copper-ginger MODEL 01 walks through a wet elevated futuristic transit concourse holding a phone low at her waist, wearing a silver rain shell with one orange four-point star beside a small SLOPCORE access-point cabinet.",
+    "thought": "Changing the route does not always mean starting over.",
+    "caption": "Another path. The same connection.",
+    "question": "What would you keep connected while everything around you changes?",
+    "discovery": "RFC 9000 describes how QUIC connection IDs allow connections to survive changes to client network addresses, including a move to a new network. Path validation checks reachability on the new route, and connection migration begins only after the handshake is confirmed. This futuristic concourse is an imagined setting, not a demonstration or guarantee of uninterrupted service.",
+    "prompt": "Original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Use supplied fictional adult MODEL 01 primary face reference for same identity: recognizable proportions almond eyes subtle eyeliner full lips dense natural freckles nose cheeks naturally fully copper-ginger tousled bob bangs darker copper shadows. Do not copy expression pose or reference framing. Imagined futuristic transit concourse high between dense megastructures, glass wind screens and substantial guardrails, ribbed steel walking deck, overhead exposed fiber conduits and compact access-point boxes, tall layered city and elevated train visible beyond. Windy blue-hour after rain, wet floor restrained cyan window reflections, a single small magenta transit indicator, clear air. MODEL 01 walking briskly from right toward left through concourse, coherent natural stride one boot planted forward other trailing, torso hips aligned, no leaps no running no frozen contortion. She holds a small ordinary phone low in right hand near waist, left arm swings naturally, gaze ahead away from camera rather than down at screen, tired determined expression slightly furrowed brow lips gently pressed, shoulders relaxed but purposeful. Copper hair lightly displaced by breeze without blur. Medium-wide full body candid three-quarter frontal framing from waist-height camera with strong architectural depth. Contemporary worn metallic silver lightweight rain shell with charcoal panels over muted green shirt, dark navy straight technical trousers and plain boots. Exactly one tiny restrained orange four-point tapered diamond star patch near shell shoulder. Exact small clearly legible SLOPCORE label on a nearby graphite access-point cabinet at side of concourse, secondary to scene, no large slogan. Research inspiration RFC9000 QUIC connection migration: connection IDs let a connection survive client network address changes, and path validation establishes reachability on new path. This concourse is imagined infrastructure, not a working protocol demonstration or guaranteed uninterrupted service. No giant locks keys cable tethers glowing trails floating holograms costume armor hacker masks REC overlays novelty props or excessive orange decorations. Hard on-camera flash balanced with cool blue-hour natural light deep shadows and restrained cyan magenta practicals, sharply resolved eyes freckles hair clothing seams lettering hands, natural photographic texture subtle analog only. No global blur heavy grain haze fog excessive bloom motion smear. Plausible hips torso knees elbows wrists natural fingers two arms two legs. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "IETF — RFC 9000: QUIC, Connection Migration",
+        "url": "https://www.rfc-editor.org/rfc/rfc9000.html#section-9"
+      }
+    ],
+    "publishedAt": "2026-10-11T01:32:28.143561Z"
   }
 ]
