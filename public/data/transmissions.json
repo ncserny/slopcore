@@ -3289,5 +3289,25 @@
       }
     ],
     "publishedAt": "2026-10-12T20:19:00.225531Z"
+  },
+  {
+    "id": "2026-10-12T21",
+    "title": "A PLACE TO BE HEARD.",
+    "mood": "QUIET RELIEF",
+    "category": "DISCOVERABLE DISCLOSURE CONTACTS",
+    "image": "/images/2026-10-12t21-a-place-to-be-heard.png",
+    "alt": "Copper-haired freckled MODEL 01 climbs a concrete stair in a futuristic community computing building, holding a laptop sleeve and rail, wearing silver shoulder detail, a small SLOPCORE mark and one orange four-point star.",
+    "thought": "Finding a problem is only half the conversation.",
+    "caption": "Leave a way to reach you.",
+    "question": "What makes it easier for you to speak up?",
+    "discovery": "RFC 9116 defines security.txt, a machine-readable file that helps researchers find vulnerability reporting contacts and disclosure policies. Web services place it at /.well-known/security.txt and include Contact and Expires fields. The file's presence does not itself authorize security testing. This computing building and its terminal are imagined; no vulnerability was tested or reported for this transmission.",
+    "prompt": "Generate original SLOPCORE art transmission, high-resolution crisp photorealistic landscape 3:2 candid cyberpunk documentary/editorial photography. Attached primary face reference is SAME fictional adult MODEL 01 identity: recognizable proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips, naturally fully copper-ginger tousled bob realistic darker copper shadows never black or split dye. Expression new: understated relieved amusement, small closed-mouth half smile, gaze upward toward landing. Pose: ascending a broad concrete stair in an industrial community computing building, natural walking-up movement one boot on next step and the other on lower step, torso naturally upright with slight forward inclination, right hand lightly holds stair rail, left arm hangs with slim laptop sleeve, no contorted body. Camera from stair landing slightly overhead and diagonal, frame includes entire body and several steps. Different scene from seated workshop and standing server hall. Future city through large square wired-glass window, tightly layered apartments and cable bridges; muted cyan exterior night light and small magenta reflection, hard camera flash natural skin and crisp clothes. Wearing worn charcoal technical windbreaker with metallic silver diagonal shoulder insert, dark moss shirt, dark blue cargo trousers, scuffed boots, no costume armor. Small clearly legible exact 'SLOPCORE' horizontal white chest print, spelled S L O P C O R E, modest secondary to scene and unobstructed. Exactly one restrained small orange four-point elongated diamond star patch on jacket sleeve. Modest wall-mounted service terminal near landing, repair workstations hinted through open door, realistic conduit and improvised computing infrastructure. Research idea security.txt: a small discoverable text file points researchers toward vulnerability reporting contacts and policies; integrate subtly as service infrastructure, no huge metaphor or slogan signs, no claims of actual disclosure or sent messages. No other dominant text, no REC overlay extra stars global blur heavy grain haze bloom. Sharp facial texture eyes freckles clothing lettering and natural photographic detail. Correct plausible torso/hip alignment attached limbs joints hands feet, realistic balance on stairs. Preserve same adult identity, vary framing outfit and expression; use reference only for face/hair.",
+    "sources": [
+      {
+        "title": "RFC 9116 — A File Format to Aid in Security Vulnerability Disclosure",
+        "url": "https://www.rfc-editor.org/rfc/rfc9116.html"
+      }
+    ],
+    "publishedAt": "2026-10-12T22:59:30.070236Z"
   }
 ]
