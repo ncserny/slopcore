@@ -3189,5 +3189,25 @@
       }
     ],
     "publishedAt": "2026-10-12T15:14:49.864660Z"
+  },
+  {
+    "id": "2026-10-12T16",
+    "title": "I KEPT WORKING.",
+    "mood": "ABSORBED CURIOSITY",
+    "category": "LOCAL-FIRST SYNCHRONIZATION",
+    "image": "/images/2026-10-12t16-i-kept-working.png",
+    "alt": "Copper-ginger MODEL 01 kneels in an improvised computing van beside a laptop and small SLOPCORE shelf label, wearing navy and silver sleeves with one orange four-point star.",
+    "thought": "Losing the connection need not mean losing the thread.",
+    "caption": "Local changes. A later reunion.",
+    "question": "What would you keep making while disconnected?",
+    "discovery": "Automerge describes itself as a local-first synchronization engine for collaborative applications. Users can edit offline, with changes stored locally and synchronized when they reconnect. It consistently merges overlapping edits and retains document history, with tools for applications to control outcomes. This mobile computing workspace is imagined, not a verified Automerge installation or a claim that every application resolves conflicts without design choices.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Established fictional adult MODEL 01 identity from supplied reference face and hair only: recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob bangs realistic darker copper shadows. Imagined improvised mobile computing workspace inside rear of a worn dark utility van parked in a dense futuristic loading courtyard. Rear doors open revealing layered futuristic architecture in cool pale daylight, cyan practical strip light inside van and faint magenta reflected accent on exterior, compact storage crates cable spools tool shelves and low pull-out computer shelf believable practical clutter. MODEL 01 kneeling naturally on both knees on van floor torso upright slight lean toward low open laptop, hips above knees legs simply folded underneath clearly coherent, one hand resting on shelf beside laptop and other resting on her thigh. Natural expression absorbed curiosity a subtle pleased half-smile while eyes look at laptop. Three-quarter front medium-wide slightly elevated camera outside van looking in, entire kneeling body visible sharp face and hands. Worn navy technical long sleeve with metallic silver forearm sections muted olive cargo trousers dark boots. Exactly one restrained small orange four-point tapered diamond star patch on chest. Exact modest small clearly legible SLOPCORE white label on dark front edge of pull-out shelf, secondary to scene. Research inspiration Automerge local-first sync engine lets users edit documents offline with local changes synchronizing when reconnecting and consistent merging of overlapping edits; this van workspace is imagined not verified implementation. Laptop screen subdued ordinary document interface no fake claimed real app no secret keys. No giant metaphors floating code holograms locks weapons armor masks cute props slogans REC overlays extra stars. Hard on-camera flash with cool daylight deep shadows crisp natural photographic texture sharp eyes freckles hair clothing seams fingers lettering subtle analog character no global blur heavy grain haze fog excessive glow bloom. Plausible anatomy two arms two legs connected shoulders elbows wrists hands fingers torso hips knees feet no contortion preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "Automerge — Local-first sync engine",
+        "url": "https://automerge.org/"
+      }
+    ],
+    "publishedAt": "2026-10-12T16:35:44.612935Z"
   }
 ]
