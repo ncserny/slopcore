@@ -3069,5 +3069,25 @@
       }
     ],
     "publishedAt": "2026-10-12T05:42:36.575220Z"
+  },
+  {
+    "id": "2026-10-12T05",
+    "title": "AS MUCH AS I CAN HOLD.",
+    "mood": "ATTENTIVE CURIOSITY",
+    "category": "TLS RECORD SIZE LIMITS",
+    "image": "/images/2026-10-12t05-as-much-as-i-can-hold.png",
+    "alt": "Copper-ginger MODEL 01 walks under layered futuristic transit structures at dawn, carrying a small SLOPCORE case and wearing silver sleeves with one orange four-point star.",
+    "thought": "A connection can begin by admitting what you can hold.",
+    "caption": "Small memory. A place in the network.",
+    "question": "Where would a smaller piece make something easier to receive?",
+    "discovery": "RFC 8449 defines the TLS record_size_limit extension, allowing an endpoint to advertise the maximum protected-record plaintext size it can receive. Smaller records help address buffer allocation on devices with limited memory. The extension does not solve constraints on code size, processing power or bandwidth. This futuristic field-terminal scene is imagined, not a verified TLS implementation.",
+    "prompt": "Create original high-resolution landscape modern cypherpunk SLOPCORE photographic editorial. Established fictional adult MODEL 01 identity from supplied reference: same recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob bangs with realistic darker copper shadows. Reference for identity only. Imagined dense futuristic transit undercroft at blue-gray dawn, layered concrete architecture overhead elevated trains steel service doors embedded utility conduits quiet wet reflective crossing, believable distant pedestrians unobtrusive, cyan practical lights mostly extinguished pale morning daylight restrained distant magenta accent. MODEL 01 walking briskly across foreground from left to right, natural mid-step one boot planted opposite leg advancing, torso hips aligned shoulders relaxed, one hand carrying a compact rugged rectangular field terminal down beside her thigh and the other arm swinging naturally. Three-quarter front view medium-wide full body eye-level camera, sharp face looking up toward overhead transit with slightly widened eyes and parted lips attentive curiosity, no repeated deadpan gaze no forced smile. Worn navy technical coat with metallic silver sleeves over muted gray top olive straight trousers black boots. Exactly one small restrained orange four-point tapered diamond star patch on coat chest. Exact small legible SLOPCORE white print on plain dark terminal case secondary to scene. Research inspiration RFC8449 TLS record_size_limit lets endpoints negotiate record sizes they can receive, helping devices with limited memory; compact field terminal is imagined not actual cryptographic installation claim. No giant data blocks locks floating code holograms cyber armor masks weapons oversized metaphors cute props slogans REC overlay extra stars. Hard on-camera flash mixed cool dawn light crisp eyes freckles hair fabric seams hands letters frozen walking motion no motion blur. Natural two arms two legs plausible shoulder elbows wrists fingers torso hips knees feet. Subtle analog photographic character only no heavy grain haze fog blur bloom. Preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "IETF RFC 8449 — Record Size Limit Extension for TLS",
+        "url": "https://datatracker.ietf.org/doc/html/rfc8449"
+      }
+    ],
+    "publishedAt": "2026-10-12T05:58:52.606789Z"
   }
 ]
