@@ -3249,5 +3249,25 @@
       }
     ],
     "publishedAt": "2026-10-12T18:18:57.388001Z"
+  },
+  {
+    "id": "2026-10-12T19",
+    "title": "ANOTHER WAY THROUGH.",
+    "mood": "ABSORBED CONCENTRATION",
+    "category": "HETEROGENEOUS NETWORK CARRIERS",
+    "image": "/images/2026-10-12t19-another-way-through.png",
+    "alt": "Copper-haired freckled MODEL 01 sits at an improvised radio workbench in a concrete vault beneath a rainy futuristic city, wearing a burgundy jacket with silver sleeves, a small SLOPCORE wordmark and one orange four-point star.",
+    "thought": "A message does not have to stay on one kind of wire.",
+    "caption": "Different carriers. A shared route.",
+    "question": "What would you connect if the usual network disappeared?",
+    "discovery": "Reticulum is a cryptography-based networking stack that can route across heterogeneous carriers, including LoRa radios, packet radio, serial lines and WiFi. It does not require IP, though IP networks can carry it. Its documentation describes a single-board computer bridging LoRa, packet radio and WiFi. The workshop is imagined; its hardware does not establish that a working network exists or guarantee connectivity.",
+    "prompt": "Create an original SLOPCORE transmission, crisp high-resolution photographic documentary/editorial landscape 3:2. Use the attached primary face reference to preserve the SAME fictional adult MODEL 01 facial identity: recognizable facial proportions, dense natural freckles across cheeks and nose, almond-shaped eyes, subtle eyeliner, full lips. Naturally fully copper-ginger tousled bob with darker copper shadows, never black sections or split dye. Vary expression: quiet absorbed concentration, brows slightly knit, lips softly parted, eyes looking down toward a tiny radio on the table; no forced smile. Scene: an improvised underground cypherpunk radio workshop inside a concrete infrastructure vault, a wide horizontal slit window shows dense future architecture above a rainy street. MODEL 01 is seated sideways on a low battered swivel chair, both booted feet planted naturally on the floor, torso gently leaning toward a steel workbench; one hand rests on the bench and the other holds a small cable loosely, no contorted joints or complicated finger actions. Camera candid three-quarter side view slightly above eye level, medium-wide framing includes whole chair and feet. Contemporary worn charcoal technical shirt under a muted burgundy work jacket with metallic silver sleeve panels, slate cargo trousers and scuffed black boots, no armor or costume. One single restrained small orange four-point elongated diamond star patch on upper sleeve. On the jacket chest put a small but clearly legible clean light-colored embroidered wordmark EXACTLY 'SLOPCORE', spelled S L O P C O R E, horizontal and unoccluded, secondary to scene, never giant headline. Bench has a small single-board computer, two modest radio boxes, realistic coax leads and a compact antenna, subtle cyan status LEDs; old cable conduits and power strips on concrete walls. Restrained magenta reflected through narrow high window, hard on-camera flash keeps skin freckles eyes clothing and wordmark exceptionally sharp, deep shadows and realistic natural photographic texture, no global blur heavy grain haze bloom. Research inspiration is Reticulum's encrypted networking across heterogeneous carriers such as LoRa, packet radio, serial links and WiFi, without requiring IP. Integrate as believable modest hardware; no glowing packet diagrams, no oversized metaphors, no fake claims about actual network deployment, no additional slogans or text, no REC overlay, no decorative extra stars. Keep natural plausible body proportions, correct torso/hip alignment, attached limbs, realistic joints and anatomically plausible hands. Reference establishes face and hair only; do not copy reference framing or outfit.",
+    "sources": [
+      {
+        "title": "Reticulum documentation — What is Reticulum?",
+        "url": "https://reticulum.network/manual/whatis.html"
+      }
+    ],
+    "publishedAt": "2026-10-12T19:21:33.223928Z"
   }
 ]
