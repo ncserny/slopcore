@@ -3089,5 +3089,25 @@
       }
     ],
     "publishedAt": "2026-10-12T05:58:52.606789Z"
+  },
+  {
+    "id": "2026-10-12T11",
+    "title": "SOMETHING TO BUILD ON.",
+    "mood": "WRY AMUSEMENT",
+    "category": "EXTRACT-AND-EXPAND KEY DERIVATION",
+    "image": "/images/2026-10-12t11-something-to-build-on.png",
+    "alt": "Copper-ginger MODEL 01 crouches beside an open SLOPCORE test case in an industrial computing workshop, wearing plum and silver details with one orange four-point star and a faint sideways smile.",
+    "thought": "Start with what is there. Give it a useful shape.",
+    "caption": "Extract. Expand. Keep the source honest.",
+    "question": "What could you build from what you already have?",
+    "discovery": "RFC 5869 describes HKDF, an HMAC-based key derivation function. Its extract stage produces a fixed-length pseudorandom key from initial keying material; its expand stage produces output of the desired length. Extraction can concentrate existing entropy but cannot amplify it, so weak input does not become a stronger source of randomness by expansion alone. This hardware workshop is imagined, not a verified implementation.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Supplied reference is established fictional adult MODEL 01 face and hair only: recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles across cheeks nose naturally fully copper-ginger tousled bob bangs darker copper shadows. New natural expression wry amusement a small spontaneous sideways smile toward someone out of frame, eyes lively not deadpan. Imagined underground hardware co-op in a converted industrial loading bay, black steel shutters concrete walls high windows slanting pale daylight, compact modern computing modules on workbench improvised tidy cabling stacked hard cases and small monitor in background, restrained cyan indicator lights magenta reflected accent on steel. MODEL 01 crouching naturally beside low open rugged electronics test case, both boots flat feet apart knees comfortably bent hips over feet, torso and shoulders aligned one forearm resting on own knee other hand lightly resting on case rim no fine repair gesture. Three-quarter front view slightly high camera medium-wide full crouching body visible, strong candid composition. Worn charcoal technical utility vest with metallic silver pockets over dusty plum long sleeve shirt navy straight trousers black boots. Exactly one restrained tiny orange four-point tapered diamond star patch on vest chest. Exact small clearly legible white SLOPCORE mark on the front of rugged case, secondary to scene. Research inspiration HKDF RFC5869 first extracts pseudorandom key from initial keying material then expands it to desired output length, cannot create extra entropy from a weak input. Workshop setting is imagined not protocol diagram or verified implementation. No actual secret keys on screens giant keys locks glowing data webs holograms hacker masks armor weapons oversized visual metaphors slogans cute props REC overlays extra stars. Hard on-camera flash natural daylight deep shadows crisp skin freckles eyes hair seams hands lettering restrained subtle analog photographic character, no heavy grain blur haze fog excessive bloom. Plausible body proportions natural torso hip alignment two arms two legs clear elbows wrists knees connected hands no contortion preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "IETF RFC 5869 — HMAC-based Extract-and-Expand Key Derivation Function",
+        "url": "https://datatracker.ietf.org/doc/html/rfc5869"
+      }
+    ],
+    "publishedAt": "2026-10-12T11:17:52.978802Z"
   }
 ]
