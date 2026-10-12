@@ -3269,5 +3269,25 @@
       }
     ],
     "publishedAt": "2026-10-12T19:21:33.223928Z"
+  },
+  {
+    "id": "2026-10-12T20",
+    "title": "WHO SENT THE ROUTE?",
+    "mood": "ALERT SKEPTICISM",
+    "category": "BGP ORIGIN VALIDATION",
+    "image": "/images/2026-10-12t20-who-sent-the-route.png",
+    "alt": "Freckled copper-haired MODEL 01 stands leaning against a steel cabinet in a futuristic network exchange, wearing indigo with silver shoulders, small SLOPCORE embroidery and one orange four-point star, casting a skeptical sideways glance.",
+    "thought": "Knowing the starting point leaves the journey to be checked.",
+    "caption": "A claim needs an origin.",
+    "question": "Which part of a story would you verify first?",
+    "discovery": "RFC 6811 describes BGP prefix origin validation: a router compares a route's claimed origin autonomous system and address prefix against validated authorization data. It distinguishes Valid, Invalid and NotFound; missing coverage is not the same as a failed match. This checks origin authorization, not every step of the route's path. The interconnection hall is imagined, with no claim that its equipment implements this validation.",
+    "prompt": "Original SLOPCORE transmission. Photorealistic crisp landscape 3:2 candid modern cypherpunk editorial photograph. Attached face reference establishes the SAME fictional adult MODEL 01 identity only: recognizable facial proportions, dense natural freckles cheeks and nose, almond eyes subtle eyeliner full lips, natural fully copper-ginger tousled bob with darker copper shadows; no black hair or split dye. New expression: alert skepticism, one eyebrow slightly raised, mouth relaxed closed, looking sideways at an unseen person beside camera rather than deadpan into lens. Pose distinctly different from seated last image: standing with shoulders resting lightly against the corner of a tall steel cable-distribution cabinet, both legs naturally straight with relaxed stance, one arm casually folded across waist while other hangs with a compact rugged tablet by thigh, simple plausible hands. Medium-wide low camera angle showing head to below knees. Setting is an imagined interconnection exchange inside an industrial future megastructure, wide concrete hall of fiber patch racks, bundled real cables in overhead trays, tall grimy windows reveal stacked architecture and elevated trains at night. Restrained cool-white overhead task lights, hard camera flash, a little cyan status light and distant magenta city reflection, deep believable shadows; vary palette avoid neon soup. Worn indigo technical overshirt with metallic silver shoulder panels, muted olive trousers, charcoal shirt. A single small restrained orange four-point elongated diamond star patch on upper sleeve. Small clean horizontal chest embroidery EXACTLY 'SLOPCORE', spelling S L O P C O R E, legible and unoccluded, secondary to scene; no large text or other slogans. Research inspiration BGP prefix origin validation: routing authorization verifies who may originate an address prefix, not the whole path. Integrate infrastructure subtly, not diagrams or giant metaphors; no verified-installation claims. Natural proportions correct torso hips attached limbs realistic joints anatomically plausible fingers. Sharp freckles eyes clothing lettering; real photographic texture, subtle analog character only, no heavy grain global blur haze excessive bloom, no REC overlay, no cyber armor masks weapons costume or extra star decorations. Preserve identity while varying outfit scene expression and camera; do not copy reference crop or pose.",
+    "sources": [
+      {
+        "title": "RFC 6811 — BGP Prefix Origin Validation",
+        "url": "https://www.rfc-editor.org/rfc/rfc6811.html"
+      }
+    ],
+    "publishedAt": "2026-10-12T20:19:00.225531Z"
   }
 ]
