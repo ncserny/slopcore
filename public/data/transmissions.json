@@ -3149,5 +3149,25 @@
       }
     ],
     "publishedAt": "2026-10-12T13:19:27.675217Z"
+  },
+  {
+    "id": "2026-10-12T14",
+    "title": "FIND IT BY WHAT IT IS.",
+    "mood": "INTRIGUED SURPRISE",
+    "category": "CONTENT-ADDRESSED DATA",
+    "image": "/images/2026-10-12t14-find-it-by-what-it-is.png",
+    "alt": "Copper-ginger MODEL 01 turns in an underground storage-server carriage, holding a small case beside a discreet SLOPCORE rack label, silver quilted vest and one orange four-point star.",
+    "thought": "An address can describe what you seek instead of where it lives.",
+    "caption": "Content first. Location later.",
+    "question": "What would you recognize wherever you found it?",
+    "discovery": "IPFS content identifiers, or CIDs, address data by its content rather than its storage location. A CID includes a cryptographic hash and information about the data format. The same content imported with the same settings produces the same CID; different chunking or encoding can produce different CIDs for identical files. A CID is therefore not simply a file checksum. This underground archive is imagined, not a verified IPFS installation.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Supplied reference image establishes fictional adult MODEL 01 face and hair only: same recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob bangs realistic darker copper shadows. Imagined underground cooperative digital archive in a converted narrow subway maintenance carriage: matte black compact storage servers securely mounted along one wall, restrained cyan status lights and a single magenta practical lamp at far end, brushed steel floor, windows showing dark tunnel infrastructure. MODEL 01 standing in aisle turned naturally three-quarter toward camera after hearing someone enter, body hips aligned feet planted comfortable shoulder-width, one hand holding a small hard drive case down by thigh other hand relaxed touching upright rack frame. Natural intrigued surprise raised eyebrows slightly parted lips gaze just beside lens, no forced smile or generic deadpan. Medium-wide full-body eye-level candid photograph with perspective aisle depth. Worn deep plum high-collar long sleeve with metallic silver quilted technical vest gray loose straight pants black boots. Exactly one restrained tiny orange four-point tapered diamond star patch on vest chest. Exact small legible white SLOPCORE rack label at shoulder height on a flat dark panel beside model, secondary to scene not huge headline. Real research inspiration IPFS content identifiers address data by content not storage location and contain hash plus format information; identical content with same import settings yields same CID while different chunking or encoding can change CID. This underground archive is imagined not verified IPFS installation. No diagram no giant floating hashes locks keys holograms weapons masks hacker costume armor oversized metaphors cute props slogans REC overlays extra stars. Crisp sharp face eyes skin freckles hair clothing seams hands lettering subtle analog photographic texture hard direct flash deep shadows restrained practical light no heavy grain blur haze fog excessive bloom. Plausible anatomy exactly two arms two legs coherent shoulders elbows wrists fingers torso hips knees feet preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "IPFS Docs — Content Identifiers (CIDs)",
+        "url": "https://docs.ipfs.tech/concepts/content-addressing/"
+      }
+    ],
+    "publishedAt": "2026-10-12T14:15:09.000293Z"
   }
 ]
