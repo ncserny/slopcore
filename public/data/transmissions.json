@@ -3049,5 +3049,25 @@
       }
     ],
     "publishedAt": "2026-10-11T21:27:35.545685Z"
+  },
+  {
+    "id": "2026-10-11T22",
+    "title": "ONLY HALF THE STORY.",
+    "mood": "QUIET SATISFACTION",
+    "category": "OBLIVIOUS DNS OVER HTTPS",
+    "image": "/images/2026-10-11t22-only-half-the-story.png",
+    "alt": "Copper-ginger MODEL 01 kneels on a rooftop maintenance mat beside a small SLOPCORE relay enclosure, wearing teal and silver with one orange four-point star against a dense futuristic skyline.",
+    "thought": "A little separation can leave room for privacy.",
+    "caption": "One carries the question. Another reads it.",
+    "question": "Which parts of your story would you rather keep apart?",
+    "discovery": "Experimental RFC 9230 describes Oblivious DNS over HTTPS. A client encrypts a DNS query for a target, while a proxy forwards it: the proxy sees the client address but cannot decrypt the query, and the target answers without receiving that address directly. The design expects the proxy and target not to collude. This rooftop relay scene is imagined, not a literal DNS topology or a verified deployment.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk photographic editorial. Preserve fictional adult MODEL 01 established face and hair from reference: recognizable proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob bangs darker copper shadows. Reference identity only. New natural expression quiet satisfaction a faint relaxed smile eyes gazing toward a small indicator on closed relay equipment, not camera. Imagined futuristic rooftop relay maintenance terrace under dry clear night air, dense staggered architecture and cyan windows behind safe perimeter railing, compact realistic antenna mast and two separate closed modern communications enclosures, conduits and steel floor, no gigantic metaphor. MODEL 01 kneeling upright on both knees on a plain dark maintenance mat beside low relay enclosure, hips over heels naturally aligned torso slightly inclined forward, one hand resting on top of closed enclosure and other hand resting on own thigh, full body visible, simple natural anatomy. Low three-quarter camera medium-wide framing include rooftop context and face sharply visible. Worn dark teal technical jacket with metallic silver shoulder panels silver cuffs graphite trousers ordinary black boots. Exactly one restrained tiny orange four-point tapered diamond star patch on upper chest. Exact small legible SLOPCORE white label on low relay enclosure secondary to scene. Research inspiration RFC9230 experimental Oblivious DNS over HTTPS encrypted query carried by proxy separate target decrypts and answers, privacy assumes non-colluding operators; rooftop hardware is imagined setting not literal DNS diagram or proven installation. Hard on-camera flash deep shadows restrained cyan practical lights distant magenta windows crisp freckles eyes hair fabric seams hands joints and text. Subtle photographic analog character only no global blur heavy grain fog haze excessive glow bloom giant locks holographic webs weapons masks armor cute props motivational signs REC overlays extra stars. Two natural arms two legs plausible torso hips knees wrists hands no contortion preserve original full-resolution raster.",
+    "sources": [
+      {
+        "title": "RFC 9230 — Oblivious DNS over HTTPS",
+        "url": "https://datatracker.ietf.org/doc/html/rfc9230"
+      }
+    ],
+    "publishedAt": "2026-10-12T05:42:36.575220Z"
   }
 ]
