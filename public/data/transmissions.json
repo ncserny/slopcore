@@ -3109,5 +3109,25 @@
       }
     ],
     "publishedAt": "2026-10-12T11:17:52.978802Z"
+  },
+  {
+    "id": "2026-10-12T12",
+    "title": "ONCE IS ENOUGH.",
+    "mood": "FOCUSED DETERMINATION",
+    "category": "CHACHA20-POLY1305 NONCES",
+    "image": "/images/2026-10-12t12-once-is-enough.png",
+    "alt": "Copper-ginger MODEL 01 descends a concrete network stairwell with a small SLOPCORE tablet, silver jacket shoulders and one orange four-point star against cyan light and a futuristic skyline.",
+    "thought": "Some things stay safe because you never repeat them.",
+    "caption": "A fresh nonce for the next message.",
+    "question": "What would you choose to do only once?",
+    "discovery": "RFC 8439 describes ChaCha20-Poly1305 authenticated encryption. Its nonce must be unique for each invocation with the same key. Reusing a nonce repeats the keystream and the one-time Poly1305 key, undermining security. Counters are one way to generate unique nonces. This network stairwell and communications device are imagined, not a verified implementation.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk documentary fashion photograph. Supplied image reference for established fictional adult MODEL 01 identity only: same recognizable facial proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob and bangs with darker copper shadows. Imagined futuristic encrypted-network exchange inside narrow concrete stairwell connecting dense elevated city levels, steel mesh doors compact network boxes organized conduits cyan practical light from lower landing and restrained magenta city reflections through wired-glass window, cool late-afternoon ambient shadows and hard on-camera flash. MODEL 01 descending stairs naturally toward camera, front boot planted on lower step back foot on next step, hips torso aligned, one hand loosely on steel handrail other hand holding a closed slim rugged communications tablet beside thigh. Medium-wide three-quarter front full-body candid framing camera on landing looking slightly upward. Expression focused determination lips gently pressed eyes looking at next step, different from previous smile. Worn slate blue technical jacket with metallic silver shoulder panels rust-brown straight cargo trousers black low boots. Exactly one restrained tiny orange four-point tapered diamond star patch on jacket chest. Exact modest small clearly legible SLOPCORE white print on plain dark tablet case, secondary to scene. Research inspiration RFC8439 ChaCha20-Poly1305 authenticated encryption requires a unique nonce per key, repeating nonce repeats keystream and undermines security. Stairwell and field communications device are imagined, no verified implementation claim. Integrate technology naturally no giant locks keys floating code holograms hacker masks weapons costume armor oversized metaphor cute props slogans REC overlays extra stars. Crisp sharp eyes face freckles hair seams fingers letters frozen movement no motion blur no haze heavy grain fog excessive glow bloom. Natural plausible anatomy exactly two arms two legs hands connected wrists fingers relaxed knees feet coherent stair contact torso hip alignment. Subtle analog photographic character preserve full-resolution raster.",
+    "sources": [
+      {
+        "title": "IRTF RFC 8439 — ChaCha20 and Poly1305 for IETF Protocols",
+        "url": "https://www.rfc-editor.org/rfc/rfc8439.html"
+      }
+    ],
+    "publishedAt": "2026-10-12T12:14:51.813827Z"
   }
 ]
