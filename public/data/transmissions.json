@@ -3229,5 +3229,25 @@
       }
     ],
     "publishedAt": "2026-10-12T17:17:49.975473Z"
+  },
+  {
+    "id": "2026-10-12T18",
+    "title": "KEEP THE KEYS MOVING.",
+    "mood": "SPONTANEOUS AMUSEMENT",
+    "category": "ROTATING SESSION KEYS",
+    "image": "/images/2026-10-12t18-keep-the-keys-moving.png",
+    "alt": "Copper-ginger MODEL 01 walks an industrial network catwalk with a small SLOPCORE shirt print, silver pocket and cuffs, one orange four-point star and a spontaneous smile.",
+    "thought": "A connection can continue while its secrets change.",
+    "caption": "Renew the handshake. Keep moving.",
+    "question": "What would you renew without starting over?",
+    "discovery": "WireGuard's protocol documentation describes periodic handshakes that establish new symmetric session keys and support forward secrecy. Its renewal logic is based on time rather than the contents of earlier packets, helping it accommodate packet loss. Automatic timers handle renegotiation and retries. This network catwalk and diagnostic device are imagined, not a verified WireGuard deployment or a guarantee of universal privacy.",
+    "prompt": "Create original high-resolution landscape SLOPCORE modern cypherpunk candid photographic editorial. Supplied reference is fictional adult MODEL 01 established face and hair only: recognizable proportions almond eyes subtle eyeliner full lips dense natural freckles cheeks nose naturally fully copper-ginger tousled bob bangs realistic darker copper shadows. Imagined narrow industrial pedestrian catwalk between private network exchange buildings high above a dark loading yard at night: steel grating safe waist-height railings bundled utility conduits fiber junction boxes distant layered futuristic architecture, practical cyan lamps along one wall and restrained magenta reflected window light, hard on-camera flash deep clean shadows no rain haze. MODEL 01 walking briskly toward camera along catwalk, natural mid-step one boot on grating other advancing, torso hips shoulders aligned one arm swinging loosely other holding compact closed network diagnostic tablet down by thigh. Three-quarter front full-body medium-wide candid camera slightly below eye level. Expression spontaneous amusement subtle asymmetrical smile looking toward someone beside camera eyes lively not deadpan no forced broad grin. Worn dusty teal technical coat with metallic silver chest pocket and cuff details plum straight trousers black boots. Exactly one restrained small orange four-point tapered diamond star patch on upper sleeve. Exact modest small clearly legible SLOPCORE white label on dark tablet case secondary to scene. Real research inspiration WireGuard periodically renews handshakes to rotate session keys, time-based design accommodates packet loss and supports forward secrecy; this network catwalk and device are imagined not verified implementation or guarantee of universal privacy. No giant keys locks visual metaphor glowing webs holograms floating code weapons masks cyber armor cute props slogans REC overlays extra stars. Crisp sharp eyes freckles hair fabric seams hands fingers exact letters freeze walking motion no motion blur no global blur heavy grain haze fog excessive glow bloom subtle analog photographic character preserve original full-resolution raster. Plausible body proportions exactly two arms two legs connected elbows wrists hands knees ankles torso hip alignment natural stride.\n\nFinal image edit prompt: Keep this exact photographic scene, adult MODEL 01 identity copper-ginger hair freckles pose expression anatomy lighting clothing star and full resolution. Correct the branding: remove the ambiguous white lettering on the tablet case and add a small crisp horizontal white SLOPCORE wordmark on the plain dark t-shirt at upper chest. The exact eight letters are S L O P C O R E, spelled SLOPCORE. Keep it modest and secondary to the scene, clearly legible at native resolution, no other changes.",
+    "sources": [
+      {
+        "title": "WireGuard — Protocol & Cryptography",
+        "url": "https://www.wireguard.com/protocol/"
+      }
+    ],
+    "publishedAt": "2026-10-12T18:18:57.388001Z"
   }
 ]
