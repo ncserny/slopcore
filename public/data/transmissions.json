@@ -3549,5 +3549,25 @@
       }
     ],
     "publishedAt": "2026-10-13T17:17:37.927955Z"
+  },
+  {
+    "id": "2026-10-13T17",
+    "title": "BEGIN BEFORE THE END.",
+    "mood": "CURIOUS AMUSEMENT",
+    "category": "STREAMING BINARY DATA",
+    "image": "/images/2026-10-13t17-begin-before-the-end.png",
+    "alt": "Freckled copper-haired MODEL 01 jogs through an industrial sensor computing mezzanine beside rugged equipment cases, wearing olive with silver shoulders, a small SLOPCORE mark and one orange four-point star.",
+    "thought": "You can begin a message before you know how long it will be.",
+    "caption": "Let the next part arrive.",
+    "question": "What could you start before knowing every detail?",
+    "discovery": "RFC 8949 defines CBOR, a binary data format. Arrays, maps, byte strings and text strings can use indefinite-length encoding, allowing an encoder to begin before the final size is known and close the item with a break marker. This can support streaming, but decoder memory and security still need consideration. The sensor depot is imagined; no real data stream was recorded for this transmission.",
+    "prompt": "Original SLOPCORE transmission crisp high-resolution photorealistic 3:2 landscape modern cypherpunk candid editorial. SAME fictional adult MODEL 01 identity primary face reference proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows no black split dye. New pose jogging lightly across an industrial mezzanine in an improvised sensor computing depot, natural balanced stride one foot forward other heel raised arms normally bent hands relaxed no complicated props, torso hips aligned. Expression alert curious amusement, small spontaneous half smile gaze toward opening ahead, not forced smile. Full-body three-quarter lowish wide camera angle includes sharp shoes and architecture, flash freezes movement crisp no motion blur. Wearing worn dark olive technical windbreaker with metallic silver shoulder inserts, charcoal shirt muted slate-blue cargo trousers dark boots. Small exact clean white horizontal chest wordmark 'SLOPCORE', spelling S L O P C O R E clearly legible modest secondary unobstructed; one restrained small orange four-point elongated diamond star sleeve patch. Industrial mezzanine has plain rugged sensor cases small single-board computers weatherproof data loggers on shelving real cable conduits, tall future city architecture visible through broad loading opening, realistic handrails wide dry walkway. Cool-white task lights restrained cyan status LEDs faint magenta exterior reflection hard on-camera flash crisp natural freckles eyes skin fabric lettering deep shadows photographic texture. Research CBOR indefinite-length encoding can start sending certain data items before their final size is known, closed with a break marker; integrate subtly through sensor logging equipment metadata not giant streaming ribbons diagrams explanatory text slogans REC overlays extra stars. Imagined setting no actual recorded stream claim. No costume armor masks weapons cute props staged groups global blur heavy grain haze bloom. Plausible limb connections joints torso hip proportions realistic hands feet running balance. Reference face/hair only vary expression scene pose outfit framing.",
+    "sources": [
+      {
+        "title": "RFC 8949, section 3.2 — Indefinite Lengths",
+        "url": "https://www.rfc-editor.org/rfc/rfc8949.html#section-3.2"
+      }
+    ],
+    "publishedAt": "2026-10-13T17:31:37.891640Z"
   }
 ]
