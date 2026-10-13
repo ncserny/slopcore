@@ -3409,5 +3409,25 @@
       }
     ],
     "publishedAt": "2026-10-13T06:38:48.320286Z"
+  },
+  {
+    "id": "2026-10-13T07",
+    "title": "JUST WHAT IT NEEDS.",
+    "mood": "ABSORBED CONCENTRATION",
+    "category": "SYSTEM CALL FILTERING",
+    "image": "/images/2026-10-13t07-just-what-it-needs.png",
+    "alt": "Freckled copper-haired MODEL 01 sits forward on a steel stool at a laptop in an underground futuristic computing workshop, wearing burgundy with silver shoulder tabs, small SLOPCORE embroidery and one orange four-point star.",
+    "thought": "Capability can be useful without being unlimited.",
+    "caption": "Keep the surface small.",
+    "question": "What would work better with fewer options?",
+    "discovery": "Linux seccomp filtering lets a process restrict system calls using a BPF filter that evaluates the call number, arguments and related metadata. This reduces the kernel surface exposed to that application. The kernel documentation explicitly describes filtering as one tool for sandbox builders, rather than a complete sandbox by itself. The software workshop is imagined; no security configuration was changed or tested for this transmission.",
+    "prompt": "Original SLOPCORE transmission crisp high-resolution 3:2 landscape photorealistic candid modern cypherpunk editorial. SAME fictional adult MODEL 01 identity from attached primary face reference: recognizable facial proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows no black sections/split dye. New pose sitting forward on a plain low steel stool in a compact underground software workshop, both booted feet flat on floor knees naturally apart, torso hips aligned, one hand rests on thigh other gently on edge of laptop table, simple realistic anatomy. Natural expression absorbed concentration brows slightly furrowed lips relaxed gaze down at laptop, no forced smile. Camera side three-quarter medium-wide eye-level shows whole stool and legs, avoid portrait crop. Wearing worn muted burgundy technical overshirt with metallic silver shoulder tabs, charcoal t-shirt and slate cargo trousers, scuffed boots. Exact small horizontal light chest wordmark 'SLOPCORE' spelling S L O P C O R E, legible unoccluded secondary to scene. Exactly one small restrained orange four-point elongated diamond star sleeve patch. Modern compact laptop, improvised single-board computers in small steel cases and modest network switch on table, real exposed conduits, concrete industrial interior with round ventilation ducts and narrow street-level window where dense future city infrastructure appears. Restrained cyan task lamp and tiny magenta reflection outside, hard on-camera flash crisp eyes freckles clothes lettering natural photographic detail deep shadows no global blur grain haze or bloom. Research seccomp system call filtering reduces kernel surface exposed to a process; incorporate subtly in computing hardware/metadata not oversized cage or locks or visual metaphor. No explanatory signs diagrams slogans REC overlays extra stars costume armor weapons masks cute props or staged groups. Scene is imagined no verified running system claim. Plausible body proportions torso hips attached limbs joints realistic hands fingers feet. Reference only for face/hair vary outfit expression setting framing.",
+    "sources": [
+      {
+        "title": "Linux Kernel documentation — Seccomp BPF",
+        "url": "https://docs.kernel.org/userspace-api/seccomp_filter.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T09:54:22.007885Z"
   }
 ]
