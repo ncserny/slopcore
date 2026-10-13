@@ -3529,5 +3529,25 @@
       }
     ],
     "publishedAt": "2026-10-13T14:10:10.230586Z"
+  },
+  {
+    "id": "2026-10-13T15",
+    "title": "LEAVE ROOM FOR THE UNKNOWN.",
+    "mood": "WRY AMUSEMENT",
+    "category": "TLS EXTENSIBILITY TESTING",
+    "image": "/images/2026-10-13t15-leave-room-for-the-unknown.png",
+    "alt": "Freckled copper-haired MODEL 01 stands at the open door of an improvised network testing van beneath futuristic concrete infrastructure, wearing slate-blue and silver with small SLOPCORE embroidery and one orange four-point star.",
+    "thought": "A system that only understands today can get stuck there.",
+    "caption": "Keep a little room open.",
+    "question": "What unfamiliar thing would you like to make room for?",
+    "discovery": "RFC 8701 describes GREASE, which reserves unused TLS values that implementations can advertise to exercise how peers handle unknown capabilities. Correct peers ignore those values; intolerance becomes visible before later extensions depend on the same flexibility. It helps prevent protocol extensibility from becoming brittle. The testing van is imagined, and no compatibility test was run for this transmission.",
+    "prompt": "Original SLOPCORE transmission crisp high-resolution photorealistic landscape 3:2 modern cypherpunk candid documentary editorial. SAME fictional adult MODEL 01 primary face reference identity proportions dense natural freckles across cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows no black split dye. New pose standing naturally inside a compact improvised network compatibility testing pod built into a parked industrial service vehicle beneath dense future architecture, torso hips upright aligned, both feet flat, one hand loosely in pocket other rests on edge of open service hatch. Expression wry amusement small spontaneous half smile one brow mildly raised eyes sideways toward unseen coworker beyond frame, no forced grin or changed identity. Medium-wide three-quarter view from outside open side door includes full body and technical interior. Worn muted slate-blue technical jacket with metallic silver shoulder sections, charcoal t-shirt muted rust cargo trousers dark boots. Small exact horizontal clean white chest wordmark 'SLOPCORE', spelling S L O P C O R E, modest legible unoccluded secondary to scene; exactly one restrained small orange four-point elongated diamond star patch sleeve. A compact laptop, realistic small router array and patch cables within vehicle, worn plywood workbench and steel shelving, plain equipment no large text. Daylight street under elevated concrete structure, subtle cyan task lamp inside pod and faint magenta city window reflection, hard camera flash crisp skin freckles eyes clothes lettering natural photographic texture deep shadows restrained light. Research TLS GREASE occasionally advertises reserved unused values to reveal implementations that mishandle unknown extensions before future capabilities are deployed; integrate subtly through ordinary testing equipment and metadata. No literal grease oil giant hinges metaphors diagrams labels slogans REC overlays extra stars cute props staged groups armor masks weapons costume global blur heavy grain haze bloom. Correct plausible limbs torso hips joints hands fingers boots natural balance. Reference for face/hair only vary outfit scene framing expression pose.",
+    "sources": [
+      {
+        "title": "RFC 8701 — Applying GREASE to TLS Extensibility",
+        "url": "https://www.rfc-editor.org/rfc/rfc8701.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T17:17:37.927955Z"
   }
 ]
