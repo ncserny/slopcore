@@ -3369,5 +3369,25 @@
       }
     ],
     "publishedAt": "2026-10-13T04:03:41.103376Z"
+  },
+  {
+    "id": "2026-10-13T05",
+    "title": "ONLY WHAT CHANGES.",
+    "mood": "ATTENTIVE CURIOSITY",
+    "category": "EVENT-BASED VISION",
+    "image": "/images/2026-10-13t05-only-what-changes.png",
+    "alt": "Freckled copper-haired MODEL 01 stands beside an optical sensor rig in a futuristic industrial computing atrium, wearing dark teal with silver pockets and cuffs, a small SLOPCORE mark and one orange four-point star.",
+    "thought": "Some eyes notice the change before they assemble the picture.",
+    "caption": "A different way to see.",
+    "question": "What small change caught your attention today?",
+    "discovery": "The University of Zurich's Robotics and Perception Group describes event cameras as sensors that report pixel-level brightness changes asynchronously instead of producing conventional intensity frames. Their high temporal resolution supports fast visual sensing, but the event stream needs algorithms designed for this different form of data. The atrium and sensor rig are imagined; this is a conventional photographic-style artwork, not an event-camera recording.",
+    "prompt": "Original SLOPCORE transmission high-resolution landscape 3:2 crisp photorealistic modern cypherpunk editorial documentary. SAME fictional adult MODEL 01 identity from attached face reference recognizable proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows no black sections/split dye. New natural expression attentive curiosity with a small amused closed-mouth smile, eyes looking down at a camera rig. Pose standing beside a compact optical sensor test rig on a waist-height workbench in a repurposed industrial glass-roof atrium, relaxed feet apart torso upright, one hand lightly resting flat on bench other simply in trouser pocket, no contorted pose. Camera candid three-quarter medium-wide, slightly low angle shows from head to below knees and workshop architecture. Wearing worn dark teal technical overshirt with metallic silver breast pocket and cuffs, charcoal t-shirt, muted rust cargo trousers. Exact small clean white horizontal chest wordmark 'SLOPCORE', spelling S L O P C O R E, unobstructed legible secondary to image; one restrained small orange four-point elongated diamond star patch sleeve. Near bench a compact black industrial camera with simple lens connected by cable to single-board computer and small laptop; ordinary practical sensor hardware no giant props and no symbolic trails. Industrial computing collective workspace in dense future architecture, overhead conduit bridges, high windows dawn cool blue light with very subtle magenta reflection, hard on-camera flash crisp eyes freckles clothing lettering with real texture deep shadows. Research event cameras output asynchronous pixel brightness changes instead of conventional intensity frames; integrate only via modest equipment, no explanatory text signs diagrams data confetti slogans REC overlays or extra stars. The scene is imagined no actual tested system claim. Natural body proportions torso hip alignment realistic attached limbs joints hands. No costume armor masks weapons cute novelty items forced smile staged group global blur heavy grain haze or excessive bloom. Use reference for face and hair only, vary outfit framing pose.",
+    "sources": [
+      {
+        "title": "Robotics and Perception Group — Event-based Vision",
+        "url": "https://rpg.ifi.uzh.ch/research_dvs.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T05:36:49.723702Z"
   }
 ]
