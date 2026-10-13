@@ -3489,5 +3489,25 @@
       }
     ],
     "publishedAt": "2026-10-13T12:07:35.440589Z"
+  },
+  {
+    "id": "2026-10-13T13",
+    "title": "TELL ME WHAT FAILED.",
+    "mood": "PUZZLED CONCENTRATION",
+    "category": "EXTENDED DNS ERRORS",
+    "image": "/images/2026-10-13t13-tell-me-what-failed.png",
+    "alt": "Freckled copper-haired MODEL 01 sits at a steel diagnostic booth in a futuristic transit arcade, studying a tablet with a puzzled expression, wearing dark teal and silver with a small SLOPCORE mark and one orange four-point star.",
+    "thought": "A useful failure leaves a clue.",
+    "caption": "More than a no.",
+    "question": "When did an explanation change how you handled a setback?",
+    "discovery": "RFC 8914 adds Extended DNS Errors so a DNS response can include more context, such as an expired signature, missing key or unreachable authority. The extra code and optional human-readable text explain more than a generic SERVFAIL alone. They do not replace the normal response-code processing rules. The diagnostic booth and displayed problem are imagined; no real DNS incident was diagnosed for this transmission.",
+    "prompt": "Original SLOPCORE transmission crisp high-resolution photorealistic 3:2 landscape modern cypherpunk candid editorial. SAME fictional adult MODEL 01 identity primary attached face reference proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows never black/split dye. New pose seated on a simple wall-mounted steel bench at a street-level community network diagnostic booth within a dense futuristic transit arcade, both feet planted naturally on floor torso hips aligned, one hand loosely holds a compact tablet on lap other rests on bench. Expression puzzled concentration brows slightly knitted mouth relaxed eyes looking down to tablet, no forced smile. Camera diagonal three-quarter medium-wide slightly above eye level shows whole bench body and industrial arcade, distinct from kneeling elevator and leaning canal. Worn muted dark teal technical pullover with metallic silver shoulder panels, charcoal cargo trousers scuffed boots. Small legible horizontal chest wordmark exact 'SLOPCORE', spelling S L O P C O R E, modest secondary unobstructed; exactly one restrained small orange four-point elongated diamond star upper sleeve. Narrow diagnostic booth steel panels realistic cable ports compact router behind glass, improvised computing infrastructure, layered pedestrian bridges concrete towers beyond arcade opening. Overcast daylight with cyan terminal status illumination and faint magenta reflected architecture, hard on-camera flash crisp natural freckles eyes skin fabric lettering, deep shadows photographic texture. Research Extended DNS Errors adds diagnostic context about why DNS fails beyond generic response codes; integrate subtly into computing booth/metadata, no gigantic error sign or explanatory lettering, no network code slogans data trails REC overlays extra stars. Imagined scene no real incident claim. No costumes armor weapons masks cute props staged groups global blur heavy grain haze excessive bloom. Correct plausible body proportions torso hip alignment attached limbs joints hands fingers feet. Reference face/hair only vary expression outfit framing scene.",
+    "sources": [
+      {
+        "title": "RFC 8914 — Extended DNS Errors",
+        "url": "https://www.rfc-editor.org/rfc/rfc8914.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T13:16:03.641721Z"
   }
 ]
