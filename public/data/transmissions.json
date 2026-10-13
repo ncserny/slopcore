@@ -3609,5 +3609,25 @@
       }
     ],
     "publishedAt": "2026-10-13T20:13:51.124113Z"
+  },
+  {
+    "id": "2026-10-13T20",
+    "title": "THE WALL IS THE BUTTON.",
+    "mood": "CAUGHT IN THE ACT",
+    "category": "ACOUSTIC SCRATCH INTERFACES",
+    "image": "/images/2026-10-13t20-the-wall-is-the-button.png",
+    "alt": "Copper-haired freckled MODEL 01 looks indignantly toward the camera while scratching a mustard-yellow stairwell wall beside a taped acoustic sensor, in a patched blue and silver jacket with small SLOPCORE lettering.",
+    "thought": "The interface was here before anybody installed a screen.",
+    "caption": "Yes, I am talking to the wall.",
+    "question": "Which surface would you turn into a control?",
+    "discovery": "Chris Harrison and Scott Hudson's 2008 Scratch Input research used the characteristic sound of a fingernail scraping a textured surface to recognize gestures. A small coupled sensor let suitable walls, tables and other existing surfaces act as input areas. Their study reported about 90% accuracy for six gestures after less than five minutes of training. The stairwell installation is imagined; no live gesture recognition was tested here.",
+    "prompt": "Use case photorealistic-natural. Original SLOPCORE transmission landscape 1536x1024. Primary face reference attached model-face-ginger.png: SAME fictional adult MODEL 01, recognizable proportions dense natural cheek/nose freckles almond eyes subtle eyeliner full lips fully natural copper-ginger bob darker copper shadows, no black split dye.\nWeirder awkward punk candid flash, break beautiful-model-at-console formula. Scene an improvised acoustic wall interface in a cramped future-city service stairwell. MODEL 01 STANDS in profile inches from a grubby mustard-yellow painted wall, one hand's index fingernail scratching the wall gently at shoulder height, other hand hangs relaxed. She turns her head toward intrusive camera with an indignant startled expression, mouth slightly open mid-sentence eyebrows raised, not a posed smile. Feet naturally offset both boots grounded, hips torso shoulder aligned. Her copper bob flyaway and messy, adult identity preserved.\nWide three-quarter full-body vertical subject in landscape, close sideways composition wall dominates half frame, off-center and a little crooked. Patched short cobalt blue work jacket with crumpled metallic silver repairs across shoulders and one cuff, charcoal shirt, off-white baggy trousers with worn black knees, ugly scuffed black boots. Small exact clearly legible white \"SLOPCORE\" chest embroidery (S L O P C O R E), secondary to scene. Exactly one small restrained orange four-point star patch on upper sleeve.\nWall has a tiny taped-on contact acoustic sensor with one cable running to an ordinary rugged palm-sized processor clipped at hip, believable homemade interface, no futuristic glowing hologram. Existing scuffs and old adhesive residue, tiny unreadable ripped flyers, chipped steps, cold bare tube light, narrow vent showing densely layered future building infrastructure, practical gritty cypherpunk privacy culture. Research Scratch Input 2008 recognized fingernail scraping sounds on textured surfaces for gestures. This is an imagined wall-input installation, not an actual experiment. Humorous awkward scene: technology apparently wants her to scratch the wall, she looks caught doing something absurd. No animal or giant icons or text explaining metaphor.\nHard ugly on-camera flash, crisp face eyes hair clothing text and joints, mustard yellow/cobalt/offwhite/silver contrast with modest cyan tube light, real shadows, no haze bloom blur heavy grain, subtle analog print feeling. Raw DIY zine documentary picture, no fashion catalog stance, generic neon skyline, costumes armor guns staged groups or sexualization. Anatomically plausible five fingers clear scratch hand simple extended index with other fingers relaxed, no contorted wrists no extra limbs. Face reference only not outfit/framing.",
+    "sources": [
+      {
+        "title": "Chris Harrison and Scott Hudson — Scratch Input (UIST 2008)",
+        "url": "https://www.chrisharrison.net/index.php/Research/ScratchInput"
+      }
+    ],
+    "publishedAt": "2026-10-13T20:22:34.823105Z"
   }
 ]
