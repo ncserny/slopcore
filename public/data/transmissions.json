@@ -3389,5 +3389,25 @@
       }
     ],
     "publishedAt": "2026-10-13T05:36:49.723702Z"
+  },
+  {
+    "id": "2026-10-13T06",
+    "title": "KEEP FINDING A WAY.",
+    "mood": "WRY AMUSEMENT",
+    "category": "BABEL MESH ROUTING",
+    "image": "/images/2026-10-13t06-keep-finding-a-way.png",
+    "alt": "Freckled copper-haired MODEL 01 walks across a rooftop among radio antennas and cable boxes beneath dense futuristic architecture, wearing navy with silver sleeves, a small SLOPCORE mark and one orange four-point star.",
+    "thought": "A changing neighborhood needs directions that can change with it.",
+    "caption": "The route can move too.",
+    "question": "When did a detour turn into a better route?",
+    "discovery": "RFC 8966 describes Babel, a distance-vector routing protocol designed for both wired networks and dynamic wireless meshes. It uses sequenced routes and feasibility checks to limit routing loops while adapting to topology changes. Link metrics can reflect measured packet loss rather than simply counting hops. The rooftop network is imagined; its pictured hardware does not prove it runs Babel or guarantees connectivity.",
+    "prompt": "Original SLOPCORE transmission crisp high-resolution landscape 3:2 photorealistic modern cypherpunk candid editorial photograph. Attached reference establishes SAME fictional adult MODEL 01 facial proportions, dense natural freckles cheeks/nose, almond eyes subtle eyeliner full lips and naturally fully copper-ginger tousled bob realistic darker copper shadows, never black sections split dye. Pose walking slowly across a broad rooftop service terrace between improvised community mesh antennas and cable boxes, natural mid-step relaxed hips torso alignment arms at sides, one hand carries a closed rugged tablet, no seated or standing portrait. Expression spontaneous wry amusement, subtle half smile eyes looking sideways at something beyond frame, same identity not different face. Full-body three-quarter wide angle from slightly below chest height, lots of architectural context. Worn muted navy technical jacket with metallic silver sleeve panels, dark olive loose cargo trousers black practical boots; small unoccluded horizontal chest print exact 'SLOPCORE' spelling S L O P C O R E modest legible secondary to scene; one restrained small orange four-point elongated diamond star sleeve patch. Dry concrete terrace at blue dawn with lightly damp patches, dense futuristic housing blocks with stacked balconies and cable bridges, believable small radio antennas on steel mounts, no huge dishes sci-fi weapons costume armor. Restrained cyan equipment indicators and tiny distant magenta windows, hard on-camera flash crisp eyes freckles face clothing lettering natural photographic detail and deep shadows, no global blur heavy grain haze bloom. Research Babel routing adapts across wired and wireless networks using sequenced routes and loop-avoidance, integrate subtly via believable mesh infrastructure. No routing diagrams glowing trails labels slogans other text REC overlays extra stars. Scene imagined not verified installed network. Natural plausible limb connections torso hips joints fingers feet and walking balance. Reference face/hair only vary clothing setting framing expression.",
+    "sources": [
+      {
+        "title": "RFC 8966 — The Babel Routing Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc8966.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T06:38:48.320286Z"
   }
 ]
