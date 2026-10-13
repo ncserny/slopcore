@@ -3469,5 +3469,25 @@
       }
     ],
     "publishedAt": "2026-10-13T11:07:17.558605Z"
+  },
+  {
+    "id": "2026-10-13T12",
+    "title": "MORE THAN ONE SECRET.",
+    "mood": "INTRIGUED SURPRISE",
+    "category": "MULTIPLE KEY EXCHANGES",
+    "image": "/images/2026-10-13t12-more-than-one-secret.png",
+    "alt": "Freckled copper-haired MODEL 01 kneels beside a rugged mobile network case in a steel freight elevator overlooking a futuristic computing complex, wearing olive with silver sleeves, small SLOPCORE lettering and one orange four-point star.",
+    "thought": "A shared secret can have more than one beginning.",
+    "caption": "Build the key together.",
+    "question": "What would you trust more if it had several independent foundations?",
+    "discovery": "RFC 9370 extends IKEv2 so peers can negotiate several successive key exchanges when establishing or renewing security associations. The final keys depend on the component exchange secrets, enabling combinations of different methods, including classical and post-quantum approaches. Both peers must support and agree to the additional exchanges. The elevator and network case are imagined, without a claim that the pictured system implements this protocol or guarantees future security.",
+    "prompt": "Original SLOPCORE transmission crisp high-resolution photorealistic 3:2 landscape modern cypherpunk candid editorial. SAME fictional adult MODEL 01 identity from attached primary face reference recognizable facial proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob with darker copper shadows never black sections/split dye. New pose kneeling on both knees on a rubber mat beside a compact mobile encrypted-network case inside a repurposed freight elevator, torso upright aligned naturally with hips knees and ankles, hands rest loosely on thighs, no twists. Expression intrigued surprise eyebrows mildly raised eyes looking toward open elevator doorway mouth slightly parted natural no forced smile. Three-quarter medium-wide diagonal camera at seated eye height includes whole body and elevator interior. Worn muted olive technical sweatshirt metallic silver upper sleeve panels, dark indigo cargo trousers scuffed black boots. Exact small clean horizontal white chest wordmark 'SLOPCORE' spelling S L O P C O R E legible modest secondary and unobstructed; one restrained small orange four-point elongated diamond star upper sleeve patch. Freight elevator steel mesh panels and worn metal floor, open doorway into dense futuristic vertical computing complex with stacked walkways and realistic cable risers; compact laptop and two small network units within rugged open case, real practical hardware no gigantic props. Cool industrial white light restrained cyan equipment indicators faint magenta corridor reflection hard camera flash sharp freckles eyes clothing and lettering natural photographic texture deep shadows. Research IKEv2 multiple key exchanges combines several component shared secrets into final keys; integrate subtly through network equipment and metadata, no literal giant keys padlocks diagrams slogans other large text REC overlays extra stars costumes armor masks weapons cute props staged groups global blur grain haze bloom. Imagined scene no verified cryptographic system claim. Anatomically plausible body proportions torso hip alignment attached limbs realistic joints hands fingers boots. Reference only face/hair vary expression scene framing and outfit.",
+    "sources": [
+      {
+        "title": "RFC 9370 — Multiple Key Exchanges in IKEv2",
+        "url": "https://www.rfc-editor.org/rfc/rfc9370.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T12:07:35.440589Z"
   }
 ]
