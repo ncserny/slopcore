@@ -3309,5 +3309,25 @@
       }
     ],
     "publishedAt": "2026-10-12T22:59:30.070236Z"
+  },
+  {
+    "id": "2026-10-13T00",
+    "title": "LESS TO CARRY.",
+    "mood": "INTRIGUED SURPRISE",
+    "category": "TLS CERTIFICATE COMPRESSION",
+    "image": "/images/2026-10-13t00-less-to-carry.png",
+    "alt": "Freckled copper-haired MODEL 01 kneels on a maintenance mat beside a compact network rack in a futuristic rail depot, wearing plum with silver elbows, a small SLOPCORE wordmark and one orange four-point star.",
+    "thought": "A smaller introduction can still say the same thing.",
+    "caption": "The same proof, fewer bytes.",
+    "question": "What could you simplify without losing its meaning?",
+    "discovery": "Certificate chains can account for much of a TLS handshake's transmitted data. RFC 8879 allows peers using TLS 1.3 or newer to negotiate compression of Certificate messages. The receiver reconstructs the original message and processes its certificates normally; compression reduces transmitted bytes, not verification requirements. The mobile network pod is imagined, with no claim that its hardware implements this extension.",
+    "prompt": "Original SLOPCORE transmission, crisp high-resolution landscape 3:2 photorealistic modern cypherpunk candid editorial photograph. Preserve SAME fictional adult MODEL 01 identity from attached face reference: facial proportions dense natural freckles across cheeks/nose almond eyes subtle eyeliner full lips and naturally fully copper-ginger tousled bob darker copper shadows, no black sections or split dye. Expression: intrigued surprise, eyes slightly widened looking at a small rugged terminal beside her, lips slightly parted, natural unforced. Pose: kneeling on both knees on a simple rubber maintenance mat in a broad industrial rail depot, thighs and hips aligned naturally above heels, torso upright with modest forward inclination, both hands rest simply on upper thighs, natural anatomy no twisting. Three-quarter side medium-wide camera angle at her eye level includes entire body and boots behind her. Setting: imagined mobile encrypted network equipment pod loaded inside an open cargo carriage, compact rack units and terminal on a low steel shelf, overhead cranes and dense future city architecture glimpsed through huge depot door. Mix cool-white industrial light with modest cyan terminal illumination and distant magenta light, hard on-camera flash renders freckles skin eyes clothes sharply; deep shadows believable worn materials no neon overload. Outfit contemporary muted plum technical pullover with metallic silver elbow panels, charcoal cargo trousers, scuffed black boots. Modest small flat chest wordmark EXACT 'SLOPCORE' spelling S L O P C O R E in clean light embroidered lettering, legible secondary to scene unobstructed; one restrained small orange four-point elongated diamond star patch on sleeve. Research TLS certificate compression: reducing certificate message bytes while reconstructing the same certificate for verification. Integrate research subtly via compact network hardware not enormous metaphor, no charts or slogans, no claims of actual system deployment. No REC overlays other stars costume armor masks weapons global blur heavy grain haze bloom. Very crisp natural photographic texture, anatomically plausible hands joints limb connections torso/hip proportions and feet. Reference establishes face/hair only; vary pose expression outfit and framing.",
+    "sources": [
+      {
+        "title": "RFC 8879 — TLS Certificate Compression",
+        "url": "https://www.rfc-editor.org/rfc/rfc8879.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T00:53:03.357077Z"
   }
 ]
