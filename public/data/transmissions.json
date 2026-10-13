@@ -3589,5 +3589,25 @@
       }
     ],
     "publishedAt": "2026-10-13T20:05:13.194718Z"
+  },
+  {
+    "id": "2026-10-13T2013-machine-attitude",
+    "title": "THIS MACHINE HAS A BAD ATTITUDE.",
+    "mood": "MECHANICAL DISCOMFORT",
+    "category": "SALVAGED HARDWARE MUSIC",
+    "image": "/images/2026-10-13t2013-machine-attitude.png",
+    "alt": "Freckled copper-haired MODEL 01 lies beneath a homemade orchestra of salvaged drives, cupping her ear and grimacing at the camera on a scuffed tile floor, in a crumpled silver jacket and SLOPCORE shirt.",
+    "thought": "The hardware was retired. Nobody told it to shut up.",
+    "caption": "Bad timing. Excellent noise.",
+    "question": "Which obsolete machine deserves a second career making a racket?",
+    "discovery": "Paweł Zadrożniak's Floppotron 3.0 uses 512 floppy drives, four scanners and 16 hard disks as a mechanical orchestra. Controlled head and motor movements make sound; varying the number of active floppy drives changes volume. This image imagines a smaller homemade noise venue, not his actual installation. No music was recorded or hardware operated for this transmission.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE art transmission, 1536x1024 landscape.\nReference image: model-face-ginger.png for the SAME fictional adult MODEL 01's recognizable face and naturally fully copper-ginger tousled bob only. Dense natural freckles cheeks and nose, almond eyes with subtle eyeliner, full lips. Preserve identity but make her expression dramatically different.\nPrimary request: weirder, fresher, more surprising, awkward and punk. A raw candid flash photograph in an illegal-looking but harmless DIY machine-music venue in a future city. Concrete odd action, not another attractive hacker portrait.\nScene: MODEL 01 lies flat on her back diagonally across a scuffed red-and-cream tile floor underneath a homemade waist-high orchestra assembled from salvaged beige floppy drives and disassembled flatbed scanners on a steel catering trolley. Her head and shoulders emerge in the foreground, body naturally extends under trolley with both booted legs visibly protruding at far end; straightforward aligned anatomy no twist. One hand cups an ear, other arm rests loosely palm up on floor. The contraption is making an unbearable little mechanical concert. She looks straight toward the intrusive camera with a spontaneous scrunched nose, one eye squinting, lips pulled into an incredulous crooked grimace, caught at a truly awkward instant rather than model posing. Copper bob flattened messily against floor, same adult face.\nFashion: crumpled metallic silver windbreaker worn open over a faded aubergine t-shirt, patched black jeans with a visible mismatched yellow repair patch, worn heavy black boots; contemporary self-made punk fashion without costume studs everywhere. The exact small legible white text \"SLOPCORE\" (S L O P C O R E) printed plainly on her t-shirt chest, secondary to the scene, unobstructed. One small orange four-point star sewn on jacket chest. No extra stars.\nComposition: brutally low floor-level wide-angle camera near head, slight 8-degree Dutch tilt, whole bizarre trolley and leg ends read clearly, asymmetric edges and a half-cropped empty folding chair, ugly ordinary fluorescent ceiling. Background patched acoustic foam, ripped abstract flyers with no slogans, cable reels, one wall vent shows futuristic infrastructure. Restrained cold cyan side spill only; mostly hard direct flash, sharp deep shadows, ugly practical red tile, beige equipment, silver creases. Crisp face eyes skin fabric text and sharp main machinery; no motion blur haze bloom global grain. Natural photographer intrusion and absurd seriousness, underground music zine energy.\nResearch inspiration: real Floppotron makes tones by controlling mechanical movement of floppy-drive heads and scanner motors; this is a fictional smaller salvaged machine orchestra, not a depiction of its inventor's actual installation. Believable small drives, scan rails, ribbon cables and simple controllers. No electrical sparks or dangerous contact; machine elevated, her hand is not inside machinery.\nAvoid glamorous workstation pose, tidy neon city postcard, giant metaphors or text, screens as focal point, smiling staged groups, sexualized pose, impossible joints or extra limbs, plastic AI skin. Make the awkwardness funny and slightly abrasive, not cute.",
+    "sources": [
+      {
+        "title": "Paweł Zadrożniak — The Floppotron 3.0",
+        "url": "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"
+      }
+    ],
+    "publishedAt": "2026-10-13T20:13:51.124113Z"
   }
 ]
