@@ -3569,5 +3569,25 @@
       }
     ],
     "publishedAt": "2026-10-13T17:31:37.891640Z"
+  },
+  {
+    "id": "2026-10-13T18",
+    "title": "KEEP THE REQUIREMENT.",
+    "mood": "THOUGHTFUL SKEPTICISM",
+    "category": "REQUIRED MAIL TRANSPORT ENCRYPTION",
+    "image": "/images/2026-10-13t18-keep-the-requirement.png",
+    "alt": "Copper-haired freckled MODEL 01 sits at an improvised mail-relay console, wearing a plum jacket with silver details, a small SLOPCORE mark and one orange four-point star.",
+    "thought": "A requirement matters only if the next relay carries it forward.",
+    "caption": "Keep the condition attached.",
+    "question": "What condition would you want carried all the way through?",
+    "discovery": "RFC 8689 defines the SMTP REQUIRETLS extension. A tagged message requires validated TLS and REQUIRETLS support for onward relay, rather than falling back to an unprotected connection. This protects transport between mail servers; intermediate servers can still read the message, so it is not end-to-end content encryption. The relay room and status display are imagined; no email was sent for this transmission.",
+    "prompt": "Create an original SLOPCORE transmission as a crisp natural photographic editorial image, landscape 1536x1024. Use attached model-face-ginger.png strictly as primary identity reference: same fictional adult MODEL 01 facial proportions, dense natural freckles on nose and cheeks, almond eyes subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with darker copper shadows, never black sections or split dye. New pose: seated upright on a worn rolling chair at a narrow mail-relay console, knees naturally apart, both booted feet firmly grounded; one relaxed hand rests on thigh and the other rests beside keyboard. Three-quarter medium-wide candid frame from slightly above desk height, whole seated body believable, no contortion. Expression: thoughtful skepticism, one brow gently raised, lips relaxed, looking sideways toward a small relay status display rather than camera. Scene: improvised encrypted-mail computing room inside a dense futuristic city, concrete basement window revealing wet pavement and the lower levels of stacked buildings. Patched compact rack servers, tidy believable cable paths, practical terminal and scuffed desk, pale green fluorescent task lighting with a tiny restrained magenta reflection from outdoors, deep natural shadows and hard on-camera flash. Worn plum technical jacket with metallic silver cuffs and shoulder trim, dark blue loose work trousers, worn black boots. Exact word SLOPCORE small but clearly legible in white embroidered plain lettering on left chest, secondary to scene. Exactly one small restrained orange four-point star patch on sleeve. Research inspiration is RFC8689 REQUIRETLS: encrypted transport requirements carried onward by mail relays; integrate only a tiny plausible terminal status label REQUIRETLS and sparse subdued rows, no huge conceptual symbols or slogan. Fictional setting, no actual sensitive mail, no visible addresses. Face, eyes, fabric, lettering and anatomy sharply resolved, realistic joints and five-finger hands, subtle analog broadcast character only, no global grain blur haze bloom, no armor weapons neon costume clichés posed group or oversized icons. Identity reference is not an instruction to copy framing or clothing.",
+    "sources": [
+      {
+        "title": "RFC 8689 — SMTP Require TLS Option",
+        "url": "https://www.rfc-editor.org/rfc/rfc8689.html"
+      }
+    ],
+    "publishedAt": "2026-10-13T20:05:13.194718Z"
   }
 ]
