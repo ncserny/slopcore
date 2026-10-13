@@ -3329,5 +3329,25 @@
       }
     ],
     "publishedAt": "2026-10-13T00:53:03.357077Z"
+  },
+  {
+    "id": "2026-10-13T01",
+    "title": "ROOM BETWEEN THE SIGNALS.",
+    "mood": "FOCUSED DETERMINATION",
+    "category": "QUIC PACKET PACING",
+    "image": "/images/2026-10-13t01-room-between-the-signals.png",
+    "alt": "Copper-haired freckled MODEL 01 jogs through a wet futuristic service lane outside a computing workshop, wearing olive and silver with a small SLOPCORE wordmark and one orange four-point star.",
+    "thought": "A steady rhythm can carry more than a rush.",
+    "caption": "Give the next signal room.",
+    "question": "Where would a little space help you keep moving?",
+    "discovery": "RFC 9002 recommends pacing QUIC packets using input from congestion control. Sending many packets without gaps can create bursts that cause short-term congestion and losses, so senders must pace or limit those bursts. Packets containing only acknowledgments should generally avoid pacing delay to support timely recovery. The computing workshop and running scene are imagined, without a claim about their network's behavior.",
+    "prompt": "Create original SLOPCORE transmission, crisp photorealistic landscape 3:2 modern cypherpunk candid street-style editorial. Preserve SAME fictional adult MODEL 01 identity from attached face reference: facial proportions dense natural freckles cheeks/nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows never black or split dye. New pose and expression: jogging at an easy controlled pace along a wet service lane outside an underground computing collective, natural mid-stride with one foot planted and other heel lifted, arms simply bent in ordinary running motion, torso and hips aligned, head looks toward lane ahead, focused determination with a hint of breath fatigue lips parted, no forced smile. Camera side-front three-quarter wide view at waist height, full body in scene, sharply frozen flash movement no motion blur. Worn muted olive technical jacket with metallic silver upper sleeve panels, navy straight cargo trousers and dark practical shoes. Small unoccluded chest print exact 'SLOPCORE' spelling S L O P C O R E in crisp white letters, modest secondary to image. One restrained small orange four-point elongated diamond star patch on sleeve. Dense futuristic architecture, below-street workshop entrances, exposed fiber conduits, realistic network junction boxes, wet asphalt reflections, small cyan security/task lights and faint magenta window illumination, restrained palette deep shadows hard on-camera flash natural photographic skin texture. No giant metaphors neon overload slogans staged people cute props costumes armor masks weapons REC overlays extra stars. Research inspiration QUIC packet pacing: spacing transmissions reduces packet bursts which can cause short-term congestion and losses. Integrate subtly in hardware and metadata, not symbolic packet trails or impossible equipment. Preserve correct body proportions natural torso/hip alignment attached limbs plausible joints hands feet and balanced running gait. Sharp freckles eyes hair clothing lettering, no global blur heavy grain haze excessive bloom. Reference establishes identity only, do not copy outfit framing pose.\n\nFinal image edit prompt: Edit this image preserving the composition, same adult MODEL 01 identity, copper-ginger hair freckles pose anatomy clothing silver details, single orange four-point star and exact small legible SLOPCORE chest print, lighting and sharp photographic quality. Only remove all large text 'QUIC PACKET PACING ACTIVE' from the grey junction cabinet at the left, replacing it with plain worn metal matching cabinet, retain tiny realistic status LEDs and screws. Do not add replacement wording or signs. Research stays in metadata. Preserve full resolution crispness.",
+    "sources": [
+      {
+        "title": "RFC 9002, section 7.7 — Pacing",
+        "url": "https://www.rfc-editor.org/rfc/rfc9002.html#section-7.7"
+      }
+    ],
+    "publishedAt": "2026-10-13T01:24:12.624710Z"
   }
 ]
