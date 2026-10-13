@@ -3349,5 +3349,25 @@
       }
     ],
     "publishedAt": "2026-10-13T01:24:12.624710Z"
+  },
+  {
+    "id": "2026-10-13T03",
+    "title": "IT CAN WAIT.",
+    "mood": "TIRED RELIEF",
+    "category": "WEB PUSH URGENCY",
+    "image": "/images/2026-10-13t03-it-can-wait.png",
+    "alt": "Copper-haired freckled MODEL 01 reclines on a worn couch beside improvised computing hardware and a closed laptop, wearing slate-blue with silver shoulders, small SLOPCORE lettering and one orange four-point star.",
+    "thought": "Not every signal deserves to wake something.",
+    "caption": "Save the energy for what matters.",
+    "question": "What could wait until you are ready?",
+    "discovery": "RFC 8030 defines four Web Push urgency levels: very-low, low, normal and high. A device can request a minimum urgency when monitoring messages; the push service must withhold messages below that threshold. The design helps avoid spending receiving resources on trivial messages, especially on battery-powered devices. The quiet computing room is imagined, without a claim that its equipment implements urgency filtering.",
+    "prompt": "Original SLOPCORE transmission: crisp high-resolution 3:2 landscape photorealistic modern cypherpunk documentary editorial. Same fictional adult MODEL 01 identity from attached face reference: recognizable facial proportions dense natural freckles across cheeks and nose almond eyes subtle eyeliner full lips naturally fully copper-ginger tousled bob darker copper shadows no black sections split dye. New natural expression tired relief: relaxed half-lidded eyes looking toward window, slight closed-mouth amused smile. New pose reclining comfortably lengthwise on a battered low vinyl couch in an underground computing collective's quiet side room, head supported by cushion torso and hips aligned straight, legs relaxed stretched out without crossing, feet on couch, one hand loose on abdomen other along cushion. Three-quarter elevated medium-wide frame shows entire couch body and surroundings. She wears worn muted slate-blue technical sweatshirt with metallic silver shoulder patches, charcoal loose cargo pants clean dark socks, boots on floor. Small unobstructed horizontal light chest wordmark EXACT 'SLOPCORE', spelling S L O P C O R E, modest secondary to scene clearly legible. Exactly one small restrained orange four-point elongated diamond star patch upper sleeve. Behind couch real improvised single-board computing devices, patched cable conduits, a compact router and closed laptop on low shelf, no giant CRT. High narrow window shows future megastructure infrastructure at night. Cool-white wall task lamp and restrained cyan equipment light with faint magenta outside reflection, hard on-camera flash crisp skin freckles eyes clothes and lettering, deep shadows naturally worn materials no global blur heavy grain haze bloom. Research Web Push urgency lets a device request a minimum urgency so trivial messages needn't consume receiving resources; express subtly with dormant closed equipment, no giant metaphors slogans extra text, no claims actual messages sent. No staged groups cute props armor masks weapons REC overlays extra stars. Plausible anatomy body proportions torso/hip alignment attached limbs realistic joints hands feet; keep simple comfortable reclining pose. Reference for face/hair only, vary outfit framing expression.",
+    "sources": [
+      {
+        "title": "RFC 8030, section 5.3 — Push Message Urgency",
+        "url": "https://www.rfc-editor.org/rfc/rfc8030.html#section-5.3"
+      }
+    ],
+    "publishedAt": "2026-10-13T04:03:41.103376Z"
   }
 ]
