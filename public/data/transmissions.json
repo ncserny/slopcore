@@ -3893,5 +3893,29 @@
       }
     ],
     "publishedAt": "2026-10-14T16:20:08.891052Z"
+  },
+  {
+    "id": "2026-10-14T17",
+    "title": "THE OUTPUT IS IN THE WAY.",
+    "mood": "INCONVENIENT AMUSEMENT",
+    "category": "OPEN HARDWARE KNITTING",
+    "image": "/images/2026-10-14t17-the-output-is-in-the-way.png",
+    "alt": "Copper-haired freckled MODEL 01 laughs while stepping over a long plum knitted tube spilling from a circular knitting machine in a freight elevator, wearing a patched silver-lapelled jacket with small SLOPCORE lettering and one orange four-point star.",
+    "thought": "The machine finished its part. Mine is apparently untangling the exit.",
+    "caption": "Digital fabrication has occupied the doorway.",
+    "question": "What would you make if the instructions belonged to everyone?",
+    "discovery": "Varvara Guljajeva and Mar Canet released Circular Knitic as open hardware in 2014, combining 3D-printed and laser-cut parts with Arduino control. Their repository documents an exhibition where five machines knitted tubes over eight months, gradually filling the space. This freight-elevator mishap is imagined, not a photograph of that installation or a tested build.",
+    "prompt": "Original SLOPCORE transmission landscape1536x1024, crisp natural candid flash photograph, awkward punk open-hardware textile culture in a cyberpunk industrial freight elevator.\nPrimary attached reference identity only: SAME fictional adult MODEL01 facial proportions almond eyes subtle eyeliner dense natural freckles nosecheeks full lips messy naturally fully copper-ginger bob realistic darker copper shadows. No blacksplitdye. Completely new expression and framing: she is caught in a short incredulous LAUGH, mouth open slightly teeth visible, eyes narrowed with amusement, cheeks moving naturally. Recognizably same adult woman, not forced glamorous smile.\nConcrete odd situation: a small open-hardware CIRCULAR KNITTING MACHINE on a scuffed wheeled trolley inside the stopped open freight elevator has produced an inconveniently LONG soft knitted tube. Ring of ordinary thin needles inside a round orange-red 3D printed gear frame, small visible stepper motor, laser cut clear acrylic support plates, aluminum extrusions, tiny controllerbox, a plain spool of plum yarn. Machine idle, no hands near needles. One continuous 10cm wide knitted dusty-plum tube emerges down through center of ring, pools in loose loops on lift floor, and snakes across the doorway. It looks like a huge unfinished sleeve with visible soft stitches, not ropes/wires/tentacles, no floating suspended fabric.\nMODEL01 is STANDING at doorway lifting one boot a modest 20cm to step OVER the tube while holding a gathered loose length over one forearm to clear doorway. Other hand lightly braces ordinary doorframe, plausible normal fivefinger hands. Grounded trailing boot supports weight, bent raised knee, torso and hips aligned no contortion no acrobatics. She glances down sideways at the awkward wool spill with amused disbelief. Fullbody mediumwide from opposite corner of elevator, slightly high oblique intrusive handheld framing, show face and boot and absurdly long output, no seated consoleportrait no glamourpose.\nFashion worn dark charcoal cropped canvas jacket with asymmetric crumpled metallic SILVER lapels and one silver elbow repair over faded mustard Tshirt, loose washed deep blue cargo trousers, heavy black workboots. Exact modest white \"SLOPCORE\" wordmark spelled S L O P C O R E clean legible on upper jacket chest, unobstructed secondary to scene. Exactly ONE small orange FOUR-POINT diamond sparkle on sleeve, four sharp topbottomleftright points concave sides nofivepoint nootherstars. Natural copperhair flyaways.\nSetting ugly brushed steel freightlift scratched yellow sill, exposed overhead pipes, opened door into multilevel underground fabrication co-op; layered futuristic servicewalkways visible deep beyond, subdued cyan in corridor mixed with harsh white flash and flat industrial overhead light, no neon postcard. A cardboard tray of spare plain machine components under trolley, worn lift rubberbumper, no readable text except small SLOPCORE. Crisp face eyes stitches fabric hands equipment, restrained analog zine texture, no blur grain fog glow.\nResearch inspiration Circular Knitic, Varvara Guljajeva and Mar Canet's2014 open-hardware knitting machine built using3Dprinted laser-cut parts and Arduino; fictional new freightlift situation not actual installation or testedworkingmachine, no affiliation. No weapons armor cute props giantmetaphors holograms stagedgroups slogans. Exactlytwoarmslegs anatomically correct body connections joints balance. Fulloriginalraster.",
+    "sources": [
+      {
+        "title": "Varvara & Mar — Circular Knitic source and documentation",
+        "url": "https://github.com/var-mar/circular_knitic"
+      },
+      {
+        "title": "Arduino — Circular Knitic and the power of doers in open source",
+        "url": "https://blog.arduino.cc/2015/02/03/circular-knitic-and-the-power-of-doers-in-open-source/"
+      }
+    ],
+    "publishedAt": "2026-10-14T18:12:31.905513Z"
   }
 ]
