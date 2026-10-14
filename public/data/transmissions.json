@@ -3749,5 +3749,25 @@
       }
     ],
     "publishedAt": "2026-10-14T08:09:58.212192Z"
+  },
+  {
+    "id": "2026-10-14T09",
+    "title": "YOUR SNACKS HEARD THAT.",
+    "mood": "SUPPRESSED LAUGHTER",
+    "category": "VISUAL RECOVERY OF SOUND",
+    "image": "/images/2026-10-14t09-your-snacks-heard-that.png",
+    "alt": "Copper-haired freckled MODEL 01 stands on a scrappy performance stage addressing a silver snack bag clipped to a microphone stand while an industrial camera watches, wearing mustard and silver with small SLOPCORE lettering.",
+    "thought": "Apparently the snacks are part of the recording setup.",
+    "caption": "Sound check. Bag check.",
+    "question": "Which ordinary object would be the most embarrassing witness?",
+    "discovery": "The 2014 Visual Microphone research by MIT, Microsoft and Adobe recovered sound by analyzing tiny object vibrations in video, including a potato-chip bag. High-speed footage enabled partial sound recovery under experimental conditions; this does not mean any ordinary video reveals conversations. The snack-bag performance is imagined, and no audio was recorded or reconstructed here.",
+    "prompt": "Original SLOPCORE transmission crisp natural photographic raw awkward punk editorial1536x1024 landscape. Reference attached primary SAME fictional adult MODEL01 face recognizable proportions dense natural freckles cheeks/nose almond eyeliner eyes full lips fully copper-ginger tousled bob darker copper shadows no split dye.\nScene tiny underground DIY performance stage in dense futuristic industrial district. Instead of a microphone there is an ordinary unbranded crinkled SILVER POTATO CHIP BAG clipped upright to the top of a plain black microphone stand at mouth height. No microphone capsule. A small industrial highspeed camera on tripod at side visibly points at the BAG, simple cable to enclosed recorder. This is an imagined absurd punk performance inspired by research recovering sound from highspeed video of object vibrations; NOT an actual recording or guarantee ordinary video can hear. Keep prop mundane no cartoon face or novelty packaging no giant metaphor or slogans.\nMODEL01 standing with feet naturally apart and knees soft, leans her head slightly toward chip bag as if halfway through giving it a very serious announcement, eyes cutting sideways toward intrusive photographer, one brow raised with an involuntary suppressed grin, lips slightly parted midword. One hand lightly holds stand shaft at waist height, other hand relaxed open by thigh, plausible five fingers no weird gestures. Full-body threequarter lowish wide shot crowd absent, direct hard flash and too-close amateur music-zine angle slight crooked frame.\nFashion battered mustard yellow work jacket with metallic silver tape repairs on shoulder seams and cuffs, black faded shirt small exact clean white SLOPCORE wordmark spelling S L O P C O R E modest secondary and clearly legible chest, baggy charcoal trousers with dark green patch, scuffed black boots. Exactly one small orange FOUR-POINT star patch on jacket near hem. Same adult identity copper hair uneven and lived-in, sharp face eyes freckles skin and fabric lettering.\nEnvironment cramped low ceiling raw steel platform, dirty pale pink wall plaster torn abstract gig flyers unreadable, thick red cable loops simple mixer off to side, patchworked sound panels. Back doorway narrow view of future elevated pipes and stacked infrastructure under gray daylight. White fluorescent ugly overhead light plus flash deep shadows little cold cyan spill no generic neon skyline. Performance feels inconvenient funny slightly abrasive, not polished glamor or cute stagedsmiles. No holo soundwaves visible vibrations sparks huge branding extra stars weapon armor crowd haze glow bloom globalblur heavygrain. Anatomically aligned torso hips shoulders knees feet natural standing balance. Preserve original highresolution raster.\n\nFinal edit prompt:\nChange ONLY the small orange star patch near the bottom of the mustard jacket: replace its current five-point star with a clean orange FOUR-POINT sparkle, exactly four sharp points at top bottom left right, elongated diamond points and concave sides, modest same size. Preserve everything else exactly including SAME adult MODEL01 copper bob freckled face pose hands body clothes and exact legible SLOPCORE wordmark, silver chip bag on stand, camera, environment framing light and sharp full resolution. No additional stars or text.",
+    "sources": [
+      {
+        "title": "The Visual Microphone: Passive Recovery of Sound from Video (SIGGRAPH 2014)",
+        "url": "https://dspace.mit.edu/entities/publication/d3017b3a-54a3-498c-a670-1a51e505bcfc"
+      }
+    ],
+    "publishedAt": "2026-10-14T09:07:20.857809Z"
   }
 ]
