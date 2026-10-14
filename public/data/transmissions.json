@@ -3669,5 +3669,25 @@
       }
     ],
     "publishedAt": "2026-10-14T04:55:30.443372Z"
+  },
+  {
+    "id": "2026-10-14T05",
+    "title": "THIS ZINE RUNS ON SPITE.",
+    "mood": "STUBBORN FRICTION",
+    "category": "PAPER ENERGY HARVESTING",
+    "image": "/images/2026-10-14t05-this-zine-runs-on-spite.png",
+    "alt": "Freckled copper-haired MODEL 01 walks through a tiled service tunnel while rubbing a handmade paper circuit zine with three small lights, wearing patched green and silver with small SLOPCORE lettering.",
+    "thought": "Even the pamphlet wants me to do the work.",
+    "caption": "Keep rubbing. Something might happen.",
+    "question": "What would you make work without a battery?",
+    "discovery": "The 2013 Paper Generators project by Disney Research and Carnegie Mellon researchers harvested energy from gestures applied to engineered paper-like materials. Touching, rubbing and sliding could power small effects such as LEDs and e-paper displays. This illuminated punk zine is an imagined adaptation, not a claim that ordinary printed paper generates useful power or a tested working device.",
+    "prompt": "Original SLOPCORE transmission, crisp natural photographic raw punk zine editorial, landscape1536x1024. Attached primary face reference for SAME fictional adult MODEL01 proportions dense natural freckles across cheeks nose almond eyes subtle eyeliner full lips tousled fully copper-ginger bob with deeper copper shadows; no black sections split dye. Identity consistent, expression varied.\nNew scene/action: MODEL01 walking through a cramped futuristic pedestrian service tunnel while furiously rubbing an engineered handmade folded zine between her hands to make three tiny LEDs on its paper cover light. One foot in front other trailing natural stride, torso hips aligned, no motion blur. She has stopped looking where she's going; tongue tip pressed into cheek, brow furrowed, irritated concentration directed at the stubborn paper. Candid inconvenient task in motion, not a posed workstation portrait. Three-quarter full-body frame shot from above a little too close using direct flash, slight crooked composition; main subject sharp.\nZine is hand-sized A5 folded stiff off-white paper, ugly black collage graphics and visible copper foil traces with small flat three amber/green LEDs and a sliding paper tab, a believable experimental paper generator prototype. Left hand simply supports spine at waist height, right open palm rubs tab on cover, naturally connected hands five fingers. Not magic ordinary paper, no floating data electricity sparks or giant energy metaphor. Tiny LEDs visibly lit but dim, no excessive glow. No illustration or diagram overlay.\nFashion: battered dark forest green oversized shirt/jacket with salvaged metallic silver patches and one asymmetric silver sleeve, black faded undershirt with exact small clearly legible white SLOPCORE wordmark (S L O P C O R E), baggy charcoal trousers one striped cloth knee repair, worn dark boots. One restrained orange four-point star patch on green chest. Copper hair flyaways sharp natural face freckles eyes skin clothing lettering.\nSetting: unglamorous pale turquoise glazed tunnel tiles partly replaced with dark panels, exposed cable trays and old network junction boxes, ugly red emergency light, chipped steel doors, narrow overhead glimpses of dense futuristic infrastructure. Photocopied paper scraps in pocket, a few unreadable torn flyers not slogans, hard flash with deep shadows pale early morning ambient at tunnel end, no generic neon skyline or glossy laboratory. Weird awkward punk spirit through situation, self-made imperfect materials and inconvenient framing. No cute novelties costume armor weapons extra stars global grain haze bloom blur.\nResearch inspiration 2013 Paper Generators harvested energy from touching/rubbing/sliding engineered paper-like materials to actuate LEDs or e-paper. Imagined punk zine extrapolation not actual lab hardware demonstration. Preserve plausible anatomy face identity, make action naturally odd and determined.",
+    "sources": [
+      {
+        "title": "Paper Generators: Harvesting Energy from Touching, Rubbing and Sliding (UIST 2013)",
+        "url": "https://la.disneyresearch.com/publication/paper-generators-harvesting-energy-from-touching-rubbing-and-sliding/"
+      }
+    ],
+    "publishedAt": "2026-10-14T05:04:47.439506Z"
   }
 ]
