@@ -3937,5 +3937,25 @@
       }
     ],
     "publishedAt": "2026-10-14T18:45:43.603767Z"
+  },
+  {
+    "id": "2026-10-14T19",
+    "title": "THESE ARE NOT HEADPHONES.",
+    "mood": "UNHELPFUL LISTENING",
+    "category": "RECORDED NOISE KEYS",
+    "image": "/images/2026-10-14t19-these-are-not-headphones.png",
+    "alt": "Copper-haired freckled MODEL 01 holds two black records beside her ears with a skeptical squint in a scratched industrial record corridor, wearing green, violet and silver with small SLOPCORE lettering and one orange four-point star.",
+    "thought": "The key used to take up shelf space.",
+    "caption": "A listening posture with absolutely no playback.",
+    "question": "Which digital thing would feel different if you had to carry it?",
+    "discovery": "The WWII SIGSALY secure-voice system used paired recordings of noise as cryptographic key material, played on precisely synchronized turntables. Records held about twelve minutes of key, and used key recordings were destroyed. This contemporary record-corridor scene is an imagined visual riff, not a historical reconstruction; the generated discs contain no verified keys, and no encrypted call or playback was performed.",
+    "prompt": "Original SLOPCORE transmission landscape1536x1024 crisp raw flash documentary photo, weird awkward punk cypherpunk underground record-exchange corridor in a dense futurecity. Primary attached reference identity only SAME fictional adultMODEL01 recognizable proportions, almond eyes subtle eyeliner dense natural freckles cheeksnose full lips, messy naturally fully copper-ginger bob realistic darker copper shadows no blacksplitdye.\nConcrete absurd situation: MODEL01 is standing in a narrow scuffed corridor holding TWO plain BLACK VINYL RECORDS upright at either SIDE of her head like utterly useless oversized earmuffs. One disc in each hand held by OUTER rim with normal relaxed fingers, discs parallel to sides of head and angled slightly outward so her entire recognizable FACE remains clearly visible between them. No disc covering face. Elbows naturally bent out beside ribs, arms relaxed plausible, no fused hands into records. Both discs have SMALL blank cream center labels and one centerhole; grooves clearly sharp realvinyl. These are ordinary unlabeled conceptual props, not a real cipher key. She has just stopped in midstep, one footforward, shoulders slightly hunched, squints one eye and scrunches nose in skeptical comic irritation, mouth slightlyopen as if 'these are not headphones'. Candid natural reaction not staged smile or glamdeadpan portrait. Fullbody oblique mediumwide low-ish camera, imperfect intrusive crooked zine frame.\nFashion worn dark forestgreen sleeveless canvas vest with one metallic SILVER asymmetric broad lapel and silver patchpocket over washed pale gray long sleeve Tshirt. Exact small white \"SLOPCORE\" wordmark spelled S L O P C O R E legible on vest chest unobstructed secondarysize. Loose faded muted-violet cargo trousers and scuffed heavy blackboots. Exactly ONE tiny orange FOUR-POINT diamond sparkle patch on upper vestpocket four points topbottomleftright concavesides no fivepoint nootherstars.\nSurroundings scratched red metal lockers, stacked battered recordcrates, plain old corded telephone resting on crate in background with receiver ON hook, black acousticfoam on walls, conduit runs, distant green utilitylamp and restrained cyan spill from elevated futuristic architecture visible at corridor exit, no neon postcard. A half-open record sleeve onfloor nottrippingfeet. No cuteprops giantmetaphors slogans big text monitors detectionboxes holograms weapons armor stagedgroups. Hard oncamera flash mixed ugly practicallight and deep shadows, crisp eyesfacefreckleshair clothvinylgrooves realistic anatomy exactlytwoarmslegs normalhands fulloriginalraster, no haze bloom blur heavygrain.\nResearch inspiration WWII SIGSALY secure voice system used paired recorded noise keys played in precise synchronization. This is a fictional contemporary punk visual riff about keys on records, not a historical reconstruction, not functioning cryptographic equipment, not musicrecording or claim realrecords hold keys. Preserve adult identity and fresh expression.",
+    "sources": [
+      {
+        "title": "NSA — The Start of the Digital Revolution: SIGSALY",
+        "url": "https://www.nsa.gov/Portals/70/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/sigsaly.pdf"
+      }
+    ],
+    "publishedAt": "2026-10-14T19:45:38.353076Z"
   }
 ]
