@@ -4349,5 +4349,29 @@
       }
     ],
     "publishedAt": "2026-10-15T20:28:47.210300Z"
+  },
+  {
+    "id": "2026-10-15T21",
+    "title": "THIS IS NOT COTTON CANDY.",
+    "mood": "FIBROUS AMUSEMENT",
+    "category": "ROTARY JET SPINNING",
+    "image": "/images/2026-10-15t21-this-is-not-cotton-candy.png",
+    "alt": "Freckled copper-haired MODEL 01 stands with one boot on an equipment case, lifting a wispy white fiber mat from a collection ring beside a guarded spinning apparatus labeled SLOPCORE. Her wine-red jacket has silver repairs and one orange four-point star.",
+    "thought": "Looks sweet. Behaves like laundry.",
+    "caption": "A collection problem with excellent drape.",
+    "question": "Which familiar machine would you give a completely different job?",
+    "discovery": "Harvard researchers reported rotary jet-spinning in 2010: rotating polymer solution jets stretch and form fine fiber structures, in a process compared to a cotton-candy machine. The resulting fiber mats are not food. This dry web, workshop and handling scene are imagined, not an actual experiment, operating method or verified apparatus.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE transmission, landscape raw-flash candid punk documentary photograph. The supplied image is only the facial identity reference for fictional adult MODEL 01: same recognizable facial proportions, almond eyes and subtle eyeliner, full lips, dense natural freckles across nose and cheeks, messy naturally fully copper-ginger bob with bangs and realistic darker copper shadows. No black split dye. New pose and expression, do not copy clothes or framing.\n\nConcrete awkward situation: the nanofiber collection web has snagged on her sleeve. In a cramped improvised materials-fabrication booth inside a future-city infrastructure market, MODEL 01 is STANDING WITH ONE BOOT on a low equipment case and the other planted on the floor, normal balanced posture. Her left elbow is raised comfortably outward at chest level, with a small wispy WHITE NONWOVEN FIBER WEB draped loosely between the outside of her sleeve and a handheld metal collection ring. She holds the ring low in her right hand; her left hand lightly pinches one loose edge to free her elbow. Keep anatomy simple: exactly two arms, natural fingers, clear connected shoulders and hips, realistic proportions, full body visible. She looks sideways down toward her own sleeve with a crooked embarrassed laugh and raised eyebrows, not a glamour expression or forced grin.\n\nMaterial must read as a thin DRY accumulated white microfiber/nanofiber mat, delicate semi-translucent nonwoven web with torn edges and many fine overlapping strands visible in aggregate, not candy, edible food, goo, a giant spiderweb, glowing energy, wrapping around her face or restraining her. Just one modest irregular sheet, about 40 cm across, loosely snagged across elbow. No exposed single nanoscale fibers exaggerated into huge ropes. She is not eating or tasting it.\n\nNext to her on a battered folding workbench is a compact stationary rotary jet-spinning apparatus: simple cylindrical stainless bowl collector, central small rotor reservoir behind a CLOSED clear cylindrical guard, motor base, modest control knob and wiring. It is currently stopped, with a separate spare collection ring resting on bench; no high voltage electrodes, sparks, visible chemical spray, recipe, operating instructions or huge lab console. Its small front maker plate reads EXACTLY \"SLOPCORE\" in modest clear black letters on a silver plate, spelled S-L-O-P-C-O-R-E, clearly legible and secondary to the scene. No other slogans or large text.\n\nFashion: faded dark wine-red cotton work jacket with a broad metallic SILVER repair across the outside of one sleeve and silver pocket flap, washed pale gray shirt, loose dark navy technical cargo trousers, scuffed off-white work boots. Exactly ONE small orange FOUR-POINT star patch on chest, four sharp cardinal rays with concave sides, no five-point or additional stars. Repaired contemporary technical street fashion, no costume armor, latex, sterile lab coat or novelty candy props.\n\nEnvironment: concrete market service bay with salvaged computing racks and industrial air filtration ducts, battered parts drawers, a distant dense city utility bridge beyond mesh window. Flat dirty yellow-green overhead fluorescent lighting and hard direct on-camera flash, muted blue shadow, no neon postcard. Lower side three-quarter documentary camera, asymmetrical composition, body and elbow snag and device all clear. Sharp natural texture in freckles eyes hair fabric web hands lettering metal and seams. Subtle analog character only, no global blur, haze, heavy grain, bloom, diagram arrows, holograms, REC overlay or staged group.\n\nResearch basis: Harvard researchers' 2010 rotary jet-spinning work used rotating polymer solution jets to form fine fiber structures, compared to a cotton-candy machine; the fibers are not candy. This dry sleeve snag and future booth are imagined, not an actual experiment, operating method, medical application or verified apparatus.",
+    "sources": [
+      {
+        "title": "Harvard Wyss Institute — Inspired by cotton candy, engineers put new spin on nanofibers (2010)",
+        "url": "https://wyss.harvard.edu/news/inspired-by-cotton-candy-engineers-put-new-spin-on-nanofibers/"
+      },
+      {
+        "title": "Nano Letters — Nanofiber Assembly by Rotary Jet-Spinning (2010)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3704151/"
+      }
+    ],
+    "publishedAt": "2026-10-15T21:25:31.113029Z"
   }
 ]
