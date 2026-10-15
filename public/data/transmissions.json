@@ -4129,5 +4129,25 @@
       }
     ],
     "publishedAt": "2026-10-15T09:47:05.395616Z"
+  },
+  {
+    "id": "2026-10-15T10",
+    "title": "ALL THAT FOR THIRTY LINES.",
+    "mood": "MECHANICAL SKEPTICISM",
+    "category": "NIPKOW DISC TELEVISION",
+    "image": "/images/2026-10-15t10-all-that-for-thirty-lines.png",
+    "alt": "Copper-haired, freckled MODEL 01 bends forward to tune a bulky homemade mechanical television with a tiny amber picture and a large spiral-aperture disc behind a clear cover. Her worn red overshirt has silver repairs, a small SLOPCORE patch and one orange four-point star.",
+    "thought": "The picture is tiny. The commitment is embarrassing.",
+    "caption": "A private screening with very public machinery.",
+    "question": "How much inconvenience would you accept for a picture you actually wanted?",
+    "discovery": "The Science Museum Group describes Baird's 1925–1926 television receiver as a disc with 30 spiral-arranged holes, synchronized with a transmitter's scanning disc. Incoming signals modulated a neon lamp's brightness. This scavenged future receiver and impatient screening are imagined; the image is not a working demonstration or an exact historical reconstruction.",
+    "prompt": "Use case: photorealistic-natural. Create an original SLOPCORE art transmission: an awkward punk pirate-TV screening in a cramped future-city repair-club passage. The supplied image is a reference for fictional adult MODEL 01's facial identity only: same recognizable facial proportions, almond-shaped eyes with subtle liner, full lips, dense natural freckles across nose and cheeks, tousled naturally fully copper-ginger bob with bangs and darker copper shadows. No black split dye. Do not copy the reference pose or clothes.\n\nConcrete scene: she is STANDING, feet apart, bent forward naturally at the hips toward the absurdly tiny portrait-format amber picture in a homemade mechanical television receiver perched on a steel milk-crate stand. Three-quarter side view showing her freckled face and both eyes as she squints sideways in incredulous concentration, lips slightly parted in a suppressed laugh. One hand rests on her own thigh to brace; the other lightly pinches a small tuning knob on the receiver. Both arms and legs clearly connected, relaxed realistic hands, coherent torso and hips. Keep her face legible, no extreme contortion.\n\nThe receiver is contemporary scavenged hardware inspired by Nipkow-disc television: a battered rectangular metal suitcase, large dark circular scanning disc with a single spiral of small apertures visible behind a clear protective cover, belt drive and small electric motor at its side, and a VERY SMALL vertical amber viewing window on its front with a crude striped human silhouette. It is bulky mechanical labor for a tiny picture, not a modern flatscreen. All moving parts enclosed. Tangled but believable low-voltage cabling runs to a separate worn audio amp. One other adult partly cropped in the distant doorway waits with crossed arms, understated candid impatience, no staged group.\n\nFashion: a worn raspberry-red short-sleeve work overshirt with irregular metallic silver repair panels over a washed black long-sleeve shirt, loose dark olive cargo trousers, heavy scuffed black boots. Small readable exact black wordmark \"SLOPCORE\" on a silver chest patch, secondary to the scene, spelled S-L-O-P-C-O-R-E. Exactly ONE small restrained orange FOUR-POINT star patch on the upper sleeve, a simple four-ray shape with four long tips; no other stars.\n\nWide landscape candid flash photograph, mildly off-center waist-height camera, whole standing body and machine in frame. Unromantic industrial passage, patched wall panels, battered cabling trays, a narrow window revealing dense futuristic elevated architecture. Harsh direct on-camera flash with sickly pale green overhead fluorescent light, deep brown shadows and a restrained magenta spill from doorway. Crisp natural photographic texture, sharp face, eyes, hair, fabric and lettering. Subtle analog broadcast feeling from hardware and tiny scanning lines only. Documentary editorial realism, strange social inconvenience, punk improvised fashion. No giant text, no slogans, no REC overlay, no global blur, heavy grain, glow, haze, cartoon props, fantasy armor or glamour pose. This is an imagined future reconstruction inspired by historical technology, not an actual experiment or exact museum replica.",
+    "sources": [
+      {
+        "title": "Science Museum Group — Experimental television receiver used by J. L. Baird, 1925–1926",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co34789/experimental-television-receiver-used-by-jl-baird-in-demonstration-at-royal-institution-1926-television-receiver"
+      }
+    ],
+    "publishedAt": "2026-10-15T12:00:45.512903Z"
   }
 ]
