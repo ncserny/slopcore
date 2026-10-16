@@ -4477,5 +4477,25 @@
       }
     ],
     "publishedAt": "2026-10-16T12:03:52.752357Z"
+  },
+  {
+    "id": "2026-10-16T13",
+    "title": "MY TAIL NEEDS ITS OWN TICKET.",
+    "mood": "APPENDAGE RESENTMENT",
+    "category": "WEARABLE ROBOTIC TAILS",
+    "image": "/images/2026-10-16t13-my-tail-needs-its-own-ticket.png",
+    "alt": "Copper-haired freckled MODEL 01 pauses sideways in a battered entry gate, looking back in disbelief at a segmented mechanical tail attached to her waist harness. Its controller reads SLOPCORE; her burgundy shirt has a silver shoulder panel and one small orange four-point star.",
+    "thought": "Extra mobility. Additional baggage.",
+    "caption": "An imagined gate dispute with a body extension.",
+    "question": "What would your extra appendage immediately get stuck in?",
+    "discovery": "Keio University's Arque project proposes an artificial biomimicry-inspired tail to alter the wearer's body momentum for assistive and haptic feedback applications. It was presented at SIGGRAPH 2019 Emerging Technologies. This gate obstruction and wearable design are imagined, not a photograph of Arque or a demonstration of its performance.",
+    "prompt": "Use case: photorealistic-natural. Asset type: original SLOPCORE transmission, landscape 1536x1024 candid flash editorial photograph. Input image is ONLY the primary fictional adult MODEL 01 face/identity reference; match her facial proportions, almond eyes and subtle eyeliner, dense natural freckles, full lips, tousled naturally fully copper-ginger bob with darker copper shadows. No black split dye. Do not copy reference pose, framing or outfit.\nScene: an improvised cypherpunk hardware exhibition in a concrete underground transit concourse, old cable trays overhead, a battered waist-high metal entry gate in foreground, dense futuristic elevated architecture glimpsed through the exit in cold gray daylight. One small cyan access panel, restrained magenta reflection, practical ambient light plus hard on-camera flash, no neon wash.\nConcrete awkward situation: MODEL 01 is trying to pass sideways through the narrow gate wearing an experimental mechanical tail attached by a clearly visible broad waist harness. The human has nearly passed but the long segmented robotic tail sticks out sideways and cannot fit. Tail made of pale gray articulated vertebral modules and dark flexible joints, approximately one meter long, attached clearly to the BACK of the waist harness over her clothes, curves horizontally toward the gate behind her. Visible thin pneumatic tubes alongside the modules, a compact belt controller; looks like eccentric research hardware, no fur or animal costume. Tail is a speculative design inspired by Arque wearable robotic tail research, not a replica or tested device.\nPose/framing: full body three-quarter side view from slightly low candid camera angle. Both feet firmly on ground, knees slightly bent, hips and shoulders naturally aligned; she pauses halfway through the gate, one palm braces the vertical gate frame, other hand rests at the belt buckle. She turns her head back toward the obstructing tail with an irritated incredulous half-laugh, slightly open mouth, eyebrows raised. Crisp recognizable face and natural hands. One adult attendant well behind the gate looks down at the mechanism, background only, no smiling staged group.\nFashion: faded burgundy oversized short-sleeve work shirt over cream long sleeve with a crinkled metallic silver shoulder panel, loose petrol-blue technical trousers, scuffed black lace-up boots. Exactly ONE small flat orange FOUR-POINT star patch on the near chest, four long tapered cardinal points, no five-point star and no extra stars.\nText verbatim: \"SLOPCORE\", spell S L O P C O R E, small but perfectly sharp and legible black block lettering on a pale rectangular label on the waist-mounted tail controller. Keep it secondary to the scene, not a headline. No other readable text or slogans.\nTexture: sharp freckles, eyes, ginger hair strands, fabric seams, metal joints and lettering at native resolution; slight analog tonal character only. Plausible anatomy, two arms and two legs, correct joints, realistic torso and hip alignment, no duplicated body parts. Clear uninterrupted connection of tail to waist harness, tail separate from legs. No haze, glow, heavy grain, global blur, cute props, fantasy armor, collage or motivational signs. Original awkward punk documentary fashion photograph.",
+    "sources": [
+      {
+        "title": "Keio University Graduate School of Media Design — Arque",
+        "url": "https://www.kmd.keio.ac.jp/realprojects/arque/"
+      }
+    ],
+    "publishedAt": "2026-10-16T13:07:03.552469Z"
   }
 ]
