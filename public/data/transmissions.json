@@ -4577,5 +4577,25 @@
         "url": "https://www.tesla.com/roadster"
       }
     ]
+  },
+  {
+    "id": "2026-10-16T14",
+    "title": "I SCRATCHED THE VOLUME.",
+    "mood": "ACCIDENTAL INPUT",
+    "category": "GOLD LEAF / ON-SKIN INTERFACES",
+    "image": "/images/2026-10-16t14-i-scratched-the-volume.png",
+    "alt": "Copper-haired freckled MODEL 01 leans against a tiled backstage wall with one boot braced behind her, touching gold-leaf pads on her forearm while wearing headphones. A small waist controller reads SLOPCORE; her blue and silver vest bears one orange four-point star.",
+    "thought": "An itch is now a user event.",
+    "caption": "An imagined music-control mishap on the stair landing.",
+    "question": "Which everyday gesture would you regret turning into a button?",
+    "discovery": "The 2016 DuoSkin project used gold leaf to prototype on-skin interfaces for touch input, output and wireless communication. Workshop participants customized on-skin music controllers. This stair-landing sound system, accidental input and wearable design are imagined, not an actual prototype photograph or performance test.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE transmission, landscape candid punk flash photograph. Reference image defines fictional adult MODEL 01's FACE ONLY: recognizable facial proportions, dense natural freckles across nose and cheeks, almond eyes with subtle eyeliner, full lips, tousled naturally fully copper-ginger bob and bangs with realistic darker copper shadows. New pose/outfit/scene; no black split dye.\nConcrete scene: backstage at an improvised underground encrypted-radio sound system, a narrow concrete stair landing beside patched speaker cabinets and old cable trays; an open doorway reveals layered futuristic urban service bridges in flat blue daylight. MODEL 01 leans one shoulder against a battered tiled wall, one boot planted flat on ground and the other bent leg with sole resting against wall. Both hips and shoulders naturally aligned. Show whole figure in a candid three-quarter camera view from slightly above, asymmetric composition. She wears a pair of battered wired over-ear headphones, one earcup pushed behind one ear. Looking down at her own inner forearm with an annoyed surprised half-laugh, one eye slightly narrowed. Her left elbow naturally bent, inner forearm turned upward at chest height. Her right index finger touches a small GOLD-LEAF temporary tattoo on the inner forearm: three flat metallic conductive geometric touch pads, simple ring-and-bar pattern approximately 7 cm long, thin and directly on intact skin, a tiny neat connector and fine flexible lead running to a pocket-sized music controller clipped to her waistband. Make it look like realistic delicate gold transfer foil, not glowing implanted circuitry, wound, jewelry bracelet or chunky prosthesis. Other right fingers relaxed naturally. The picture's joke is accidentally touching her own music control while adjusting the headphone, no captions needed. No bodily injury.\nFashion: faded dark cobalt sleeveless cropped utility vest with metallic SILVER repaired shoulder and pocket panels, ribbed charcoal sleeveless shirt, worn tobacco-brown loose cargo trousers, scuffed gray leather boots. Arms bare so tattoo clear, technical contemporary street fashion, no armor. Exactly ONE small restrained orange FOUR-POINT star patch on near chest with four sharp cardinal rays and concave sides, no five-point star or other stars. A small off-white maker plate on waistband controller reads exactly \"SLOPCORE\", spelled S L O P C O R E, crisp legible modest size secondary to scene. No slogans, overlays or other legible words.\nHard on-camera flash, dark crisp shadows, cool white utility light with one faint magenta light spill from adjacent stairwell. Keep skin pores eyes freckles hair hands foil edges fabric seams controller lettering tack sharp at native resolution; slight analog tonal character only, no heavy grain, haze, global blur or excessive bloom. Plausible arms fingers leg connections and natural body proportions. No crowd or console portrait.\nResearch: 2016 DuoSkin work used gold leaf to prototype on-skin interfaces including touch input, output and wireless communication; participants customized on-skin music controllers. This sound-system landing, accidental touch and particular wearable are imagined, not a prototype photograph, tested device or performance claim.",
+    "sources": [
+      {
+        "title": "Microsoft Research — DuoSkin: Rapidly Prototyping On-Skin User Interfaces Using Skin-Friendly Materials (2016)",
+        "url": "https://www.microsoft.com/en-us/research/publication/duoskin-rapidly-prototyping-skin-user-interfaces-using-skin-friendly-materials-2/"
+      }
+    ],
+    "publishedAt": "2026-10-16T14:13:06.244850Z"
   }
 ]
