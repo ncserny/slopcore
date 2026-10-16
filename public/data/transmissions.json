@@ -4417,5 +4417,25 @@
       }
     ],
     "publishedAt": "2026-10-15T23:56:40.196022Z"
+  },
+  {
+    "id": "2026-10-16T05",
+    "title": "THE PACKET HAS OTHER PLANS.",
+    "mood": "ROUTING DISAGREEMENT",
+    "category": "AVIAN CARRIER NETWORK HUMOR",
+    "image": "/images/2026-10-16t05-the-packet-has-other-plans.png",
+    "alt": "Freckled copper-haired MODEL 01 walks along a wet future-city rooftop with a gray pigeon perched on her copper bob, looking upward skeptically. She carries an open transport carrier and a paper datagram; her silver-patched parka has one orange four-point star and her shirt reads SLOPCORE.",
+    "thought": "It has declined my preferred destination.",
+    "caption": "Best effort. Extremely personal routing.",
+    "question": "Would you trust a network that can lose interest?",
+    "discovery": "RFC 1149, published on April 1, 1990, humorously imagines transmitting IP datagrams on avian carriers with paper datagrams. The RFC Editor classifies it as humor; it is not a recommended networking standard. This rooftop disagreement is imagined, not a documented delivery, working network or performance test.",
+    "prompt": "Use case: photorealistic-natural. Original SLOPCORE transmission, landscape hard-flash candid punk street photograph. Image 1 is a facial identity reference ONLY for fictional adult MODEL 01: recognizable same facial proportions, dense natural freckles across cheeks and nose, almond eyes with subtle eyeliner, full lips, naturally fully copper-ginger tousled bob with bangs and realistic darker copper shadows. No black split dye. New pose, setting, outfit and expression.\n\nConcrete awkward cypherpunk joke: the packet carrier has landed on the network operator. MODEL 01 is WALKING SLOWLY along a cramped future-city rooftop service walkway, interrupted mid-stride by ONE ordinary gray urban PIGEON calmly perched on top of her copper hair. Bird is real-life normal pigeon size and anatomy, gray feathers, dark wing bars, subtle iridescent neck, folded wings, pink feet lightly resting on hair, no injury or aggression, no cute cartoon pose or clothing. It has one small plain identification leg band, no heavy strapped cargo. Her face remains fully visible, identity and hair clearly recognizable under bird. She tilts her eyes upward toward the bird without an impossible neck bend, with a tight crooked skeptical half-smile and one eyebrow raised: quiet exasperation, not a staged grin.\n\nShe carries a battered lightweight small OPEN pigeon transport carrier under her left arm, empty inside, holding its built-in handle naturally; right hand holds a narrow loose paper strip with tiny unreadable black hexadecimal-like marks at chest level. The paper is not attached to the bird. Hands anatomically plausible, both legs and feet clearly connected, hips naturally aligned, no contorted walking pose. Full body visible, one foot forward on the wet walkway and rear heel slightly up. The bird is NOT a giant mascot or oversized metaphor: this is a candid inconvenient moment involving a normal pigeon, a tiny paper datagram and an impatient human.\n\nClothes: faded charcoal technical parka with metallic SILVER hood lining and one silver lower-pocket repair, washed desaturated blue T-shirt with a SMALL exact black \"SLOPCORE\" wordmark, spelled S-L-O-P-C-O-R-E, clearly legible and secondary size. Loose olive-brown cargo trousers, scuffed black work boots. Exactly ONE restrained small orange FOUR-POINT star patch on parka upper sleeve, four sharp cardinal rays with concave sides, no five-point star or additional stars. Worn contemporary technical street clothing, no costume, armor or novelty props.\n\nContext: wet narrow rooftop walkway beside salvaged network cabinets and dense cable bundles, tall layered apartment architecture, improvised aerials and overhead service bridges, gray early morning sky. No city-name signs, no slogans, no futuristic holograms or generic neon postcard. Hard close on-camera flash with cold gray-blue daylight, deep natural shadows, subtle muted magenta distant window only. Waist-height three-quarter candid framing from someone walking alongside, slight documentary asymmetry. Crisp natural texture in face eyes freckles hair feathers clothing hands lettering and wet steel. Only subtle analog character, no global blur, heavy grain, haze, excessive bloom, REC overlays, staged smiling group or extra birds.\n\nResearch inspiration: RFC 1149, published April 1, 1990, is a HUMOROUS experimental memo imagining IP datagrams on avian carriers using paper datagrams. This rooftop exchange is original fiction inspired by that networking joke, not an actual working network, recommended standard, performance test, animal-handling guide or official affiliation.",
+    "sources": [
+      {
+        "title": "RFC Editor — RFC 1149: A Standard for the Transmission of IP Datagrams on Avian Carriers (1990)",
+        "url": "https://www.rfc-editor.org/rfc/rfc1149"
+      }
+    ],
+    "publishedAt": "2026-10-16T09:50:02.596687Z"
   }
 ]
