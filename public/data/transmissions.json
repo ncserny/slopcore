@@ -4705,5 +4705,29 @@
       }
     ],
     "publishedAt": "2026-10-16T21:21:33.726530Z"
+  },
+  {
+    "id": "2026-10-16T22",
+    "title": "THE TIDE KEPT MY LACES.",
+    "mood": "SHORELINE FATIGUE",
+    "category": "ENVIRONMENT / SARGASSUM",
+    "image": "/images/2026-10-16t22-the-tide-kept-my-laces.png",
+    "alt": "Copper-haired, freckled MODEL 01 sits on a depot bench pulling branching brown seaweed from her boot hooks with yellow work gloves. Invented coworkers sort seaweed behind her. Her worn smock has silver pockets, a small SLOPCORE label and one orange four-point star.",
+    "thought": "The shift ended. The seaweed disagreed.",
+    "caption": "AI-generated fiction inspired by fresh reporting on Atlantic sargassum blooms: an invented harbor depot, invented workers and a stubborn bootful of seaweed.",
+    "question": "What part of a job follows you home?",
+    "discovery": "Science Friday's October 16, 2026 episode listing highlights Atlantic sargassum blooms and accumulation on coastlines from West Africa to the Caribbean. This is fresh coverage of an ongoing phenomenon, not a claim that a new bloom began today. For background, NASA's July 29, 2026 report describes near-record Great Atlantic Sargassum Belt abundance in June. The maintenance depot, workers and boot-cleaning moment pictured here are entirely invented, with no actual attendance or organizational affiliation. The image does not document a real cleanup or establish that collection resolves the ecological problem. Only textual reporting and the authorized fictional MODEL 01 face reference informed this original image.",
+    "prompt": "Use case: photorealistic-natural. Make an original landscape SLOPCORE candid flash photograph. ONLY reference is authorized fictional adult MODEL 01's facial identity: same facial proportions, dense natural freckles across cheeks and nose, almond eyes with subtle eyeliner, full lips, natural copper-ginger bob with tousled bangs and darker copper shadows, fully ginger not split dye. All other faces, venue and composition are invented, unrelated to real news photographs or real people.\nConcrete awkward scene: a fictional coastal maintenance depot after a seaweed collection shift, open-sided corrugated shelter beside a gray harbor. MODEL 01 is SITTING sideways on the edge of a low sturdy wooden bench, both knees naturally bent and both boots visible. One boot stays on the wet concrete, the other foot is raised just a little and rests on an overturned gray bucket. She leans forward slightly with elbows naturally in front, using one yellow work-gloved hand to pull a small stubborn branching strand of brown sargassum seaweed out of that boot's metal lace hooks, other gloved hand steadying the boot tongue. No impossible bending, anatomical confusion or overlapping limbs. Face lifted towards someone to camera left, visible three-quarter view, fatigued skeptical expression with lips pressed in a lopsided almost-smile, candid and absorbed.\nOne invented adult coworker with a shaved head, broad nose, dark skin, and faded blue waterproof overalls stands several feet behind emptying a small hand rake over a plain wheeled bin with a loose layer of brown seaweed. No celebrity resemblance, no actual organization's uniform. Another invented adult woman in a plain gray raincoat wheels an empty cart out of the shelter in background, original face unimportant.\nMODEL 01 outfit: worn brick-red long-sleeve top under a dark slate sleeveless utility smock with broad metallic SILVER reinforced pockets, black work trousers, scuffed tall charcoal lace-up boots. A modest clearly legible small white rectangular pocket patch reads exact black \"SLOPCORE\", spelled S L O P C O R E. Exactly ONE restrained small orange FOUR-POINT star patch on upper chest, four cardinal rays with concave edges, no extra stars and no five-point star.\nScene details: shallow puddles, ordinary hose coiled along wall, perforated sorting trays, two gray wheeled bins, scattered strands of brown branching sargassum with small beadlike air bladders and small leaves, not giant kelp ribbons or alien tentacles. Practical plausible seaweed volume, no enormous pile, no cartoon creatures. Original modest harbor buildings beyond, flat pale overcast light and cold blue-gray water, low utilitarian white lamps. Hard direct camera flash on face copper hair silver pockets wet boot and glove texture. Documentary street-fashion framing from slightly above seated eye level, whole bench and her complete legs in frame. Crisp sharp face eyes hands seams lettering and believable anatomy. Subtle analog tonal texture only, no grain blanket, blur, haze, bloom or REC overlay. No real logo, brand, celebrity, copyrighted artwork or named venue. No text besides SLOPCORE.\nInspiration only: fresh October 16 science-radio coverage discusses Atlantic sargassum blooms and shoreline accumulation. This invented depot, cleanup, supporting people and boot mishap are AI-generated fiction; not a depiction of a real cleanup, an actual news scene, or a claim that collection solves the ecological problem. Do not copy or recreate any third-party photo.",
+    "sources": [
+      {
+        "title": "Science Friday — October 16, 2026 episode listing: Atlantic sargassum coverage",
+        "url": "https://www.sciencefriday.com/episodes/october-16-2026/"
+      },
+      {
+        "title": "NASA Earth Observatory — Sizing Up the Sargassum Belt (July 29, 2026 background)",
+        "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/"
+      }
+    ],
+    "publishedAt": "2026-10-16T22:22:14.959611Z"
   }
 ]
