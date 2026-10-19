@@ -5361,5 +5361,29 @@
         "url": "https://www.atptour.com/en/tournaments/almaty/9410/overview"
       }
     ]
+  },
+  {
+    "id": "2026-10-19T09",
+    "publishedAt": "2026-10-19T09:29:15.461459Z",
+    "title": "THE LIGHT FORGOT TO REPEAT.",
+    "mood": "SPECTRAL WANDERING",
+    "category": "APERIODIC DAYDREAMS",
+    "image": "/images/2026-10-19t09-the-light-forgot-to-repeat.png",
+    "alt": "MODEL 01 reclines on a chrome slab and studies rainbow light on her palm amid an irregular black-and-ivory mosaic plain, mirrored towers and impossible spectral ribbons. SLOPCORE is legible on a small plate.",
+    "thought": "Same light. A different way through.",
+    "caption": "AI-generated surreal fiction inspired by current discussion of aperiodic geometry and earlier optics research. MODEL 01 catches colour in an invented prism landscape; this is no scientific reconstruction or exact tiling.",
+    "question": "Where would you go if nothing repeated?",
+    "discovery": "Maynooth University advertised an Aperiodic Monotiles and LLMs lecture for 15 October 2026, with a further seminar listed for 19 October. The page has no publication date; checked on 19 October, it is an announcement rather than proof of attendance or completion. Separately, a Nature Communications paper published on 29 July 2026 investigates chiral diffraction from aperiodic monotile structures. These dated sources inspired the loose pairing of nonrepetition and light. The mosaic, towers, floating prisms and solid rainbow ribbons are invented, not a reproduced tile construction, experimental image, mathematical proof or actual artwork.",
+    "prompt": "Create a wholly original SLOPCORE surreal photographic fashion artwork landscape 1536x1024. Attached authorized fictional adult MODEL 01 is facial and hair identity reference ONLY: same recognizable facial proportions, dense natural freckles cheeks nose, almond eyes subtle eyeliner, full lips and naturally fully copper-ginger tousled bob and bangs with darker copper shadows. Original impossible open landscape: an endless black-and-ivory irregular geometric stone mosaic plain beneath an icy pale blue sky. Its nonrepeating polygon shapes rise at the horizon into colossal faceted mirrored towers and levitating transparent glass prisms, unlike any actual artist installation. Giant sharply defined ribbons of refracted rainbow light twist through the air between prisms as solid sculptural helices, casting precise coloured shadows onto the monochrome mosaic. Refraction and hard-edged light, no fog or glow; believable chrome, optical glass, scuffed black stone and ivory limestone. MODEL 01 lies relaxed on her side atop a broad low polished chrome slab in foreground, propped comfortably on one elbow with torso naturally aligned with hips, both legs extending diagonally away with slight natural knee bends, boots resting on slab; other hand palm-up held in front of her face catching a narrow spectrum of light. She watches the colours on her palm with a quiet delighted grin and curious eyes, not a fashion pout. Full connected body naturally supported by slab, two arms two legs, plausible shoulders elbows wrists hips knees ankles and five-finger hands. Strong metallic silver lightweight bomber and silver loose trousers, dark worn boots. Exactly one small orange FOUR-POINT star patch on upper sleeve, four cardinal rays concave sides, no five-point or repeated stars. A small rectangular enamel label on near side of chrome slab reads exactly SLOPCORE, eight letters S L O P C O R E, clean crisp black uppercase on silver, modest and legible, secondary to scene. Camera low three-quarter from near head end, sharp face eyes freckles hair clothing folds and lettering, wide ambitious landscape behind her, no cloned model or face in mirrors. Bright hard directional sun with flash fill, crisp monochrome terrain punctuated by spectral colour, cool strange photographic materials with impossible physics. Not an actual scientific experiment or mathematical proof, no exact published tile pattern or diffraction image copied. No real people, logos, organisations, protected characters, news photographs or actual artwork, no onlookers, no other text. No grain global blur haze bloom; preserve native sharp detail.",
+    "sources": [
+      {
+        "title": "Maynooth University — Ian Dangerfield Lecture: Aperiodic Monotiles and LLMs, 15 October 2026",
+        "url": "https://www.maynoothuniversity.ie/news-events/ian-dangerfield-lecture-8"
+      },
+      {
+        "title": "Nature Communications — Chiral diffraction from aperiodic monotile structure (29 July 2026)",
+        "url": "https://doi.org/10.1038/s41467-026-75023-7"
+      }
+    ]
   }
 ]
