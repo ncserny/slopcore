@@ -6093,5 +6093,29 @@
         "url": "https://news.ufl.edu/2026/10/ice-shelf/"
       }
     ]
+  },
+  {
+    "id": "2026-10-22T13",
+    "publishedAt": "2026-10-22T13:58:05.340532Z",
+    "title": "THE DARK TOOK THE LONG WAY.",
+    "mood": "ONE STEP DEEPER",
+    "category": "NACRE UNDERGROUND",
+    "image": "/images/2026-10-22t13-the-dark-took-the-long-way.png",
+    "alt": "MODEL 01 descends a pearlescent spiral staircase in a silver coat above a teal underground lake, surrounded by colossal illuminated shell architecture and black stalactites.",
+    "thought": "Some places unfold only after the light runs out.",
+    "caption": "AI-generated surreal fiction inspired by renewed coverage of an eyeless cave snail: MODEL 01 descends an invented world of pearlescent spiral chambers.",
+    "question": "Would you keep following a staircase that curls out of sight?",
+    "discovery": "Renewed reporting on 20 October 2026 drew attention to Erhaia dijiang, a tiny eyeless freshwater cave snail described in Subterranean Biology on 29 May 2026. The initial field survey took place in August 2025; this is not a newly conducted October discovery. The research describes loss of eyes and a translucent shell in a cave-dwelling species. Only hidden cave life and translucence inspired this original scene. Its enormous nacre spirals are invented architecture, not enlarged replicas of the actual snail, its cone-shaped shell or its habitat. MODEL 01, the staircase and lake are wholly fictional, with no actual expedition, people, attendance or endorsement. No specimen photograph, cave photograph, research figure or news image was copied or used as an image input.",
+    "prompt": "Create a new original surreal SLOPCORE photographic artwork, landscape 1536x1024. Attached reference ONLY establishes authorized fictional adult MODEL 01 facial identity: recognizable proportions, dense natural freckles cheeks and nose, almond eyes with subtle eyeliner, full lips, tousled naturally copper-ginger bob with bangs and darker copper shadows. Adult same face, different expression/outfit/framing.\nScene: a vast dark onyx cavern containing a perfectly still deep teal underground lake. Colossal translucent pearlescent spiral shells form impossible habitable architecture suspended in open space, without any animal bodies. These are invented architectural spirals, not a known biological specimen. Thin shell walls reveal softly lit hollow chambers through cloudy nacre, with delicate opal pink and pale mint refractions. A broad staircase carved into the inner curve of the nearest shell descends toward a tiny black rock island. Fine chrome handrail follows the spiral. Distant enormous spiral chambers hover deep in the cavern among long black stone stalactites. No sky or sun, no ordinary room, no actual cave outline, no ice, no floating spheres, no chrome horns. Convincing scale and heavy tactile nacre surfaces with growth lines and tiny imperfections; realistic wet stone and dark water reflections.\nMODEL 01 foreground right, descending the broad shell staircase: one boot firmly on lower step, other supported on step above, naturally aligned hips/torso/knees/ankles. One hand lightly rests on chrome rail at hip height, the other grips the collar of her silver coat near chest. She looks down toward next step with alert concentration and slightly raised eyebrows, face in three-quarter view visible to camera. Strong metallic silver long raincoat with belt over black top and loose silver trousers, worn black boots. Copper bob catches a little side light. Plausible anatomy, two arms two legs, natural five-finger hands simple relaxed grips, no contortion or balance stunt. Full figure prominent, rail does not obscure her face or label.\nSmall flat black chest patch, exact clearly legible white sans-serif text \"SLOPCORE\", eight letters S L O P C O R E. Label modest secondary detail, at least 110px wide in image. Exactly ONE small orange FOUR-POINT star beside label: four cardinal tapered rays with concave sides, not five-point. No other text, logos, stars or symbols.\n35mm editorial photograph, camera slightly below and beside staircase, original composition looking across immense cavern. Hard photographic flash lights crisp face/freckles/eyes/hair/silver fabric seams, restrained diffuse pale green reflected light from shell interiors. Dark polished background, no haze, glow clouds, bloom, heavy grain, global blur or motion blur. Subtle analog color character only, native sharpness.\nWholly fictional dreamlike world loosely inspired by hidden life in caves and translucent shells, not a scientific reconstruction. No real people, celebrity likenesses, actual cave species, real locations, organizations, protected characters, copied third-party photographs, scientific figures, screenshots or existing artwork. No supporting people or lab consoles.",
+    "sources": [
+      {
+        "title": "Pensoft via ScienceDaily — Renewed coverage of an eyeless cave snail (20 October 2026)",
+        "url": "https://sciencedaily.com/releases/2026/10/261019093445.htm"
+      },
+      {
+        "title": "Subterranean Biology — A new eyeless species in Erhaiidae (29 May 2026)",
+        "url": "https://doi.org/10.3897/subtbiol.56.188075"
+      }
+    ]
   }
 ]
