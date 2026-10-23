@@ -6353,5 +6353,29 @@
         "url": "https://doi.org/10.3389/fetho.2026.1891633"
       }
     ]
+  },
+  {
+    "id": "2026-10-23T12",
+    "publishedAt": "2026-10-23T12:46:10.138031Z",
+    "title": "THE STAGE GREW A HORIZON.",
+    "mood": "HELD TOGETHER BY A THREAD",
+    "category": "CORRUGATED GEOGRAPHY",
+    "image": "/images/2026-10-23t12-the-stage-grew-a-horizon.png",
+    "alt": "Freckled copper-haired MODEL 01 kneels in a silver jumpsuit, holding a corner of red fabric amid monumental corrugated-cardboard mountains, inverted peaks and chrome braces above a pale jade plain. Her jumpsuit carries small exact SLOPCORE lettering and one orange four-point star.",
+    "thought": "Someone called it scenery. Then the wind got in, and it became a place.",
+    "caption": "AI-generated surreal fiction inspired by a current performance programme's use of everyday materials for theatrical worlds. MODEL 01 explores an entirely invented cardboard mountain range; no actual set, costume, artist or venue is depicted.",
+    "question": "What ordinary material would you build a world from?",
+    "discovery": "The New Museum's October 1 announcement schedules Alison Kuo's A flame latches to a bit of straw for October 22–24, 2026, including an October 23 evening performance. The museum describes sets and costumes made using materials sourced from nearby shops and streets. That broad fact sparked this original cardboard-and-cloth geography; it is not a reconstruction or interpretation of any specific set, costume or Cantonese opera design. The announcement predates the current performance dates, and this image implies no attendance, collaboration or affiliation.",
+    "prompt": "Create an original SLOPCORE surreal photographic artwork, landscape 1536x1024. Attached authorized fictional adult MODEL 01 is reference for identity only: retain her recognizable face, dense freckles across cheeks and nose, almond eyes and subtle eyeliner, full lips, tousled fully natural copper-ginger bob with bangs and dark copper shadows. No black hair sections. No recognizable real people, copyrighted characters, logos, or copied artwork.\n\nA completely original impossible landscape: gigantic mountains formed from folded thick unprinted corrugated brown cardboard, their ridges showing intricate open honeycomb-like corrugated cut edges. Dark chrome braces hold some peaks impossibly upside down above their matching valleys, leaving an open turquoise sky between them. Vast strips of deep crimson translucent fabric stretch horizontally between the mountain tips like a sea lifted into the air; one torn fabric edge curls upward with believable woven fibres. The floor is a dry pale jade mineral plain, with scattered smaller folded cardboard formations. Clear midday light, no haze or fog, ambitious scale, cinematic but crisp and physically textured. No literal stage, people in audience, actual opera costume, cultural motifs, calligraphy or existing set designs. This is invented geography from humble materials, not an artist's work or venue.\n\nMODEL 01 kneels on her right knee in the foreground on the broad cardboard edge of a low fold, left boot planted and left knee bent in front, coherent simple anatomy and balanced hips. She holds the loose corner of a small crimson cloth strip gently in her left hand at knee height while her right hand rests flat on her right thigh. She looks toward the lifted cloth with a delighted surprised small grin, natural eyebrows raised. Full figure from a slightly high three-quarter angle, large enough for crisp freckled face and hands. She wears a strong metallic silver tailored utility jumpsuit with high collar open over black shirt, rolled silver sleeves, reinforced knee panels, black lace-up boots, metallic seams and natural creases. Exactly ONE small orange FOUR-POINT star patch on upper sleeve, four cardinal tapered rays with concave sides, not five points. Small flat black chest tab reads exact SLOPCORE, eight sharp white uppercase letters S L O P C O R E, fully legible, modest and secondary. No other text.\n\nPhotographic material realism: natural skin, sharp eyes, individual ginger hairs, paper fibres, crushed corrugation, worn silver seams, chrome reflections and translucent woven cloth. Hard flash on model balanced with cool turquoise daylight and warm cardboard. Crisp native-resolution detail, deep focus, subtle analog colour character only. No heavy grain, blur, bloom, fog, REC overlays or fake movie titles. Plausible limbs, joints, proportions and hands. Wholly original fictional image sparked only by the general idea of local everyday materials becoming a theatrical world, without imitating any actual artist, performance, set, costume, photograph or cultural form.\n\nFinal image edit prompt:\nEdit only the extra small orange star patch on the raised-arm sleeve near image x=683 y=384: remove that extra patch and replace it seamlessly with matching plain metallic silver fabric creases. Keep the single orange four-point star on the viewer-left upper sleeve near x=310 y=470 intact. Exactly ONE orange four-point star total. Preserve the entire composition, face, copper hair, anatomy, pose, cardboard mountains, red fabric, daylight, full 1536x1024 resolution and exact legible small SLOPCORE chest label. No other changes.",
+    "sources": [
+      {
+        "title": "New Museum — October 1, 2026 performance announcement and materials context",
+        "url": "https://www.newmuseum.org/press-release/new-museum-to-premiere-performance-work-by-artist-in-residence-alison-kuo/"
+      },
+      {
+        "title": "New Museum — official performance dates, October 22–24, 2026",
+        "url": "https://www.newmuseum.org/event/10-22-2026/"
+      }
+    ]
   }
 ]
