@@ -6377,5 +6377,29 @@
         "url": "https://www.newmuseum.org/event/10-22-2026/"
       }
     ]
+  },
+  {
+    "id": "2026-10-23T13",
+    "publishedAt": "2026-10-23T13:42:30.553525Z",
+    "title": "I PUSHED FROM THE OTHER SIDE.",
+    "mood": "A DIFFERENT KIND OF RESISTANCE",
+    "category": "DIRECTIONAL GEOLOGY",
+    "image": "/images/2026-10-23t13-i-pushed-from-the-other-side.png",
+    "alt": "Copper-haired freckled MODEL 01 braces both hands against an emerald mineral block peeling into curved silver-edged plates. She wears silver clothes with small SLOPCORE lettering and one orange four-point star. Monumental cubes pour liquid chrome into basins across a plum desert under a pink sky.",
+    "thought": "It wasn't refusing to move. I had only asked it from one direction.",
+    "caption": "AI-generated surreal fiction inspired by fresh reporting on direction-dependent changes in compressed magnesium oxide. MODEL 01 tests an invented emerald-and-chrome landscape; the materials, scale and transformation pictured are completely imaginary.",
+    "question": "What would change if you approached it from another side?",
+    "discovery": "LLNL's October 22, 2026 release, carried by Phys.org on October 23, describes experiments showing that magnesium oxide can follow different structural transformation paths depending on the direction of shock compression. The work used extreme laboratory conditions and measurements of temperature, shock speed and X-ray diffraction; the release describes a multi-year investigation rather than a single experiment conducted today. These facts inspired only the question of direction. The emerald cubes, liquid chrome and hand-driven unfolding are fictional, not magnesium oxide behaviour at everyday pressure or a recreation of the laboratory's images.",
+    "prompt": "Original ambitious surreal photographic SLOPCORE artwork, landscape 1536x1024. Attached authorized fictional adult MODEL 01 image is for facial/hair identity only: same recognizable facial proportions, dense freckles cheeks and nose, almond eyes subtle eyeliner, full lips, tousled fully natural copper-ginger bob and bangs with darker copper shadows. No black split dye, no real people or existing artwork.\n\nA vast plum-coloured volcanic desert holds monumental dark emerald crystal cubes. Some remain sharp-edged solid blocks, while others split into hundreds of thin parallel emerald plates that peel sideways into graceful curved fans, their cut edges polished mirror silver. A few cubes pour a perfectly smooth ribbon of liquid chrome from one corner into dry circular basins below; no glow or explosion. Huge cube silhouettes hang at physically impossible angles over the horizon. Sky clear dusty pale pink with a narrow distant turquoise band. Dramatic low side light, textured ground, no clouds or fog. Rich convincing dense glassy mineral, thin polished metallic lamellae and heavy liquid metal, clear geometry and scale. Original imagined geology, not a scientific reconstruction or actual material photograph.\n\nMODEL 01 foreground left, full figure in a low side three-quarter editorial frame. She stands with both black boots firmly on flat ground, knees slightly flexed, feet staggered naturally. Both palms press flat against a waist-to-shoulder-height emerald block, arms extended but elbows softly bent, shoulders aligned naturally with hips, body leaning forward just enough to suggest testing resistance. The small block has started separating into thin silver-edged plates toward the right. She looks at her hands with a mischievous effortful grin and a slightly wrinkled nose, natural expression rather than forced glamour. Correct plausible limbs, five-finger hands with realistic palm contact, simple stable posture. She wears a substantial metallic silver cropped biker-style jacket with asymmetric zip over black top, wide silver technical cargo trousers, heavy black boots. Exactly ONE small orange FOUR-POINT star patch on viewer-visible upper sleeve, four cardinal pointed rays with concave sides, not five points; all other sleeves plain silver. Small flat black chest tab reads exact SLOPCORE, eight clearly legible white uppercase letters S L O P C O R E, modest size secondary to scene. No other letters, logos or people.\n\nHard flash on her sharp eyes, dense natural freckles, copper hair, silver cloth folds and hands. Deep focus native-resolution photographic detail in all important subjects, natural skin and physical fabric and chrome, subtle analog broadcast colour only. No global blur, heavy grain, haze, excessive bloom or REC overlay. Weird, dreamlike, cool and visually ambitious while anatomy stays normal. Wholly original fictional world inspired only by the abstract idea that direction changes material response, not a depiction of a laboratory, extreme-pressure experiment or verified scientific outcome.",
+    "sources": [
+      {
+        "title": "LLNL — orientation matters in shock-compressed magnesium oxide, October 22, 2026",
+        "url": "https://www.llnl.gov/article/55136/mineral-inside-planets-reveals-surprising-lesson-how-you-push-matters"
+      },
+      {
+        "title": "LLNL report via Phys.org — October 23, 2026 coverage",
+        "url": "https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html"
+      }
+    ]
   }
 ]
