@@ -6209,5 +6209,33 @@
         "url": "https://www.ox.ac.uk/news/2026-09-16-new-method-reveals-how-virus-particles-can-build-themselves-molecule-by-molecule"
       }
     ]
+  },
+  {
+    "id": "2026-10-23T01",
+    "publishedAt": "2026-10-23T07:00:11.462466Z",
+    "title": "THE SUN MISSED MY CONNECTION.",
+    "mood": "WAITING ON THE SKY",
+    "category": "SIGNAL DELAY",
+    "image": "/images/2026-10-23t01-the-sun-missed-my-connection.png",
+    "alt": "MODEL 01 walks across a wet black station platform in a silver raincoat carrying a black case, beneath auroras and impossible railway curves circling stone pillars above a forest.",
+    "thought": "The timetable forgot to ask the sun.",
+    "caption": "AI-generated surreal fiction inspired by renewed reporting on a historic solar-storm train delay: MODEL 01 waits for an invented railway to reconnect beneath an aurora.",
+    "question": "Where would you go if the sky controlled the timetable?",
+    "discovery": "ScienceDaily renewed coverage on 21 October 2026 of a historical space-weather investigation published in Space Weather on 16 September 2026. The study combined railway schedules, contemporary reports and magnetic records to argue that a telegraph-related train delay attributed to 18 October 1841 most likely occurred on 18 October 1848 instead; the railway did not open until 1846. The corrected event remains an early example of space weather affecting technology, rather than the earliest known example. This is a historical reassessment, not a present-day disruption or solar-storm forecast. Only the link between the sky and a delayed connection inspired this completely invented picture. MODEL 01, the train, suspended carriages, forest and station are fictional; no historical scene, real route, photograph, scientific figure or organizational logo was copied or supplied to generation.",
+    "prompt": "Create an original ambitious surreal SLOPCORE photographic artwork, landscape 1536x1024. Attached reference ONLY establishes authorized fictional adult MODEL 01 face: recognizable proportions, dense natural freckles nose cheeks, almond eyes subtle eyeliner, full lips, naturally copper-ginger tousled bob bangs darker copper shadows. New pose expression outfit and framing.\nAn impossible midnight railway above a vast black pine forest: narrow chrome rail bridges rise from forest canopy and braid into huge vertical curves around immense dark magnetic-looking stone pillars. A generic original silver passenger train is stopped beside a broad black-stone platform in foreground; only its front carriage quarter occupies left edge, no identifiable commercial train design or logos. Several farther carriages hang separated from one another by clean gaps in midair along the curving tracks, physically impossible but materially convincing. Above, crisp long ribbons of pale cyan and violet aurora cross a deep navy sky; light restrained not bloom. Forest and gigantic infrastructure dominate the vista. Wet black platform has precise reflections and tiny rain droplets, but clear air no rain blur/haze. No actual station, city, route, historical scene or real event.\nMODEL 01 prominent foreground right walks toward train, one boot planted and other stepping forward naturally. One hand carries a small plain black rectangular hard case at her side, other tucked in coat pocket. Her head turns back over shoulder naturally, not extreme twist, with tired amused disbelief, one eyebrow raised and lips in a small crooked smile. Torso and hips remain aligned, clear natural gait, two arms two legs normal hands five fingers, realistic shoulders/elbows/wrists/hips/knees/ankles. Strong metallic silver long belted raincoat over silver trousers and plain black top, worn black boots; hem caught by gentle wind. Copper bob freely visible, no hat.\nSmall exact white sans-serif \"SLOPCORE\" on black flat upper chest patch facing camera, eight letters S L O P C O R E clearly legible and modest secondary mark. Exactly ONE small orange FOUR-POINT star beside label, four cardinal tapered rays with concave sides, not five points. No other star decorations, text, signage, numbers or logos.\n35mm wide low editorial photography, original spatial composition, hard on-camera flash crisp face eyes freckles hair silver seams lettering wet basalt texture, deep cool ambient cyan/violet reflections. Sharp native detail, subtle analog broadcast color only; no grain overlays, global blur, excessive bloom, haze, fog, motion blur or contorted anatomy.\nWholly fictional dreamscape loosely inspired by historical research on solar activity interrupting railway telegraphs. No actual solar storm visualization, historic railway reenactment, specific route, real person celebrity likeness, organization logo, real train design, protected character, known artwork, copied third-party photograph, news rendering, screenshot or scientific figure. No other humans or ordinary workshop.",
+    "sources": [
+      {
+        "title": "ScienceDaily / RMIT University — Renewed historic train-delay coverage (21 October 2026)",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm"
+      },
+      {
+        "title": "Baylor University via EurekAlert — Historical space-weather investigation",
+        "url": "https://sciencesources.eurekalert.org/news-releases/1147083"
+      },
+      {
+        "title": "Space Weather — Historic train-delay reassessment (16 September 2026)",
+        "url": "https://doi.org/10.1029/2026SW005239"
+      }
+    ]
   }
 ]
