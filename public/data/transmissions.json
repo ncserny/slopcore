@@ -6257,5 +6257,29 @@
         "url": "https://www.sciencefriday.com/episodes/october-23-2026/"
       }
     ]
+  },
+  {
+    "id": "2026-10-23T08",
+    "publishedAt": "2026-10-23T08:34:13.639295Z",
+    "title": "I PULLED THE SEA CLOSER.",
+    "mood": "SOMETHING ABOVE ME",
+    "category": "VERTICAL NEIGHBOURS",
+    "image": "/images/2026-10-23t08-i-pulled-the-sea-closer.png",
+    "alt": "Copper-haired, freckled MODEL 01 reaches up to a tether beneath a huge floating glass bell containing turquoise water. Chains of chrome-rimmed bells stretch over a pink salt basin; her silver jacket bears a small SLOPCORE tab and one orange four-point star.",
+    "thought": "Same horizon. Different depths. I wondered who lived one floor above the sky.",
+    "caption": "AI-generated surreal fiction inspired by news of two newly described deep-sea siphonophores. MODEL 01 pulls a tether beneath an invented migration of water-filled glass chambers over a pink mineral basin.",
+    "question": "Which layer would you call home?",
+    "discovery": "An October 22 report supplied by MBARI highlighted Bargmannia marlena and B. pyrosa, described in a paper first published October 16, 2026. Researchers combined museum specimens, genomic data and underwater observations; the species' depth distributions suggest vertical niche partitioning despite geographic overlap. The news date is not the date the animals were collected. This completely invented glass-bell landscape borrows only the idea of neighbours separated by depth; it does not reproduce research imagery or depict the species.",
+    "prompt": "Create an original SLOPCORE surreal photographic art transmission, landscape 1536x1024. Use the attached authorized fictional adult MODEL 01 only as identity reference: same recognizable face, almond eyes with subtle eyeliner, full lips, dense natural freckles across cheeks and nose, tousled naturally copper-ginger bob with bangs and darker copper shadows. Fully ginger, no black split dye. Original invented world and composition, no other existing pictures, real people, logos or characters.\n\nA monumental migrating chain of hollow translucent smoked-glass bells floats through a vast dry pink mineral basin. Each bell is a building-sized open-bottom chamber with thin polished chrome rims; they connect through long taut dark filaments, arcing away into an indigo horizon at different heights. Some chambers contain calm horizontal layers of clear pale turquoise water, sharply bounded and suspended in air. These are impossible original architectural structures, not accurate animals, jellyfish illustrations or an actual location. Dark basalt stepping platforms and several tiny chrome pylons establish extraordinary scale. A low cold white sun lights the cut glass; subtle violet shadows, no haze. No stars in sky.\n\nMODEL 01 occupies the left foreground, full figure and large enough for detailed face, shot from slightly below eye level in a wide environmental editorial photograph. She stands on both boots on a low basalt block, rising onto the toes of one foot while reaching her right arm up to pull a thin black hanging tether attached to the nearest floating bell. Her left hand rests naturally on a waist-high chrome post. Natural coherent shoulders, elbows, hips, legs and hands; clearly connected limbs, simple believable balance. She gazes upward at the tether with raised eyebrows and a small surprised amused open-mouth reaction. Strong metallic silver high-collar sculptural jacket with natural worn creases, silver wide-leg trousers, black substantial boots, dark top. Exactly ONE restrained orange FOUR-POINT star patch on jacket: four cardinal tapered rays with concave sides, never five points. Small flat black chest tab reads exactly SLOPCORE in crisp white uppercase, eight letters S L O P C O R E, fully legible, modest size secondary to scenery. No other text or logos.\n\nConvincing high-end photographic materials, sharp eyes, individual copper hair, natural skin and freckles, detailed silver fabric, glass thickness/refraction and chrome edge highlights. Hard direct flash on model balanced with cold dawn landscape. Deep focus and crisp native-resolution detail throughout, extremely subtle analog colour character only. No global blur, bloom, heavy grain or fog. Visually ambitious, strange, cool, dreamlike and physically impossible, while MODEL 01 anatomy remains entirely plausible. Conceptual spark only: depth-separated niches in newly described siphonophores; do not depict or imitate any research photograph.",
+    "sources": [
+      {
+        "title": "MBARI report via Phys.org — two new deep-sea siphonophores, October 22, 2026",
+        "url": "https://phys.org/news/2026-10-dna-underwater-footage-reveal-species.html"
+      },
+      {
+        "title": "Original study — depth-structured diversification in Bargmannia, published October 16, 2026",
+        "url": "https://doi.org/10.1093/zoolinnean/zlag150"
+      }
+    ]
   }
 ]
