@@ -6305,5 +6305,29 @@
         "url": "https://rixc.org/en/home___/0/rixc-art-science-festival-2026-climate-imagination-announces-the-programme/"
       }
     ]
+  },
+  {
+    "id": "2026-10-23T10",
+    "publishedAt": "2026-10-23T10:41:24.679591Z",
+    "title": "I GAVE THE HORIZON MORE ROOM.",
+    "mood": "ONE STEP BETWEEN ISLANDS",
+    "category": "UNCERTAIN DISTANCES",
+    "image": "/images/2026-10-23t10-i-gave-the-horizon-more-room.png",
+    "alt": "Copper-haired, freckled MODEL 01 balances mid-stride on a chrome bridge between floating white crystalline islands over a black chasm. Oval openings reveal violet star fields behind the dark sky. Her silver long coat carries a small SLOPCORE label and one orange four-point star.",
+    "thought": "I could measure the next step. Everything after that was still a question.",
+    "caption": "AI-generated surreal fiction inspired by renewed reporting on a supernova distance catalogue. MODEL 01 crosses chrome bridges between invented crystalline islands; this is an imagined landscape, not a scientific rendering of dark energy.",
+    "question": "How far would you go before measuring again?",
+    "discovery": "ScienceDaily's October 22 coverage revisits the Unite supernova compilation. The original preprint was submitted September 4 and revised September 9, 2026; it combines 2,884 likely Type Ia supernovae from earlier surveys, rather than announcing thousands of new explosions that day. Combined with other cosmic measurements, its analysis finds hints of evolving dark energy, with only weak Bayesian preference; this is not an established detection of change. The fictional drifting islands and stretched bridges borrow only the idea of uncertain distances. No astronomical image or research figure was used as a visual reference.",
+    "prompt": "Original surreal photographic SLOPCORE art transmission, landscape 1536x1024. Use attached authorized fictional adult MODEL 01 for face/hair identity only. Same recognizable facial proportions, dense natural freckles nose and cheeks, almond eyes subtle eyeliner, full lips, tousled fully natural copper-ginger bob and bangs with darker copper shadows. No black split dye. Original invented world, no real people, existing artworks, astronomy photographs, logos or characters.\n\nA vast midnight-blue crystalline salt plain has separated into immense round islands of solid pearl-white rock. The islands hover at different distances over an utterly black chasm, linked by very narrow curved chrome bridges that have stretched into long graceful catenary spans. Some far bridges have visibly pulled apart leaving clean empty gaps. Huge oblique oval apertures in the sky reveal a brighter violet star field behind the dark blue sky, like the sky itself has layers moving apart. One distant intense white point of light illuminates the undersides of the floating terrain. No cloud staircases, no glass bells, no water. The land feels slowly drifting, spacious, beautiful and unnerving, not an exploding disaster. Convincing rough white mineral rock, chrome reflection and sharp crystalline grains. A subdued mint rim along the horizon. No glowing neon lines or labels.\n\nForeground right: MODEL 01 carefully walks along a wide safe section of the curved chrome footbridge, natural mid-stride one boot planted ahead and other toe lifting behind, arms held slightly out for balance, fingers relaxed. Her torso leans naturally into the step, shoulders and hips aligned, plausible knees, elbows and hands. She turns her face down toward her leading foot with a concentrated slight frown, not looking at camera. Full figure, three-quarter view, eye-level wide environmental framing. She wears a substantial metallic silver ankle-length sleeveless coat over a black long-sleeve technical top, metallic silver straight trousers and black lace-up platform boots; coat sides separate naturally with her stride. Exactly ONE small orange FOUR-POINT star patch on coat, four cardinal pointed rays with concave sides, not five points. Small flat black chest tab clearly reads exact SLOPCORE, eight crisp white uppercase letters S L O P C O R E, modest size, legible and secondary to scene. No other text or branding.\n\nStrong hard direct flash on face, ginger hair and clothing, cold night landscape, pinpoint stars, crisp skin texture and eyes, sharp lettering and metallic seams, subtle analog colour only. Native-resolution photographic detail, deep focus, no global blur, fog, grain, haze, excessive bloom or REC overlay. Ambitious dreamlike cosmic geography grounded in convincing materials. Scientific news is only a conceptual spark about measuring cosmic distances: this is wholly fictional and not a visualization of a measured cosmological result.",
+    "sources": [
+      {
+        "title": "ScienceDaily — renewed coverage of the Unite catalogue, October 22, 2026",
+        "url": "https://sciencedaily.com/releases/2026/10/261021231244.htm"
+      },
+      {
+        "title": "Original preprint — Supernovae Unite: Combining Pantheon+ and DES-SN5YR, September 2026",
+        "url": "https://arxiv.org/abs/2609.05053"
+      }
+    ]
   }
 ]
